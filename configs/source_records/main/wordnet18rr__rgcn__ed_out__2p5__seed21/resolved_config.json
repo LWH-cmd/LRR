@@ -1,0 +1,38 @@
+{
+  "architecture": {
+    "hidden_dim": 128,
+    "in_dim": 128,
+    "out_dim": 64,
+    "scorer": "DistMult"
+  },
+  "contract_id": "PHASE4C-ORIGINAL-RGCN-WN18RR-SEED42-v1",
+  "dataset": "WordNet18RR",
+  "optimizer": {
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "eps": 1e-08,
+    "lr": 0.001,
+    "name": "Adam",
+    "weight_decay": 0.0
+  },
+  "processed_path": "data/WordNet18RR/processed/data.pt",
+  "raw_path": "data/WordNet18RR/raw",
+  "seed": 21,
+  "selector": {
+    "direction": "maximize",
+    "metric": "validation_dt_aup",
+    "tie": "keep_earlier"
+  },
+  "training": {
+    "epochs": 2000,
+    "graphsaint_batch_size": 128,
+    "graphsaint_num_steps": 32,
+    "graphsaint_num_workers": 0,
+    "graphsaint_walk_length": 2,
+    "loss": "BCEWithLogits_raw_logits_mean",
+    "negative_sampler": "relation_wise_head_permutation_one_per_positive",
+    "valid_freq": 500
+  }
+}

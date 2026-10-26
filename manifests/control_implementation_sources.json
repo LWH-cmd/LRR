@@ -1,0 +1,102 @@
+[
+  {
+    "source": "framework/trainer/shared_objective.py",
+    "target": "reference_code/shared_objective.py",
+    "sha256": "aabf8702653406d7ebd2b6fc49ee41f27d4b923c3cb9a0e9e51a17a9dec327f9"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/gat_fullrank.py",
+    "target": "reference_code/runners/gat_fullrank.py",
+    "sha256": "c3274f007916f8a9a1eeb088652729bb61e0801bcd2e07c16400a6f61bd127ee"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/gcn_cora_2p5_fullrank.py",
+    "target": "reference_code/runners/gcn_cora_2p5_fullrank.py",
+    "sha256": "264ef7ac82e373458d7c552e2ed3c28a2c1d18654b3e67e6e29c0793c0cfc7a2"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/gcn_dblp_2p5_fullrank.py",
+    "target": "reference_code/runners/gcn_dblp_2p5_fullrank.py",
+    "sha256": "c50d8504e22dcde52be003947e3e09cf634341390c4fa6482c54e207ac1484fb"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/gcn_fullrank_common.py",
+    "target": "reference_code/runners/gcn_fullrank_common.py",
+    "sha256": "21e3852fa6b1c27ce9921e17b5aa351e8f2ad92b3ae004b656d24e0396273763"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/gcn_phase2e1_fullrank.py",
+    "target": "reference_code/runners/gcn_ratio_matrix_fullrank.py",
+    "sha256": "71f8cd6b2859b1347eeb7887775e213da64e917e1dbac1397cdf9f2bd37b65e2"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/gcn_phase2f_fullrank.py",
+    "target": "reference_code/runners/gcn_extended_matrix_fullrank.py",
+    "sha256": "5204061e025ab5050bca72061738dcb18c17b4ba6fe030e95fbf2281b6234d64"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/rgcn_crash_probe.py",
+    "target": "reference_code/runners/rgcn_crash_probe.py",
+    "sha256": "0ed2a2296904d79e8f67acda76bc68ffc0d1a087998c45bc54e5cc4394290864"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/rgcn_dense_pilot_common.py",
+    "target": "reference_code/runners/rgcn_dense_pilot_common.py",
+    "sha256": "c1f7be91401ea215a0afbf529852427907d0a8fa9389910e62b9075464495164"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/rgcn_direct_formal_loader_probe.py",
+    "target": "reference_code/runners/rgcn_direct_formal_loader_probe.py",
+    "sha256": "c0d591f6b0bb04d9d90a9dfe3c7b472d090c94af09477629bf93ef1ed2117707"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/rgcn_exact_fullrank.py",
+    "target": "reference_code/runners/rgcn_exact_fullrank.py",
+    "sha256": "e7125567416574d1c4e8591e42c1ca68df2ab028056dde1c7bc1777c538a6beb"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/rgcn_exact_order_loader_probe.py",
+    "target": "reference_code/runners/rgcn_exact_order_loader_probe.py",
+    "sha256": "8688360fc6194cfc64af9b9ea26d8726360814f6fbd9e7bea75d838490da7c7b"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/rgcn_final_common.py",
+    "target": "reference_code/runners/rgcn_final_common.py",
+    "sha256": "b109bd5250ff36cc005d29dc4f4f20a52188bbb8bd31928ef34b78ba2b08425b"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/rgcn_fullrank_order_isolation.py",
+    "target": "reference_code/runners/rgcn_fullrank_order_isolation.py",
+    "sha256": "4daa2486edc35ad940e2fbab7be6c496b3bef0fdd3c8118d5be207e190bcff76"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/rgcn_fullrank_proven_path_smoke.py",
+    "target": "reference_code/runners/rgcn_fullrank_proven_path_smoke.py",
+    "sha256": "ee119fcda791e7ae0f43a666130c5bd2f2e458eca06bad6affe84434f2ec144a"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/rgcn_selector_v2_fullrank.py",
+    "target": "reference_code/runners/rgcn_selector_v2_fullrank.py",
+    "sha256": "a8006b4e2ee7b08d9820fc512ddf1f9774779b1664e0eef1da95c54759dbe469"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/rgcn_success_canary_audit.py",
+    "target": "reference_code/runners/rgcn_success_canary_audit.py",
+    "sha256": "854b6d2f243b58de799b6bfcb3d170de1e537eefc4b93355ef8dbce744104a5b"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/src/variant_runner.py",
+    "target": "reference_code/spatial_ablation.py",
+    "sha256": "18f544d27474b2272251518e423a1b15ce75384f11cc72e5e2798580bab65578"
+  },
+  {
+    "source": "isolated_experiments/unified_ablation_gcn_cora_edin2p5_20260829/run_unified_ablation.py",
+    "target": "reference_code/formulation_ablation.py",
+    "sha256": "78ad09df537cc0eb1d29cf8d529e0d74be0fcc23c3a95b67398c0ea79d6a5e9f"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/run_single_seed_ablation.py",
+    "target": "reference_code/objective_sensitivity.py",
+    "sha256": "9257868a45444a3a28542b6105caed4f322cba435c957e78f605e667802b04c0"
+  }
+]

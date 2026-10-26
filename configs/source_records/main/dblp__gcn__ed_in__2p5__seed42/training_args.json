@@ -1,0 +1,19 @@
+{
+  "arm": "LRR-P2",
+  "canonical_dataset": "CitationFull",
+  "dataset": "DBLP",
+  "device": "cuda:0",
+  "epochs": 3000,
+  "exact_shared_teacher_target_cache": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase2a0_dblp_prepare_and_seed42\\artifacts\\teacher_targets\\teacher_targets.pt",
+  "experiment": "DBLP-GCN-EDIN-2.5-P2-COLD-TRANSFER-SEED42",
+  "in_dim": 1639,
+  "input_mode": "feature_matrix",
+  "learning_rate": 0.0003,
+  "num_nodes": 17716,
+  "optimizer": "torch.optim.Adam",
+  "profile_source_path": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase1b5_formal_p2_multiseed_3000_cora\\seed42\\lrr_p2\\resolved_training_profile.json",
+  "resume": false,
+  "seed": 42,
+  "validation_frequency": 100,
+  "weight_decay": 0.0
+}

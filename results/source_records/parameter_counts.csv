@@ -1,0 +1,4 @@
+Method,Full model parameters,Trainable parameters during unlearning,Additional request-specific parameters,Optimization required?,Scope note
+Retrain,1123264,1123264,Not counted; request/graph/sampler assets are outside the parameter count,Yes,Entire two-layer formal GCN is trainable; count recovered from current Cora GCN checkpoint/model shapes.
+GNNDelete,1123264,20480,Not counted; request/graph/sampler assets are outside the parameter count,Yes,Two deletion-weight matrices (128x128 and 64x64); native backbone/scorer frozen. Count is operator-scope evidence; formal paper-main endpoint identity is retained separately.
+LRR,1123264,20480,Not counted; request/graph/sampler assets are outside the parameter count,Yes,Current formal FullRank repair matrices W1/W2 (128x128 and 64x64); native backbone/scorer frozen.

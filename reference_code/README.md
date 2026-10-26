@@ -1,0 +1,3 @@
+# Native control implementation sources
+
+These unchanged source-bound files document the exact spatial, sensitivity and formulation-control implementations, alongside their native configuration/result records. Hashes are in `manifests/control_implementation_sources.json`. They retain historical source layout and path references and are not presented as an independently validated portable unified runner. The repository root provides the portable LRR training/evaluation interfaces; adapt native orchestration paths when reusing these source definitions. Historical precomputed files are excluded.

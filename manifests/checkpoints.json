@@ -1,0 +1,2548 @@
+[
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__0p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__0p5__seed100"
+    ],
+    "bytes": 4583097,
+    "sha256": "5da0181691f420fed94da7be0821595fdc4ba8140ed2775b9a8d330ed563c5ec",
+    "release_path": "checkpoints/main/cora__gat__ed_in__0p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__0p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__0p5__seed13"
+    ],
+    "bytes": 4583097,
+    "sha256": "bebea8020c9af2b73619964081a3abdeac02873476e9498a04af9986603e2845",
+    "release_path": "checkpoints/main/cora__gat__ed_in__0p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__0p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__0p5__seed21"
+    ],
+    "bytes": 4583097,
+    "sha256": "f05690b4c9a1d6c2cf8699cd5580ef6bb666990bc1945c40bfed86439b996a6d",
+    "release_path": "checkpoints/main/cora__gat__ed_in__0p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__0p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__0p5__seed42"
+    ],
+    "bytes": 4583097,
+    "sha256": "84da7bb1253803dcbb0e5a4461642bb9520a341a7caa69c287d653f7ac6a5848",
+    "release_path": "checkpoints/main/cora__gat__ed_in__0p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__0p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__0p5__seed87"
+    ],
+    "bytes": 4583097,
+    "sha256": "f5262e14f1572c16725dda7e1d2ae552f29e37b967cbef90eef251b69c13ee40",
+    "release_path": "checkpoints/main/cora__gat__ed_in__0p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__2p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__2p5__seed100"
+    ],
+    "bytes": 4583097,
+    "sha256": "912a7b4d2505cc564dee3322cf20fdaf5559a62d5a85bd3df60a88e93aa89807",
+    "release_path": "checkpoints/main/cora__gat__ed_in__2p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__2p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__2p5__seed13"
+    ],
+    "bytes": 4583097,
+    "sha256": "26d25bcd9ca14f676ebb210ada8287593ec6db9f7adfa6182c175bb10396e2db",
+    "release_path": "checkpoints/main/cora__gat__ed_in__2p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__2p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__2p5__seed21"
+    ],
+    "bytes": 4583097,
+    "sha256": "e68054b0354ddaa06303ca1eb0cfc7c09efa3297ee6cba5a1e4d92fec4ea5824",
+    "release_path": "checkpoints/main/cora__gat__ed_in__2p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__2p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__2p5__seed42"
+    ],
+    "bytes": 4583097,
+    "sha256": "f8bda39c3a2470c78e088885566fa5ea63e2ef7378c92581394c6c4a3ae9bf03",
+    "release_path": "checkpoints/main/cora__gat__ed_in__2p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__2p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__2p5__seed87"
+    ],
+    "bytes": 4583097,
+    "sha256": "219333697319dd8ecdf40a85c05d8bfb259c3031cf65db72e3d053c686168f45",
+    "release_path": "checkpoints/main/cora__gat__ed_in__2p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__5p0__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__5p0__seed100"
+    ],
+    "bytes": 4583097,
+    "sha256": "f67f17f8fea582a2f2dcb068ce58e5ea04790d349a08a3b06a5ea63c56846c20",
+    "release_path": "checkpoints/main/cora__gat__ed_in__5p0__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__5p0__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__5p0__seed13"
+    ],
+    "bytes": 4583097,
+    "sha256": "f1fa9f4cb9aeb8e1b1749a920a64d417516cfd4dd00fcdbf442c71fdb998ba82",
+    "release_path": "checkpoints/main/cora__gat__ed_in__5p0__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__5p0__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__5p0__seed21"
+    ],
+    "bytes": 4583097,
+    "sha256": "b9977ad50b3797d35c3df101638745ef8cd0746e413acbdbd9bb25a8d5aa8408",
+    "release_path": "checkpoints/main/cora__gat__ed_in__5p0__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__5p0__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__5p0__seed42"
+    ],
+    "bytes": 4583097,
+    "sha256": "2879725aae234a70bc9a5a9cc0fac78d5c2cd93f5c5388f34a32f28e71a5dc76",
+    "release_path": "checkpoints/main/cora__gat__ed_in__5p0__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_in__5p0__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_in__5p0__seed87"
+    ],
+    "bytes": 4583097,
+    "sha256": "1e9b3864c316393a1799bb30a5f031adc6cd30ead225452e51f21785f42cf150",
+    "release_path": "checkpoints/main/cora__gat__ed_in__5p0__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__0p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__0p5__seed100"
+    ],
+    "bytes": 4583097,
+    "sha256": "22646c441ec7fd26099693e3d4007e664d62450ec75a15724572a0a075395aaf",
+    "release_path": "checkpoints/main/cora__gat__ed_out__0p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__0p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__0p5__seed13"
+    ],
+    "bytes": 4583097,
+    "sha256": "6ff09a286e4a4cb7a26435331e97a3be06ddc2c943d6332874c62b4b94bc6065",
+    "release_path": "checkpoints/main/cora__gat__ed_out__0p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__0p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__0p5__seed21"
+    ],
+    "bytes": 4583097,
+    "sha256": "74c5ff62f90428b7be1d02050989c9c6d75eec9d29bf1dc26b15b49c589dc67c",
+    "release_path": "checkpoints/main/cora__gat__ed_out__0p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__0p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__0p5__seed42"
+    ],
+    "bytes": 4583097,
+    "sha256": "954ff5e6f5934f5c17edc233239eb4d40b87d475687f6c7292d09830b4026bf1",
+    "release_path": "checkpoints/main/cora__gat__ed_out__0p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__0p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__0p5__seed87"
+    ],
+    "bytes": 4583097,
+    "sha256": "188faf6f0067ba649336e0644cc162d0f5e46dd29eeb3784f24327a1a84128b8",
+    "release_path": "checkpoints/main/cora__gat__ed_out__0p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__2p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__2p5__seed100"
+    ],
+    "bytes": 4583097,
+    "sha256": "b1dffb13cbcd0e0afb6688834c4d446666d6ced353debf39f06a6d84c3738a08",
+    "release_path": "checkpoints/main/cora__gat__ed_out__2p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__2p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__2p5__seed13"
+    ],
+    "bytes": 4583097,
+    "sha256": "075983eb2670e6b83e72fb77ff3c089df1115877493a1887cf0589539243692b",
+    "release_path": "checkpoints/main/cora__gat__ed_out__2p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__2p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__2p5__seed21"
+    ],
+    "bytes": 4583097,
+    "sha256": "0abddf65e0e5d4b2b1d3bf45f1281ac842bc2f5f5dce1ff5ada696fd4fb4a9c4",
+    "release_path": "checkpoints/main/cora__gat__ed_out__2p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__2p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__2p5__seed42"
+    ],
+    "bytes": 4583097,
+    "sha256": "b42ba5e675c06d444893f9a45761b11e58eee3dd24bc556a8c939031937bd5e3",
+    "release_path": "checkpoints/main/cora__gat__ed_out__2p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__2p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__2p5__seed87"
+    ],
+    "bytes": 4583097,
+    "sha256": "d47873d932e4f16b9a442107b9dbae2eb2cfee7bb88767230a55f036e14e7398",
+    "release_path": "checkpoints/main/cora__gat__ed_out__2p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__5p0__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__5p0__seed100"
+    ],
+    "bytes": 4583097,
+    "sha256": "cf5c2f8d1b09b66e464f756c84a39770e6de580048059b5c98a1ba927496c0cf",
+    "release_path": "checkpoints/main/cora__gat__ed_out__5p0__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__5p0__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__5p0__seed13"
+    ],
+    "bytes": 4583097,
+    "sha256": "7a570be5d0b608d6bf65a3333bc38591cf027abf288537be54fef7b996292053",
+    "release_path": "checkpoints/main/cora__gat__ed_out__5p0__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__5p0__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__5p0__seed21"
+    ],
+    "bytes": 4583097,
+    "sha256": "4b386818a78ec38b84f4c4d7f2abf4e1ab9eb1d0e064ed9320b803651081e9fb",
+    "release_path": "checkpoints/main/cora__gat__ed_out__5p0__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__5p0__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__5p0__seed42"
+    ],
+    "bytes": 4583097,
+    "sha256": "6aac47e590951524d99dfd081e7d5c24f11d2cf2547b97cfb3d2322bd97bff7e",
+    "release_path": "checkpoints/main/cora__gat__ed_out__5p0__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gat__ed_out__5p0__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gat__ed_out__5p0__seed87"
+    ],
+    "bytes": 4583097,
+    "sha256": "a818a0baa5b08438196c3fc3c6b60721e860e4ab98129fcedef068607824a171",
+    "release_path": "checkpoints/main/cora__gat__ed_out__5p0__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__0p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__0p5__seed100"
+    ],
+    "bytes": 4745277,
+    "sha256": "c1134e9811239300117467d5559e3dc432908ce3bd388120bd7dd9705f7937bd",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__0p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__0p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__0p5__seed13"
+    ],
+    "bytes": 4745277,
+    "sha256": "c807f71e623fdcf275e7942eec8108c890af8e2639ae4d5a17a1482432c82ba3",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__0p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__0p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__0p5__seed21"
+    ],
+    "bytes": 4745277,
+    "sha256": "8ca957f36e465c3415fecfa4e1426e6c27c8a0504e645f92f6fd61ee440fb880",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__0p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__0p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__0p5__seed42"
+    ],
+    "bytes": 4745277,
+    "sha256": "2b5cbe3e932c9af90efa34a0e0411f2d822101d4977cefd66cbf862ddf219183",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__0p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__0p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__0p5__seed87"
+    ],
+    "bytes": 4745277,
+    "sha256": "c483507e433aafefc5ea72c55efb2ab7c55c9570276b99841e9ef840d36be997",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__0p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__2p5__seed100/checkpoints/validation_epoch_2999.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__2p5__seed100",
+      "spatial:MAIN_GRADED:seed100",
+      "formulation:B:seed100"
+    ],
+    "bytes": 4750203,
+    "sha256": "a0050824e5d400aebf79de6eaaec95d61329e36103eda6b0d29a6ec2cd79f701",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__2p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__2p5__seed13/checkpoints/validation_epoch_2999.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__2p5__seed13",
+      "spatial:MAIN_GRADED:seed13",
+      "formulation:B:seed13"
+    ],
+    "bytes": 4750203,
+    "sha256": "64fa78b18c31f79f625501758e8241a7876f3296a0313e01797e3237006a0db3",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__2p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__2p5__seed21/checkpoints/validation_epoch_2999.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__2p5__seed21",
+      "spatial:MAIN_GRADED:seed21",
+      "formulation:B:seed21"
+    ],
+    "bytes": 4750203,
+    "sha256": "5d6254c318e07cd04b4496867708036b6b6337433bd77e97277fba1c84a12eff",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__2p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__2p5__seed42/checkpoints/validation_epoch_2799.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__2p5__seed42",
+      "spatial:MAIN_GRADED:seed42",
+      "sensitivity_or_convergence:default_formal_seed42",
+      "formulation:B:seed42"
+    ],
+    "bytes": 4750203,
+    "sha256": "fbe304c3ed3bbd867f7a31110229b59894a9c7a5ab2bb79a13c3eeef6a9d4794",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__2p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__2p5__seed87/checkpoints/validation_epoch_2999.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__2p5__seed87",
+      "spatial:MAIN_GRADED:seed87",
+      "formulation:B:seed87"
+    ],
+    "bytes": 4750203,
+    "sha256": "86217aa42ca2c9f65b6135edbe7d803b75bcfe07bd3c7d5040902c3bdad9760a",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__2p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__5p0__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__5p0__seed100"
+    ],
+    "bytes": 4745277,
+    "sha256": "d6954d402ecf120301ee0965e63d478af19a045e805bb4ad2141d6b9de35f134",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__5p0__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__5p0__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__5p0__seed13"
+    ],
+    "bytes": 4745277,
+    "sha256": "659a58a02a8155136c22be266f567bdb87a17d3e1fba985e2761604de8540b74",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__5p0__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__5p0__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__5p0__seed21"
+    ],
+    "bytes": 4745277,
+    "sha256": "6bf40977bcbbeb1e8f24059954ab862250d68d6d06b335ca5e0e8c5eaeaa9db8",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__5p0__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__5p0__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__5p0__seed42"
+    ],
+    "bytes": 4745277,
+    "sha256": "11bf99713903c34af40fb7ec3b37d52cb725e59173c15bfebb4c35d2b1123109",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__5p0__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_in__5p0__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_in__5p0__seed87"
+    ],
+    "bytes": 4745277,
+    "sha256": "098f226262d41764309a0d3c9ee8f698670c3225bcec30eb4ea552f66fb36448",
+    "release_path": "checkpoints/main/cora__gcn__ed_in__5p0__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__0p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__0p5__seed100"
+    ],
+    "bytes": 4745277,
+    "sha256": "489c76095eac1b4c5c2647d39c00fd58e023ec8c66fcf23892bed09515dbd4b3",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__0p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__0p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__0p5__seed13"
+    ],
+    "bytes": 4745277,
+    "sha256": "fef9ae274e012eabf5d43eaa403cdb9c7f9648932e9cff1f567f8c0515dce107",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__0p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__0p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__0p5__seed21"
+    ],
+    "bytes": 4745277,
+    "sha256": "e4d580dd334032641233c23ef12367adffbd9cb549868d512967e4e20ff42d23",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__0p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__0p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__0p5__seed42"
+    ],
+    "bytes": 4745277,
+    "sha256": "77495ab9f869517eb26337394fb179f30ed3092f78d8ddf995f12be87385de18",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__0p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__0p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__0p5__seed87"
+    ],
+    "bytes": 4745277,
+    "sha256": "ed8487c859a367bcdb70023d17fa6f2fefd8ec6c613245ee2feccfaf8bbc2d20",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__0p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__2p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__2p5__seed100"
+    ],
+    "bytes": 4745277,
+    "sha256": "2574461f74f310b7c51806457877e817fdf17862c2a041751bf0956cde7a3202",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__2p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__2p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__2p5__seed13"
+    ],
+    "bytes": 4745277,
+    "sha256": "3af96d16682eb60821a3b9024b461bd3228a35c937c07a0f313257e9cd1b1492",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__2p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__2p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__2p5__seed21"
+    ],
+    "bytes": 4745277,
+    "sha256": "4297d2170ff54a8ad33cb17b4f6c31c0811a6059b9fba2d1345ac178c9aefe03",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__2p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__2p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__2p5__seed42"
+    ],
+    "bytes": 4745277,
+    "sha256": "5c256057617e9347a728d51db4388955e9e24391d36f649b8913f9ba6bc1cfda",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__2p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__2p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__2p5__seed87"
+    ],
+    "bytes": 4745277,
+    "sha256": "da04ffcab49bbe94de0e55c1330bb3c270dafb6b81212d33defadbfca66485c1",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__2p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__5p0__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__5p0__seed100"
+    ],
+    "bytes": 4745277,
+    "sha256": "510895b00c978b4ddd7ab007ec3c9b68d77d09f663aca7c0d62681f3c83526d0",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__5p0__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__5p0__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__5p0__seed13"
+    ],
+    "bytes": 4745277,
+    "sha256": "546566cfdaa31c1e12355e0a5e1f6477e4874d5387d9ecacb4b912cf1dcd6d97",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__5p0__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__5p0__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__5p0__seed21"
+    ],
+    "bytes": 4745277,
+    "sha256": "a83a2a11e30ba99f3cbba351298d6f7a3898379aef4a42dc796d01168fa1e4ba",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__5p0__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__5p0__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__5p0__seed42"
+    ],
+    "bytes": 4745277,
+    "sha256": "5cd03cc94f5dd8a6e6aa3f3f4131f6ac2ba49874d27c954eb0642b56916cd030",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__5p0__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/cora__gcn__ed_out__5p0__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "cora__gcn__ed_out__5p0__seed87"
+    ],
+    "bytes": 4745277,
+    "sha256": "8bde8d32f5735058377e620b314bc55bfe7eac0efa6ff5219c90125a3da2f2a8",
+    "release_path": "checkpoints/main/cora__gcn__ed_out__5p0__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__0p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__0p5__seed100"
+    ],
+    "bytes": 962745,
+    "sha256": "f7c3436c644796d1e2a5234dab47ca8a0fb180908782e6b371beb177b20bb794",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__0p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__0p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__0p5__seed13"
+    ],
+    "bytes": 962745,
+    "sha256": "fcbd7b46a59876ea55307592bd90bc02bc303fbcf082910573a92b37c01e1819",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__0p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__0p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__0p5__seed21"
+    ],
+    "bytes": 962745,
+    "sha256": "c494d33a725575dd7a3c2b6fec8573cfe0dcd16d4150f198066a92a6d216216d",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__0p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__0p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__0p5__seed42"
+    ],
+    "bytes": 962745,
+    "sha256": "517f9796fda96af0bc39ce0b17c211d6e9005901522bc796d95303bc650585dd",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__0p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__0p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__0p5__seed87"
+    ],
+    "bytes": 962745,
+    "sha256": "211241ba64a400e0dfd535da78df83f2c4a0c59b96673fd7e73d102735a0274d",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__0p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__2p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__2p5__seed100"
+    ],
+    "bytes": 962745,
+    "sha256": "c196144a4eff78e87ff70461458438131586d87d033683b58bc3fadac4691f0e",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__2p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__2p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__2p5__seed13"
+    ],
+    "bytes": 962745,
+    "sha256": "328003084a7fd5108ffde2f2e23791bd3403ca73d9d7faa8f1bb3640c2698f6a",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__2p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__2p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__2p5__seed21"
+    ],
+    "bytes": 962745,
+    "sha256": "df70e4d6c896982e3b5eaee3a94cbe051a80dd2ec4b0b866cf56f85122978981",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__2p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__2p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__2p5__seed42"
+    ],
+    "bytes": 962745,
+    "sha256": "0167e2f169108260182a2c380d2d0a920162263a4cbaf0a6a2510d6cb3dcf96a",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__2p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__2p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__2p5__seed87"
+    ],
+    "bytes": 962745,
+    "sha256": "6199be8080fbbc663e9a9018d8dead5eacd3282fabb1e18029d486615b6ac94f",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__2p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__5p0__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__5p0__seed100"
+    ],
+    "bytes": 962745,
+    "sha256": "e37ddbff41532edf3f5236265d97a5651946e41efd89a174327729067d615d39",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__5p0__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__5p0__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__5p0__seed13"
+    ],
+    "bytes": 962745,
+    "sha256": "1142de1e86b0a26049b5b574d99093ccb64477459e222c5b95b729f062d2031d",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__5p0__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__5p0__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__5p0__seed21"
+    ],
+    "bytes": 962745,
+    "sha256": "6ad5470f648a089b080f856b6fb2f9b7fd0109b6d089cd99a653e4ae7ffaaf24",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__5p0__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__5p0__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__5p0__seed42"
+    ],
+    "bytes": 962745,
+    "sha256": "8ffe90388e4c3c407d8f76b3a5e4a9f6d498766fc1017743be313eba7eb59836",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__5p0__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_in__5p0__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_in__5p0__seed87"
+    ],
+    "bytes": 962745,
+    "sha256": "9b248068c9bda9cc19a8881c284a48cb4b0e8db7aeb875753e3f30a809df3564",
+    "release_path": "checkpoints/main/dblp__gat__ed_in__5p0__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__0p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__0p5__seed100"
+    ],
+    "bytes": 962745,
+    "sha256": "61a56e428ca5723da4da2edbddf56a5dc6c84d118bd1474866808841690cc4aa",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__0p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__0p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__0p5__seed13"
+    ],
+    "bytes": 962745,
+    "sha256": "b8bcece93ad6e4eee2bf69cc014076ea9a229bbc44fb2c38c9bb42e4a8e6127d",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__0p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__0p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__0p5__seed21"
+    ],
+    "bytes": 962745,
+    "sha256": "df4bc0fb4e8ca581d6ed503b7f08b162ceed3d2ccf89828f98a35386c1a76377",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__0p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__0p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__0p5__seed42"
+    ],
+    "bytes": 962745,
+    "sha256": "67bedcbee2c81d9df27f2435a6c2f6939afaeb4dea4c002f14cbd06b0bb37c96",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__0p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__0p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__0p5__seed87"
+    ],
+    "bytes": 962745,
+    "sha256": "0f3204dc8f4d05b4ecbcd1504965159691d40424721026b33d7f0562fdda9b4b",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__0p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__2p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__2p5__seed100"
+    ],
+    "bytes": 962745,
+    "sha256": "51315c46541f95a515ea8637bfa5cff87ffa05985357171f9254ef34a8be74b8",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__2p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__2p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__2p5__seed13"
+    ],
+    "bytes": 962745,
+    "sha256": "07d0b506a8d3c69194e110243d23072b174c99927310314441cbc003f7e3ac95",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__2p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__2p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__2p5__seed21"
+    ],
+    "bytes": 962745,
+    "sha256": "d6efa19d765c88984e3ed1fb62ade7f0e7c8fa078cb838220dc0d4196ce7ef8d",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__2p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__2p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__2p5__seed42"
+    ],
+    "bytes": 962745,
+    "sha256": "4e768346855458f09cb8c8c061b2c0e97ac73f0c926d84cc70321e4b17310664",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__2p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__2p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__2p5__seed87"
+    ],
+    "bytes": 962745,
+    "sha256": "4a8f5f2488e38c9654f83ecc02d6e52f300f76258c4fdac77c3930112f35114a",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__2p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__5p0__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__5p0__seed100"
+    ],
+    "bytes": 962745,
+    "sha256": "9e0a7560357a50d8117155edb6abed37b3073637d4c8e1d7b5b64edc2ebc46a2",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__5p0__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__5p0__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__5p0__seed13"
+    ],
+    "bytes": 962745,
+    "sha256": "0991bc21d9b6e0cf14430c117973e19c3dcd10accca7248f14313ac170b805f9",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__5p0__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__5p0__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__5p0__seed21"
+    ],
+    "bytes": 962745,
+    "sha256": "da02d99d4f7efdf7db3879c5237ef8810c7b9b175a845272651af8e009fcdf47",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__5p0__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__5p0__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__5p0__seed42"
+    ],
+    "bytes": 962745,
+    "sha256": "0ed8afddf3afa36e80c33ab8e12994c590cc9807c9cee7d04d51f0c525ce8b3f",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__5p0__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gat__ed_out__5p0__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gat__ed_out__5p0__seed87"
+    ],
+    "bytes": 962745,
+    "sha256": "81e554fa2a667a726a11044fc4b4f796bc03557b40c57d6d09c165e710dea9ef",
+    "release_path": "checkpoints/main/dblp__gat__ed_out__5p0__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__0p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__0p5__seed100"
+    ],
+    "bytes": 1124925,
+    "sha256": "aa09c5df118bf563c686129b00f951de5878dbc772a29c68840500c0d63b9e6e",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__0p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__0p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__0p5__seed13"
+    ],
+    "bytes": 1124925,
+    "sha256": "a4463daae93b315454be6b8628cd39917f39d8f1f2d9c7db3044c73f5a044e1a",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__0p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__0p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__0p5__seed21"
+    ],
+    "bytes": 1124925,
+    "sha256": "148fe0442cbbd347c09a8a15f113bc7972be98f3df3873f8db476984555e0aa3",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__0p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__0p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__0p5__seed42"
+    ],
+    "bytes": 1124925,
+    "sha256": "ea2d9ac3dd5239b1ef07ce63381c8a631ceb3b1db58b05884af892acb14cd64d",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__0p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__0p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__0p5__seed87"
+    ],
+    "bytes": 1124925,
+    "sha256": "192c4522fc72cbff6e00779f749292e8919d97f1a4a3933ef9dfa4a4f01818b1",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__0p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__2p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__2p5__seed100"
+    ],
+    "bytes": 1130043,
+    "sha256": "614733fb2869fe686b072699dee09402e5dd77fe8adcab122b41e43a9c898f06",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__2p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__2p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__2p5__seed13"
+    ],
+    "bytes": 1130043,
+    "sha256": "3cccf87f628fd459d91655abfe8d74aa16f2af7a55365ff9ee8187df4f05b67a",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__2p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__2p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__2p5__seed21"
+    ],
+    "bytes": 1130043,
+    "sha256": "8ba405e231e128fe606c2b6e6f10ab9491f4d26affdcf96c9b17c412963b7d74",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__2p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__2p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__2p5__seed42"
+    ],
+    "bytes": 1130043,
+    "sha256": "dca38e85a0d33830951427b35b8d1e39920db44847163606790144cca4914b59",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__2p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__2p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__2p5__seed87"
+    ],
+    "bytes": 1130043,
+    "sha256": "2493dd1c21e900b9e30af53f5aee0338b0b766a8c216d2e309a61af3c86a6d2d",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__2p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__5p0__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__5p0__seed100"
+    ],
+    "bytes": 1124925,
+    "sha256": "36472c0f02a5c69bc9d6eb44ced2f5b063df80d1a1ebc8f66dd4174be5533302",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__5p0__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__5p0__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__5p0__seed13"
+    ],
+    "bytes": 1124925,
+    "sha256": "83368c4f72f7558ae8ae72e7d9af2cd5111a82f54b2288498a6e490a8f15a1a1",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__5p0__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__5p0__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__5p0__seed21"
+    ],
+    "bytes": 1124925,
+    "sha256": "96a3e53137409bef3055c692d55417aa3889f71e2e59f81fc5a2388891033313",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__5p0__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__5p0__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__5p0__seed42"
+    ],
+    "bytes": 1124925,
+    "sha256": "159ec537f81ab444c342498b8afeaeb74a0aaa09a5370fd20d539a63ef2230d9",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__5p0__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_in__5p0__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_in__5p0__seed87"
+    ],
+    "bytes": 1124925,
+    "sha256": "e3df34584b9b997a26ae3673166c037f882fd0960bdc2a98c324ab5f3ee9c417",
+    "release_path": "checkpoints/main/dblp__gcn__ed_in__5p0__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__0p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__0p5__seed100"
+    ],
+    "bytes": 1124925,
+    "sha256": "06b4f6f566d62be51f09645d7e469ec144abf380c032d0272f6fae4c93df10e5",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__0p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__0p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__0p5__seed13"
+    ],
+    "bytes": 1124925,
+    "sha256": "d2805da800adea2b9e15ba13f06cc7354f65b3b7b2055687ed70540dbafaae95",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__0p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__0p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__0p5__seed21"
+    ],
+    "bytes": 1124925,
+    "sha256": "d46bb178142e98d684c7f5813ec280fcb7efbddaf8644dace933c67f9558f408",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__0p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__0p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__0p5__seed42"
+    ],
+    "bytes": 1124925,
+    "sha256": "cd9fe6f86f89b123788bee33eaa64b451069526efba8d98550342a046c43c3f7",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__0p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__0p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__0p5__seed87"
+    ],
+    "bytes": 1124925,
+    "sha256": "56080989a029dabbe7871d0a46ed8da5df0b901b4c928b70cf1119cacd2eec89",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__0p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__2p5__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__2p5__seed100"
+    ],
+    "bytes": 1124925,
+    "sha256": "5e0b53caf65daedf9f6abfcd6f66d76ff59cb4af0006b5a2baaa60cfdbb292d0",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__2p5__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__2p5__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__2p5__seed13"
+    ],
+    "bytes": 1124925,
+    "sha256": "8e577bf1b349aa57ec9580b9efe8597132065d3160f38e489f39715d21badd2d",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__2p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__2p5__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__2p5__seed21"
+    ],
+    "bytes": 1124925,
+    "sha256": "6e651530074b58b4084c18a153bc6cc5f2ffa5e92af6787191cf2682e37cee6a",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__2p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__2p5__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__2p5__seed42"
+    ],
+    "bytes": 1124925,
+    "sha256": "1ee85375ebeac0e8e669f8c5b9b66b66dcd6d675f5bfe7864d1fd774003d285b",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__2p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__2p5__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__2p5__seed87"
+    ],
+    "bytes": 1124925,
+    "sha256": "23e86f3842c93c4108aa3b7c7f6e04e35769eb7399bb6240bdfce3be5541673a",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__2p5__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__5p0__seed100/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__5p0__seed100"
+    ],
+    "bytes": 1124925,
+    "sha256": "53979d2c360219ceed2ac5d9b0b75ef5fbb57ac6700dfad0db336c09ddb12118",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__5p0__seed100.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__5p0__seed13/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__5p0__seed13"
+    ],
+    "bytes": 1124925,
+    "sha256": "b2b66fcaefab3706e558f10ddc5658226d6f94f2cd1d573e22c0fcba2491a231",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__5p0__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__5p0__seed21/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__5p0__seed21"
+    ],
+    "bytes": 1124925,
+    "sha256": "649c642bba3f626811cfffc721fe8a4819cdd77b6edaaaa88c02f6df0f690307",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__5p0__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__5p0__seed42/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__5p0__seed42"
+    ],
+    "bytes": 1124925,
+    "sha256": "05e17466af3a4e2fd99e7108c984fdca1961010af40c311dbf77a11ea313f476",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__5p0__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_homogeneous/dblp__gcn__ed_out__5p0__seed87/checkpoints/model_selected.pt",
+    "group": "main",
+    "bindings": [
+      "dblp__gcn__ed_out__5p0__seed87"
+    ],
+    "bytes": 1124925,
+    "sha256": "1e4943e6b87ffbae5015e664c30208816618aeb19ee7da482155003d61011c6b",
+    "release_path": "checkpoints/main/dblp__gcn__ed_out__5p0__seed87.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_in__0p5__seed13/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_in__0p5__seed13"
+    ],
+    "bytes": 84669,
+    "sha256": "5a42b080b5e5a6b6cf606c21a6b76469f9076bc5712800da4794b80d9bbdfeef",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_in__0p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_in__0p5__seed21/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_in__0p5__seed21"
+    ],
+    "bytes": 84669,
+    "sha256": "ba915114cda5e0617bb70de24fc7faa1cb4d455a2e63474c4e15ae04e907a667",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_in__0p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_in__0p5__seed42/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_in__0p5__seed42"
+    ],
+    "bytes": 84669,
+    "sha256": "3ab8bfa97fa5fcf22b8b4386a0e69ee470837db8032e911de613b49c20cdf66b",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_in__0p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_in__2p5__seed13/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_in__2p5__seed13"
+    ],
+    "bytes": 84669,
+    "sha256": "58eb2ab5e910fdd75bf22cc6cbd5c4b6bb340bc60fd8ce91ff24d681b40a9a1e",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_in__2p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_in__2p5__seed21/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_in__2p5__seed21"
+    ],
+    "bytes": 84669,
+    "sha256": "348bd562b7589b6717dd82c4ee8c581379c8baec7fc7243a75969e7f1629267c",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_in__2p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_in__2p5__seed42/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_in__2p5__seed42"
+    ],
+    "bytes": 84605,
+    "sha256": "c5731304ac2c72dc0f209cdfa5eab897497519e2a832a1d810061129d6b2a11c",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_in__2p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_in__5p0__seed13/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_in__5p0__seed13"
+    ],
+    "bytes": 84669,
+    "sha256": "9aed231cd95da5518dac01b787a0991fee9c51063aa39549e987d28287181691",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_in__5p0__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_in__5p0__seed21/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_in__5p0__seed21"
+    ],
+    "bytes": 84669,
+    "sha256": "e265c489a1af985e97db10b15e1cb7984abe5e48d290045af8b2f78e0d841e32",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_in__5p0__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_in__5p0__seed42/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_in__5p0__seed42"
+    ],
+    "bytes": 84605,
+    "sha256": "9290f6fb51b40ea205e8b9a5ea22940fd1a56eac12872703e9ce4a7c7b076bd3",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_in__5p0__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_out__0p5__seed13/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_out__0p5__seed13"
+    ],
+    "bytes": 84669,
+    "sha256": "e1914ddacf5155ad7d0b848e49050f9a94255a5a9c5d48d95700093e6674f819",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_out__0p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_out__0p5__seed21/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_out__0p5__seed21"
+    ],
+    "bytes": 84669,
+    "sha256": "52c0d854ab5738cf53dc37e3d92532c61345df6b0297e8101903b4c2a697a810",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_out__0p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_out__0p5__seed42/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_out__0p5__seed42"
+    ],
+    "bytes": 84669,
+    "sha256": "aa8b298aaef32e6c16cad627d52c578bcc059341762a38d0a1aafa43a4d1f15a",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_out__0p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_out__2p5__seed13/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_out__2p5__seed13"
+    ],
+    "bytes": 84669,
+    "sha256": "33358c0c5778ca7c925a87375d91438c32dfe858124b7302483c599e82cddda7",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_out__2p5__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_out__2p5__seed21/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_out__2p5__seed21"
+    ],
+    "bytes": 84669,
+    "sha256": "3da673e6a6a63c0333eb7779a6812d496a208b6bdb16f1d40fde88c293febcf7",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_out__2p5__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_out__2p5__seed42/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_out__2p5__seed42"
+    ],
+    "bytes": 84605,
+    "sha256": "eaada2b2cec7b1b87490cfc5c9e14387a32a1930f78c22f35ae2f3ccef9282d9",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_out__2p5__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_out__5p0__seed13/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_out__5p0__seed13"
+    ],
+    "bytes": 84669,
+    "sha256": "154e2c66cf6b0f2417e7a9824c260f517b549609a0c690cc95337e3adb8ae2ba",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_out__5p0__seed13.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_out__5p0__seed21/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_out__5p0__seed21"
+    ],
+    "bytes": 84669,
+    "sha256": "367818afd79af95bc4665769ea33fe75b9d2ee9502b95afbe84234d91579d14c",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_out__5p0__seed21.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runs_rgcn_final_recovered/wordnet18rr__rgcn__ed_out__5p0__seed42/checkpoints/model_best.pt",
+    "group": "main",
+    "bindings": [
+      "wordnet18rr__rgcn__ed_out__5p0__seed42"
+    ],
+    "bytes": 84605,
+    "sha256": "2380096406388195b9bfa23a79179526a24885b6e541c29363db288cc19ab4f3",
+    "release_path": "checkpoints/main/wordnet18rr__rgcn__ed_out__5p0__seed42.pt",
+    "archive": "lrr-main-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed100/matched_p2/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "formulation:C:seed100"
+    ],
+    "bytes": 4750203,
+    "sha256": "64197a873b33032cd25812a1cf9651961bf2e49b93aaeae40f787e697f00eb47",
+    "release_path": "checkpoints/ablation_sensitivity/formulation_c_seed_100.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed13/matched_p2/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "formulation:C:seed13"
+    ],
+    "bytes": 4750203,
+    "sha256": "ec94f54b4c6df62a452ff6d9a56bc5cf73d3de02272823d883b384a43305f33d",
+    "release_path": "checkpoints/ablation_sensitivity/formulation_c_seed_13.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed21/matched_p2/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "formulation:C:seed21"
+    ],
+    "bytes": 4750203,
+    "sha256": "fc81f6847c16ca3da6207fb610a2267efcb785860d90527ec6a250ca2418723b",
+    "release_path": "checkpoints/ablation_sensitivity/formulation_c_seed_21.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed42/matched_p2/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "formulation:C:seed42"
+    ],
+    "bytes": 4750203,
+    "sha256": "2a70d06a8e227855386fa0a2076f36de628ff74829ac286bbb32e9e47c7370bf",
+    "release_path": "checkpoints/ablation_sensitivity/formulation_c_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed87/matched_p2/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "formulation:C:seed87"
+    ],
+    "bytes": 4750203,
+    "sha256": "d1ded96a5f281acc64b6932467f7a66717e92828a77c33c284f133df41054bc4",
+    "release_path": "checkpoints/ablation_sensitivity/formulation_c_seed_87.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/DECAY_LAMBDA_0P5/seed100/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:DECAY_LAMBDA_0P5:seed100"
+    ],
+    "bytes": 4750203,
+    "sha256": "8cdd6f6cb24005173c9a3f636266d5a89a3b1e86bb93c69ba43c949512ea0453",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_decay_lambda_0p5_seed_100.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/DECAY_LAMBDA_0P5/seed13/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:DECAY_LAMBDA_0P5:seed13"
+    ],
+    "bytes": 4750203,
+    "sha256": "b0b3fec287df51be3fdf65412d206c24088298f10a9f463f491589d6f714c0bb",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_decay_lambda_0p5_seed_13.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/DECAY_LAMBDA_0P5/seed21/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:DECAY_LAMBDA_0P5:seed21"
+    ],
+    "bytes": 4750203,
+    "sha256": "83ad39f4951b1393feeeb249d4c07c1952ee078969e000cc0a5ed7421310f208",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_decay_lambda_0p5_seed_21.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/DECAY_LAMBDA_0P5/seed42/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:DECAY_LAMBDA_0P5:seed42"
+    ],
+    "bytes": 4750203,
+    "sha256": "b627a68a656c9593950333266da0b065817145834610bd77bbb49ce71a58907c",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_decay_lambda_0p5_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/DECAY_LAMBDA_0P5/seed87/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:DECAY_LAMBDA_0P5:seed87"
+    ],
+    "bytes": 4750203,
+    "sha256": "9d94a2987d37ec9977c07bc21bdd2f24b851e66f6bf472380b7bd9009a4999c3",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_decay_lambda_0p5_seed_87.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/DECAY_LAMBDA_1P25/seed100/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:DECAY_LAMBDA_1P25:seed100"
+    ],
+    "bytes": 4750203,
+    "sha256": "752a53ae27b1893bc6cb9969d8429b4aa1a3440a494ea1a7988cd0b8ce83b0bb",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_decay_lambda_1p25_seed_100.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/DECAY_LAMBDA_1P25/seed13/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:DECAY_LAMBDA_1P25:seed13"
+    ],
+    "bytes": 4750203,
+    "sha256": "a1b081fdeebbc4723300cafcf33af38bd6707e0c56e08f86bec1945a0ee11f47",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_decay_lambda_1p25_seed_13.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/DECAY_LAMBDA_1P25/seed21/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:DECAY_LAMBDA_1P25:seed21"
+    ],
+    "bytes": 4750203,
+    "sha256": "eb6f34c95efc1cb2914fc0854a5dfc1ee31e013209a77a51417a9cd1c2984f9b",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_decay_lambda_1p25_seed_21.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/DECAY_LAMBDA_1P25/seed42/checkpoints/validation_epoch_2799.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:DECAY_LAMBDA_1P25:seed42"
+    ],
+    "bytes": 4750203,
+    "sha256": "09ef483e9be4dd089107fb4dd8df479fdd4dad2b3609fe751d6daae378b3c8d8",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_decay_lambda_1p25_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/DECAY_LAMBDA_1P25/seed87/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:DECAY_LAMBDA_1P25:seed87"
+    ],
+    "bytes": 4750203,
+    "sha256": "e8815c476671e5be3478e3327954e2bfb6fdd7271b1fa1010f3fac56c08c8354",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_decay_lambda_1p25_seed_87.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/LAST_LAYER_ONLY/seed100/checkpoints/validation_epoch_2699.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:LAST_LAYER_ONLY:seed100"
+    ],
+    "bytes": 4618267,
+    "sha256": "5b0be96e03662ed219735ba4d8a821e18ea7afe683d400dc95bbe82b114a149f",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_last_layer_only_seed_100.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/LAST_LAYER_ONLY/seed13/checkpoints/validation_epoch_2899.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:LAST_LAYER_ONLY:seed13"
+    ],
+    "bytes": 4618267,
+    "sha256": "f6e00000a317db34b6deb8ee9410a00a1d90a4285bd9703e286610d28d90d6a4",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_last_layer_only_seed_13.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/LAST_LAYER_ONLY/seed21/checkpoints/validation_epoch_2599.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:LAST_LAYER_ONLY:seed21"
+    ],
+    "bytes": 4618267,
+    "sha256": "d2f3b1dede42d9d9733c5a59273a0e0acc794070553ab6731dd93bad884ac80e",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_last_layer_only_seed_21.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/LAST_LAYER_ONLY/seed42/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:LAST_LAYER_ONLY:seed42"
+    ],
+    "bytes": 4618267,
+    "sha256": "69a1deae7abef6604ac3533ad2edc18e3e4e139a0ab23d087e4c9aafe635cae6",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_last_layer_only_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/LAST_LAYER_ONLY/seed87/checkpoints/validation_epoch_2399.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:LAST_LAYER_ONLY:seed87"
+    ],
+    "bytes": 4618267,
+    "sha256": "10e94044ae948235eaa201f75aca5012898377b8e36005b8ae85cdcabd2b33c1",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_last_layer_only_seed_87.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/LOCAL_BINARY/seed100/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:LOCAL_BINARY:seed100"
+    ],
+    "bytes": 4750203,
+    "sha256": "5d4df96cdd2967871ac55add7bab8cc5a8711c5a7a1cad66e15f8447566e2d37",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_local_binary_seed_100.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/LOCAL_BINARY/seed13/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:LOCAL_BINARY:seed13"
+    ],
+    "bytes": 4750203,
+    "sha256": "ea20d8e50a6f26c9776fa51c2cef83049028844538598cf789b71cf0ad4553dd",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_local_binary_seed_13.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/LOCAL_BINARY/seed21/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:LOCAL_BINARY:seed21"
+    ],
+    "bytes": 4750203,
+    "sha256": "acc5d86845ba7308d55997c5b53fc50969b1e31bbc008b19450c385538cb23d1",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_local_binary_seed_21.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/LOCAL_BINARY/seed42/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:LOCAL_BINARY:seed42"
+    ],
+    "bytes": 4750203,
+    "sha256": "80dc273670db0bd6a576d551313223a6196c2b8e78f317201bf8f17cf8ac37da",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_local_binary_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/LOCAL_BINARY/seed87/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:LOCAL_BINARY:seed87"
+    ],
+    "bytes": 4750203,
+    "sha256": "5dfe306795dbba69f5c5967f5a11fead0a27df3a93825baeacb1c70f1690e35a",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_local_binary_seed_87.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/TIER2_MASSMATCH/seed100/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:TIER2_MASSMATCH:seed100"
+    ],
+    "bytes": 4750203,
+    "sha256": "64cc3ad09e936a723162d21a6a104a8eaa2523ac8f4e27960546ece610d1a39a",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_tier2_massmatch_seed_100.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/TIER2_MASSMATCH/seed13/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:TIER2_MASSMATCH:seed13"
+    ],
+    "bytes": 4750203,
+    "sha256": "0a8cf0b46b169b384cbdf22d646212d35b373e70f43796f6c3694bf8d10c8972",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_tier2_massmatch_seed_13.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/TIER2_MASSMATCH/seed21/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:TIER2_MASSMATCH:seed21"
+    ],
+    "bytes": 4750203,
+    "sha256": "92865bf111d7dedec97c0686cc62ef029edf231afbc4827269cdae41a1af4ed4",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_tier2_massmatch_seed_21.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/TIER2_MASSMATCH/seed42/checkpoints/validation_epoch_2799.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:TIER2_MASSMATCH:seed42"
+    ],
+    "bytes": 4750203,
+    "sha256": "2128acd9af9ab5d6bc8bd136f8530b561a372c4e1786ca3ae5ae611654255a23",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_tier2_massmatch_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/TIER2_MASSMATCH/seed87/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:TIER2_MASSMATCH:seed87"
+    ],
+    "bytes": 4750203,
+    "sha256": "a319d734b5f45a909ff065f87229410b51159b481e515f2e536f9a4441bcb67b",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_tier2_massmatch_seed_87.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/UNGATED/seed100/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:UNGATED:seed100"
+    ],
+    "bytes": 4750203,
+    "sha256": "ee903e382057fbe849310cbddfe0ae4f9cbc0c4e95c240d05cb450896e103979",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_ungated_seed_100.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/UNGATED/seed13/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:UNGATED:seed13"
+    ],
+    "bytes": 4750203,
+    "sha256": "da17444da1eceeea397dc8c8852bcf91ef5a95d22dfe26db8a25ecfe25efe464",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_ungated_seed_13.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/UNGATED/seed21/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:UNGATED:seed21"
+    ],
+    "bytes": 4750203,
+    "sha256": "15de5aaddfe692d4f97fd0dc4255d0ca85e094a156f4c9bc96e65b2067348ac5",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_ungated_seed_21.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/UNGATED/seed42/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:UNGATED:seed42"
+    ],
+    "bytes": 4750203,
+    "sha256": "be0443e3d9614ec8c311b8cb6bea7abd3af6fb2e8f9adfeee2b7c964d55bb037",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_ungated_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/UNGATED/seed87/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:UNGATED:seed87"
+    ],
+    "bytes": 4750203,
+    "sha256": "63a2c8fac8fd41b790561063d5d9518924a35e3656e18f48fce8b71a01de9881",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_ungated_seed_87.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/UNIFORM_MASSMATCH/seed100/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:UNIFORM_MASSMATCH:seed100"
+    ],
+    "bytes": 4750203,
+    "sha256": "3a30cb8df0f4411cf4c1a83174e15bbefe828c000864a3f198b96c090e826528",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_uniform_massmatch_seed_100.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/UNIFORM_MASSMATCH/seed13/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:UNIFORM_MASSMATCH:seed13"
+    ],
+    "bytes": 4750203,
+    "sha256": "113a904cd4b386c5771fb28a3637c5490e5a79e77429db331228776c4313094e",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_uniform_massmatch_seed_13.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/UNIFORM_MASSMATCH/seed21/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:UNIFORM_MASSMATCH:seed21"
+    ],
+    "bytes": 4750203,
+    "sha256": "1e21de1bf9ab128a5801e2772f308917490f4676b30123f222906740002b5569",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_uniform_massmatch_seed_21.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/UNIFORM_MASSMATCH/seed42/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:UNIFORM_MASSMATCH:seed42"
+    ],
+    "bytes": 4750203,
+    "sha256": "86a99add89c4bc6699988e56b2ce54e7892cb183cd461045f088790553d9cd16",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_uniform_massmatch_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/runs/UNIFORM_MASSMATCH/seed87/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "spatial:UNIFORM_MASSMATCH:seed87"
+    ],
+    "bytes": 4750203,
+    "sha256": "7592e794e13ba7ba154baddb3f7641eba46070f9ee7fd3387d9df28d70650286",
+    "release_path": "checkpoints/ablation_sensitivity/spatial_uniform_massmatch_seed_87.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/unified_ablation_gcn_cora_edin2p5_20260829/runs/variant_a/seed100/model_selected.pt",
+    "group": "controls",
+    "bindings": [
+      "formulation:A:seed100"
+    ],
+    "bytes": 4579069,
+    "sha256": "67a75b4c6eaeb00eb1ea27aafd588a210a20eb47584d370f065e6ace3aacb4b1",
+    "release_path": "checkpoints/ablation_sensitivity/formulation_a_seed_100.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/unified_ablation_gcn_cora_edin2p5_20260829/runs/variant_a/seed13/model_selected.pt",
+    "group": "controls",
+    "bindings": [
+      "formulation:A:seed13"
+    ],
+    "bytes": 4579069,
+    "sha256": "938d92ef53b6417baa58e3781e9ef091dcdff24a7787d096797731bb0cf9f0b1",
+    "release_path": "checkpoints/ablation_sensitivity/formulation_a_seed_13.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/unified_ablation_gcn_cora_edin2p5_20260829/runs/variant_a/seed21/model_selected.pt",
+    "group": "controls",
+    "bindings": [
+      "formulation:A:seed21"
+    ],
+    "bytes": 4579069,
+    "sha256": "8386d7e686432c016c5d50b4348e69b23e04b795208fa010bb6f530a3650c4a6",
+    "release_path": "checkpoints/ablation_sensitivity/formulation_a_seed_21.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/unified_ablation_gcn_cora_edin2p5_20260829/runs/variant_a/seed42/model_selected.pt",
+    "group": "controls",
+    "bindings": [
+      "formulation:A:seed42"
+    ],
+    "bytes": 4579069,
+    "sha256": "68662b0717440ae514e113759726fa3398b0bb99f0c850415cd126e9c2e2803e",
+    "release_path": "checkpoints/ablation_sensitivity/formulation_a_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "isolated_experiments/unified_ablation_gcn_cora_edin2p5_20260829/runs/variant_a/seed87/model_selected.pt",
+    "group": "controls",
+    "bindings": [
+      "formulation:A:seed87"
+    ],
+    "bytes": 4579069,
+    "sha256": "c3c6b7cb2e866755b60d106004e33daaf31cba5a53883f372a1d33ef40104663",
+    "release_path": "checkpoints/ablation_sensitivity/formulation_a_seed_87.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/gate_binary_local/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:gate_binary_local"
+    ],
+    "bytes": 4750459,
+    "sha256": "e9cb7414423ffba557cc3f883e8b028e4dffbbf5d3e8dd8360bb72c0f41d3357",
+    "release_path": "checkpoints/ablation_sensitivity/gate_binary_local_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/gate_global/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:gate_global"
+    ],
+    "bytes": 4750459,
+    "sha256": "0e5c98dc20b35c2413999dcefc0084b9de6e1331b3add93b53b78b05ab43d117",
+    "release_path": "checkpoints/ablation_sensitivity/gate_global_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/objective_anchor_0p10/checkpoints/validation_epoch_2799.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:objective_anchor_0p10"
+    ],
+    "bytes": 4750459,
+    "sha256": "6c1b598d1b884655fbfb758ccabc1a83f980754ebc62ff7dd378a208030eb8a6",
+    "release_path": "checkpoints/ablation_sensitivity/objective_anchor_0p10_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/objective_anchor_0p40/checkpoints/validation_epoch_2799.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:objective_anchor_0p40"
+    ],
+    "bytes": 4750459,
+    "sha256": "bb0a2386f1272c43fe31f21409d969e230ed32546f31e01a52a35a2dd33a81e8",
+    "release_path": "checkpoints/ablation_sensitivity/objective_anchor_0p40_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/objective_forget_0p025/checkpoints/validation_epoch_2799.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:objective_forget_0p025"
+    ],
+    "bytes": 4750459,
+    "sha256": "053af5d77fb6921bebac5aa234f87ce264d68452d23f407e1067cb64b17ac8e0",
+    "release_path": "checkpoints/ablation_sensitivity/objective_forget_0p025_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/objective_forget_0p10/checkpoints/validation_epoch_2799.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:objective_forget_0p10"
+    ],
+    "bytes": 4750459,
+    "sha256": "a6a1ddaf84579da6e71ae7d89e942a8b21bd887463d6018e926d9ad5a7777c13",
+    "release_path": "checkpoints/ablation_sensitivity/objective_forget_0p10_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/objective_local_0p25/checkpoints/validation_epoch_2799.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:objective_local_0p25"
+    ],
+    "bytes": 4750459,
+    "sha256": "541aa2ace7210603ef5f79c6eee98122e4099275242a3e76bca7fd87928ab36d",
+    "release_path": "checkpoints/ablation_sensitivity/objective_local_0p25_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/objective_local_1p00/checkpoints/validation_epoch_2799.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:objective_local_1p00"
+    ],
+    "bytes": 4750459,
+    "sha256": "46e15703f642e1b14450eaf8bb904f78626345e7826a654b064f1b3036ef36ea",
+    "release_path": "checkpoints/ablation_sensitivity/objective_local_1p00_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/objective_margin_0p025/checkpoints/validation_epoch_2799.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:objective_margin_0p025"
+    ],
+    "bytes": 4750459,
+    "sha256": "dee5fb308aeab297292e5eadd09e61b43f1079d537ba1a5cbecaaad593a02ef3",
+    "release_path": "checkpoints/ablation_sensitivity/objective_margin_0p025_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/objective_margin_0p10/checkpoints/validation_epoch_2799.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:objective_margin_0p10"
+    ],
+    "bytes": 4750459,
+    "sha256": "934664b974807f49644c5f71c2c8708ffe1c65d3e8106f33bfb93f0d21d9ad47",
+    "release_path": "checkpoints/ablation_sensitivity/objective_margin_0p10_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/objective_retain_0p50/checkpoints/validation_epoch_2999.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:objective_retain_0p50"
+    ],
+    "bytes": 4750459,
+    "sha256": "d462f30ebcb86f609d03d4872fcba5577a16e3856586fdda81a78fc0e397b9b2",
+    "release_path": "checkpoints/ablation_sensitivity/objective_retain_0p50_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  },
+  {
+    "source": "lrr_v4_12_single_seed_ablation/runs/objective_retain_2p00/checkpoints/validation_epoch_2899.pt",
+    "group": "controls",
+    "bindings": [
+      "sensitivity_or_convergence:objective_retain_2p00"
+    ],
+    "bytes": 4750459,
+    "sha256": "036c96a44b11ee4d1812c5773c34cc659cbbc0e2613c464a0ac7298757b676fa",
+    "release_path": "checkpoints/ablation_sensitivity/objective_retain_2p00_seed_42.pt",
+    "archive": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "category": "checkpoints",
+    "role": "paper_selected_checkpoint"
+  }
+]

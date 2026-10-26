@@ -1,0 +1,214 @@
+{
+  "best": {
+    "checkpoint": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase4c_rgcn_runtime\\formal_runs_unblocked_validation_20260929\\repeat_2\\runs\\GradAscent-RGCN-WN18RR\\checkpoints\\model_best.pt",
+    "epoch": 1,
+    "selector": 1.0138348602324294,
+    "update": 32,
+    "validation": {
+      "df_auc": 0.490032276115441,
+      "df_aup": 0.5318902671516332,
+      "dt_auc": 0.5238025841169883,
+      "dt_aup": 0.520766694171437,
+      "prediction_drift": 0.021205788478255272,
+      "retain_mse": 0.6725855469703674
+    }
+  },
+  "core_unlearning_update_seconds": 9.316142300001047,
+  "dataset": "WordNet18RR",
+  "deletion": {
+    "base_relations": 11,
+    "candidate_count": 74066,
+    "dataset": "WordNet18RR",
+    "deletion_type": "Ed_IN",
+    "dr_count": 84665,
+    "evaluation_construction": "accepted_native_relational_Df_groups_parameterized_WordNet18RR",
+    "message_passing_count": 169330,
+    "message_relations": 22,
+    "ratio_percent": 2.5,
+    "realized_count": 2170,
+    "requested_count": 2170,
+    "seed": 42,
+    "train_count": 86835
+  },
+  "formal_training_runtime_seconds": 19.975891700001284,
+  "gradient_clipping": 1.0,
+  "initialization": "Original_checkpoint_reuse",
+  "method": "GradAscent-RGCN-WN18RR",
+  "objective": "maximize BCE on relation-aware deleted positives",
+  "protocol": {
+    "epochs": 10,
+    "graphsaint": {
+      "batch_size": 128,
+      "steps_per_epoch": 32,
+      "walk_length": 2,
+      "workers": 0
+    },
+    "initialization": "Original_checkpoint_reuse",
+    "method": "GradAscent-RGCN-WN18RR",
+    "objective": "maximize BCE on relation-aware deleted positives",
+    "optimizer": "Adam(lr=0.001, weight_decay=0.0)",
+    "selector": "strict max validation DT_AUC + Df_AUC; exact tie keeps earlier",
+    "test_used_for_selection": false,
+    "updates": 320,
+    "validation_events": 10,
+    "validation_every_epochs": 1
+  },
+  "runtime_timing_scope": "320 optimizer updates + 10 validation/model-selection events; loading/static setup/final test/serialization excluded",
+  "runtime_update_seconds": 9.316142300001047,
+  "runtime_validation_events": 10,
+  "runtime_validation_seconds": 10.659749400000237,
+  "seed": 42,
+  "status": "PASS",
+  "test": {
+    "df_auc": 0.49003225976342674,
+    "df_aup": 0.5318902358348212,
+    "dt_auc": 0.5260896098496064,
+    "dt_aup": 0.5212653640996724,
+    "prediction_drift": 0.022388411685824394,
+    "retain_mse": 0.6725855469703674
+  },
+  "update0": {
+    "epoch": 0,
+    "metrics": {
+      "df_auc": 0.8612327205929198,
+      "df_aup": 0.8657709397551557,
+      "dt_auc": 0.7285126400899671,
+      "dt_aup": 0.7555776792178232,
+      "prediction_drift": 2.073465665830554e-08,
+      "retain_mse": 1.5093302109981006e-14
+    },
+    "update": 0
+  },
+  "validation_history": [
+    {
+      "epoch": 1,
+      "selector": 1.0138348602324294,
+      "update": 32,
+      "validation": {
+        "df_auc": 0.490032276115441,
+        "df_aup": 0.5318902671516332,
+        "dt_auc": 0.5238025841169883,
+        "dt_aup": 0.520766694171437,
+        "prediction_drift": 0.021205788478255272,
+        "retain_mse": 0.6725855469703674
+      }
+    },
+    {
+      "epoch": 2,
+      "selector": 0.9281030759460159,
+      "update": 64,
+      "validation": {
+        "df_auc": 0.4287577633842299,
+        "df_aup": 0.46425434340979654,
+        "dt_auc": 0.49934531256178605,
+        "dt_aup": 0.5053761128105698,
+        "prediction_drift": 0.01308925449848175,
+        "retain_mse": 0.6896370649337769
+      }
+    },
+    {
+      "epoch": 3,
+      "selector": 0.9231273068746572,
+      "update": 96,
+      "validation": {
+        "df_auc": 0.42714369725413576,
+        "df_aup": 0.45705609274842995,
+        "dt_auc": 0.4959836096205214,
+        "dt_aup": 0.5027076346764681,
+        "prediction_drift": 0.009533301927149296,
+        "retain_mse": 0.6900854706764221
+      }
+    },
+    {
+      "epoch": 4,
+      "selector": 0.9277936429516447,
+      "update": 128,
+      "validation": {
+        "df_auc": 0.4317679916753382,
+        "df_aup": 0.456341364547068,
+        "dt_auc": 0.4960256512763065,
+        "dt_aup": 0.5021750874057324,
+        "prediction_drift": 0.008459878154098988,
+        "retain_mse": 0.690192461013794
+      }
+    },
+    {
+      "epoch": 5,
+      "selector": 0.9310193142714137,
+      "update": 160,
+      "validation": {
+        "df_auc": 0.43496194164242186,
+        "df_aup": 0.45708271711778603,
+        "dt_auc": 0.49605737262899186,
+        "dt_aup": 0.5019788598469683,
+        "prediction_drift": 0.008727948181331158,
+        "retain_mse": 0.6901994943618774
+      }
+    },
+    {
+      "epoch": 6,
+      "selector": 0.9381863300497635,
+      "update": 192,
+      "validation": {
+        "df_auc": 0.4420682305846376,
+        "df_aup": 0.4615964481938741,
+        "dt_auc": 0.49611809946512586,
+        "dt_aup": 0.5017767391108068,
+        "prediction_drift": 0.010887007229030132,
+        "retain_mse": 0.6902215480804443
+      }
+    },
+    {
+      "epoch": 7,
+      "selector": 0.9439661773672379,
+      "update": 224,
+      "validation": {
+        "df_auc": 0.44732391513941683,
+        "df_aup": 0.46447248489534304,
+        "dt_auc": 0.49664226222782104,
+        "dt_aup": 0.5020221736917029,
+        "prediction_drift": 0.014694946818053722,
+        "retain_mse": 0.6902278065681458
+      }
+    },
+    {
+      "epoch": 8,
+      "selector": 0.9474245847740985,
+      "update": 256,
+      "validation": {
+        "df_auc": 0.45073609845186774,
+        "df_aup": 0.46708460604429675,
+        "dt_auc": 0.4966884863222307,
+        "dt_aup": 0.5019622774084792,
+        "prediction_drift": 0.01986502856016159,
+        "retain_mse": 0.6902278065681458
+      }
+    },
+    {
+      "epoch": 9,
+      "selector": 0.951327180113792,
+      "update": 288,
+      "validation": {
+        "df_auc": 0.4544875285098431,
+        "df_aup": 0.46896584041131717,
+        "dt_auc": 0.49683965160394894,
+        "dt_aup": 0.5021555194992965,
+        "prediction_drift": 0.026661820709705353,
+        "retain_mse": 0.6902278065681458
+      }
+    },
+    {
+      "epoch": 10,
+      "selector": 0.9543651373821253,
+      "update": 320,
+      "validation": {
+        "df_auc": 0.4573699207882945,
+        "df_aup": 0.4706407963097315,
+        "dt_auc": 0.4969952165938307,
+        "dt_aup": 0.5021446868307713,
+        "prediction_drift": 0.03276516869664192,
+        "retain_mse": 0.6902278065681458
+      }
+    }
+  ]
+}

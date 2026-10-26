@@ -1,0 +1,23 @@
+{
+  "dataset": "Cora",
+  "backbone": "GCN",
+  "deletion_mode": "Ed_OUT",
+  "deletion_ratio": "2.5",
+  "seed": 13,
+  "sampling_identity": {
+    "dataset": "Cora",
+    "backbone": "gcn",
+    "deletion_mode": "out",
+    "deletion_ratio": "2.5",
+    "run_seed": 13
+  },
+  "device": "cuda",
+  "bundle_path": "../../data/bundles/cora__gcn__ed_out__2p5__seed13.pt",
+  "output_path": "../../outputs/cora__gcn__ed_out__2p5__seed13.pt",
+  "updates": 3000,
+  "validation_interval": 100,
+  "lr": 0.0003,
+  "weight_decay": 0.0,
+  "evaluate_test": true,
+  "source_cell_id": "cora__gcn__ed_out__2p5__seed13"
+}

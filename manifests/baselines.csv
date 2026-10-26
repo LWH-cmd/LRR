@@ -1,0 +1,18 @@
+Display_Method,Formal_Aliases,Observed_Row_Count,Formal_Statuses,Backbones,Rank_Eligible,Rank_Eligible_Scopes,Reference_Only,Presentation_Only,Control_Non_Main,Excluded,Include_in_Main_Performance_Presentation,Paper_Main_Eligible_Source_Values,Policy_Note
+D2D,D2D,138,FROZEN_KEEP_VERIFIED_STRICT_FORMAL;PASS,GAT;GCN;RGCN,TRUE,GAT;GCN;RGCN,FALSE,FALSE,FALSE,FALSE,TRUE,YES,Formal rank-eligible method where rows exist.
+GIF,GIF,120,PASS,GAT;GCN,TRUE,GAT;GCN,FALSE,FALSE,FALSE,FALSE,TRUE,YES,Formal rank-eligible method where rows exist.
+GNNDelete,GNNDelete/GNNDelete-DECNI,120,ACCEPTED;VERIFIED_READ_ONLY;ACCEPTED_FORMAL,GAT;GCN,TRUE,GAT;GCN,FALSE,FALSE,FALSE,FALSE,TRUE,YES,Formal rank-eligible method where rows exist.
+GNNDelete-DECNI,GNNDelete-DECNI,18,ACCEPTED,RGCN,TRUE,RGCN,FALSE,FALSE,FALSE,FALSE,TRUE,YES,Formal rank-eligible method where rows exist.
+GNNDelete-Matched-P2,GNNDelete-Matched-P2,120,ACCEPTED;VERIFIED_READ_ONLY;ACCEPTED_FORMAL,GAT;GCN,FALSE,,FALSE,FALSE,TRUE,FALSE,FALSE,NO,Controlled/non-main identity; not part of all-eligible ranking.
+GNNDelete-P2,GNNDelete-P2,18,ACCEPTED,RGCN,FALSE,,FALSE,FALSE,TRUE,FALSE,FALSE,YES,Controlled/non-main identity; not part of all-eligible ranking.
+GradAscent,GradAscent,138,PASS,GAT;GCN;RGCN,TRUE,GAT;GCN;RGCN,FALSE,FALSE,FALSE,FALSE,TRUE,YES,Formal rank-eligible method where rows exist.
+GraphEditor,GraphEditor,120,ACCEPTED_FORMAL_CANDIDATE,GAT;GCN,FALSE,,TRUE,TRUE,FALSE,FALSE,TRUE,YES,Reference-only; not ranked.
+GraphEraser,GraphEraser,0,,,FALSE,,FALSE,FALSE,FALSE,TRUE,FALSE,,Historical/excluded identity; never promote to paper-main evidence.
+LRR,LRR/LRR-P2,120,ACCEPTED;VERIFIED_READ_ONLY;ACCEPTED_FORMAL,GAT;GCN,TRUE,GAT;GCN,FALSE,FALSE,FALSE,FALSE,TRUE,YES,Formal rank-eligible method where rows exist.
+LRR-DECNI,LRR-DECNI,138,ACCEPTED;VERIFIED_READ_ONLY;ACCEPTED_FORMAL,GAT;GCN;RGCN,FALSE,,FALSE,FALSE,TRUE,FALSE,FALSE,NO;YES,Controlled/non-main identity; not part of all-eligible ranking.
+LRR-P2,LRR-P2,18,ACCEPTED,RGCN,TRUE,RGCN,FALSE,FALSE,FALSE,FALSE,TRUE,YES,Formal rank-eligible method where rows exist.
+LowRank,LowRank,0,,,FALSE,,FALSE,FALSE,FALSE,TRUE,FALSE,,Historical/excluded identity; never promote to paper-main evidence.
+Original,Original,120,ACCEPTED;ACCEPTED_FORMAL_REFERENCE_EVALUATION,GAT;GCN,FALSE,,TRUE,FALSE,FALSE,FALSE,TRUE,YES,Reference-only; not ranked.
+Retrain,Retrain,138,ACCEPTED;ACCEPTED_FORMAL_GAT_BASELINE,GAT;GCN;RGCN,FALSE,,TRUE,FALSE,FALSE,FALSE,TRUE,YES,Reference-only; not ranked.
+UtU,UtU,138,ACCEPTED;ACCEPTED_FORMAL_GAT_BASELINE,GAT;GCN;RGCN,TRUE,GAT;GCN;RGCN,FALSE,FALSE,FALSE,FALSE,TRUE,YES,Formal rank-eligible method where rows exist.
+SCGU,SCGU,138,PASS,GAT;GCN;RGCN,TRUE,GAT;GCN;RGCN,FALSE,FALSE,FALSE,FALSE,TRUE,YES,"SCGU reproduced under backbone-family formal fixed budgets: GCN/GAT 3000 optimizer updates with FINAL_FIXED_BUDGET and one terminal formal evaluation; WN18RR RGCN 1600 updates with GraphSAINT 1024/walk2/32 and 25 validations, no early stopping. Old 2000-update artifacts are retained as SUPERSEDED / OBSOLETE_FOR_FORMAL_USE."

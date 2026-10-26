@@ -1,0 +1,12 @@
+{
+  "dataset": "DBLP",
+  "backbone": "gcn",
+  "seed": 100,
+  "epochs": 2000,
+  "validation_interval": 500,
+  "lr": 0.001,
+  "weight_decay": 0.0,
+  "selector": "max_validation_dt_auc",
+  "data_path": "data/processed/DBLP/seed100.pt",
+  "output_path": "outputs/pretrain/gcn_dblp_seed100.pt"
+}

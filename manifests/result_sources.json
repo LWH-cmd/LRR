@@ -1,0 +1,26 @@
+[
+  {
+    "path": "results/source_records/benchmark_seed_records.csv",
+    "source": "research_data_hub/LRR/PAPER_FORMAL_DATA_HUB/05_MAIN_RESULTS_SEED_LEVEL.csv",
+    "sha256": "8a93ce19b0c188217b4b2de139e2967245e49ae67a8540ab7e2c0a11d5b153dd",
+    "bytes": 901913
+  },
+  {
+    "path": "results/source_records/inpo_s_seed_records.csv",
+    "source": "isolated_experiments/final_completion_20260926/inpo_s_seed_results.csv",
+    "sha256": "652119189a470c42b71656d318a16f3839c10dc3bf4734da1286f14a3438181c",
+    "bytes": 33727
+  },
+  {
+    "path": "results/source_records/spatial_control_records.tsv",
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/ablation_seed_results.tsv",
+    "sha256": "9ed3f18cb56534bc0519d1aa0bf25d9d0ae19d3d3b43269f9f8aad26522faf4a",
+    "bytes": 24990
+  },
+  {
+    "path": "results/source_records/formulation_control_records.json",
+    "source": "isolated_experiments/unified_ablation_gcn_cora_edin2p5_20260829/unified_ablation_results.json",
+    "sha256": "3388773e6a1c4d83bcdcedea190b3b4ad3321db05b49c1005a8a3d8a3ab48821",
+    "bytes": 12761
+  }
+]

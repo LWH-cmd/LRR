@@ -1,0 +1,120 @@
+{
+  "backbone_frozen": true,
+  "changed_field": "lambda_R",
+  "command": [
+    "D:\\miniconda\\envs\\LRR\\python.exe",
+    "D:\\LRR-GNNDELETE\\lrr_v4_12_single_seed_ablation\\run_single_seed_ablation.py",
+    "--variant",
+    "objective_retain_2p00",
+    "--device",
+    "cuda:0"
+  ],
+  "formal_default_reused": false,
+  "fullrank_parameter_count": 20480,
+  "gate_mode": "GRADED_LRR",
+  "label": "R=2.00",
+  "margin": 0.05,
+  "matrix_shapes": {
+    "repair1.W": [
+      128,
+      128
+    ],
+    "repair2.W": [
+      64,
+      64
+    ]
+  },
+  "objective_weights": {
+    "anchor": 0.2,
+    "forget": 0.05,
+    "local": 0.5,
+    "reg": 0.0,
+    "retain": 2.0
+  },
+  "optimizer": {
+    "learning_rate": 0.0003,
+    "type": "Adam",
+    "weight_decay": 0.0
+  },
+  "output_root": "D:\\LRR-GNNDELETE\\lrr_v4_12_single_seed_ablation",
+  "resolved_profile_sha256": "7d58e1e46f294f533dffc5e0c31ba04c33966831fed9205e3a93a3e0c8332497",
+  "resolved_training_profile_sha256": "9bfb5911009822a5ccf4b285bce5e7215f92fa5b5f4e601f3bc579186187f734",
+  "run_id": "objective_retain_2p00",
+  "seed": 42,
+  "selection_rule": "strict max validation DT_AUC + Df_AUC; exact tie -> earlier",
+  "selector_id": "S6-GNNDELETE-SUM-v1",
+  "setting": "GCN / Cora / Ed_IN / 2.5% / seed42",
+  "source_bindings": {
+    "formal_entrypoint": {
+      "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runners\\gcn_cora_2p5_fullrank.py",
+      "sha256": "264ef7ac82e373458d7c552e2ed3c28a2c1d18654b3e67e6e29c0793c0cfc7a2",
+      "size_bytes": 14959
+    },
+    "formal_graph_manifest": {
+      "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase1b5_formal_p2_multiseed_3000_cora\\seed42\\df_request\\graph_identity.json",
+      "sha256": "3b637ce313eb52b119fbfe87eacd3f2e88af0207745ef31457fe03f51b9589c7",
+      "size_bytes": 2517
+    },
+    "formal_matrix_summary": {
+      "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\cora__gcn__ed_in__2p5__seed42\\matrix_summary.json",
+      "sha256": "c65c9f4aa1dcd0556b322baff6a4229db0adc15b6ca17deb46569fc599e0544c",
+      "size_bytes": 17483
+    },
+    "formal_profile": {
+      "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\cora__gcn__ed_in__2p5__seed42\\resolved_training_profile.json",
+      "sha256": "10966ed88fb6077af2c100a5516ae3e425c771f6e62b4bc50620bd2ee9fc4071",
+      "size_bytes": 3494
+    },
+    "formal_request": {
+      "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase1b5_formal_p2_multiseed_3000_cora\\seed42\\df_request\\df_request.pt",
+      "sha256": "c93d11e3df80e2f8d86f5aba76cc0800aa047cbe48afde94435db3869163beca",
+      "size_bytes": 36157
+    },
+    "formal_snapshot": {
+      "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runners\\snapshots\\gcn_phase1b5_formal_runner.py",
+      "sha256": "03580341ef421521177f60e49054000f51454994b00e5179a7f4e65626c7a30b",
+      "size_bytes": 50426
+    },
+    "fullrank_operator": {
+      "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runners\\fullrank_operators.py",
+      "sha256": "64821d1599e5c1a84fe45cc4fa98d19165a60c7d14e47f3d7609bdfc4338f132",
+      "size_bytes": 9540
+    },
+    "fullrank_trainer": {
+      "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runners\\gcn_fullrank_common.py",
+      "sha256": "21e3852fa6b1c27ce9921e17b5aa351e8f2ad92b3ae004b656d24e0396273763",
+      "size_bytes": 12264
+    },
+    "original_checkpoint": {
+      "path": "D:\\LRR-GNNDELETE\\checkpoint\\Cora\\gcn\\original\\42\\model_best.pt",
+      "sha256": "0b995836d5a4ca4a9ac05d6b4b2ef2293568cd169201a49af5dae9105bd5b5b6",
+      "size_bytes": 13485237
+    },
+    "reference_runner": {
+      "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase1b5_p2_operator_multiseed_cora\\src\\phase1b5_runner.py",
+      "sha256": "a3109efc9587e5ee1f6828e05a1b7fad67f45aed830270503c83ef0b8cbbac42",
+      "size_bytes": 117852
+    },
+    "runtime_support": {
+      "path": "D:\\LRR-GNNDELETE\\framework\\lrr_runtime.py",
+      "sha256": "02e19ee90d70b755e7f72c77bf61e58e04de5a9c9654710397824a95545a9d58",
+      "size_bytes": 11024
+    },
+    "sampling": {
+      "path": "D:\\LRR-GNNDELETE\\framework\\sampling.py",
+      "sha256": "c155368d2ae5e6ed8c43080ef766752b791ee4918102493ba15672d37e295297",
+      "size_bytes": 21315
+    },
+    "shared_objective": {
+      "path": "D:\\LRR-GNNDELETE\\framework\\trainer\\shared_objective.py",
+      "sha256": "aabf8702653406d7ebd2b6fc49ee41f27d4b923c3cb9a0e9e51a17a9dec327f9",
+      "size_bytes": 41585
+    }
+  },
+  "stage": "objective",
+  "status": "PREPARED",
+  "test_metrics_used_for_selection": false,
+  "updates": 3000,
+  "validation_frequency": 100,
+  "zero_initialization": true
+}

@@ -1,0 +1,14 @@
+{
+  "arm": "LRR-P2",
+  "device": "cuda:0",
+  "epochs": 3000,
+  "existing_800_checkpoint_loaded": false,
+  "learning_rate": 0.0003,
+  "optimizer": "torch.optim.Adam",
+  "resolved_formal_profile_sha256": "d7033734cfed79eddd42983ceb09e029820ebaaf33ca7f23f9a16e17817b983b",
+  "resume": false,
+  "seed": 42,
+  "start_epoch": 0,
+  "validation_frequency": 100,
+  "weight_decay": 0.0
+}

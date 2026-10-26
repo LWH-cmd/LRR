@@ -1,0 +1,146 @@
+[
+  {
+    "source": "research_data_hub/LRR/PAPER_FORMAL_DATA_HUB/00_FORMAL_MANIFEST.md",
+    "sha256": "471c7c8b3eeb3427b2b5a9b0cfac4a538a60598f7c759bc5fd8815d6ae72825b",
+    "expected": "471c7c8b3eeb3427b2b5a9b0cfac4a538a60598f7c759bc5fd8815d6ae72825b",
+    "status": "PASS"
+  },
+  {
+    "source": "research_data_hub/LRR/PAPER_FORMAL_DATA_HUB/03_PROTOCOL_REGISTRY.csv",
+    "sha256": "3db52dde31e9374e2f56af21ca1f86fab9cc264e63de803732a14977ddd315d6",
+    "expected": "3db52dde31e9374e2f56af21ca1f86fab9cc264e63de803732a14977ddd315d6",
+    "status": "PASS"
+  },
+  {
+    "source": "research_data_hub/LRR/PAPER_FORMAL_DATA_HUB/04_MAIN_RESULTS_SETTING_LEVEL.csv",
+    "sha256": "bded47a1d53df32fd3c9d06b5765d0a7b493b4b123845049cf530c34b63585d2",
+    "expected": "bded47a1d53df32fd3c9d06b5765d0a7b493b4b123845049cf530c34b63585d2",
+    "status": "PASS"
+  },
+  {
+    "source": "research_data_hub/LRR/PAPER_FORMAL_DATA_HUB/05_MAIN_RESULTS_SEED_LEVEL.csv",
+    "sha256": "8a93ce19b0c188217b4b2de139e2967245e49ae67a8540ab7e2c0a11d5b153dd",
+    "expected": "8a93ce19b0c188217b4b2de139e2967245e49ae67a8540ab7e2c0a11d5b153dd",
+    "status": "PASS"
+  },
+  {
+    "source": "research_data_hub/LRR/PAPER_FORMAL_DATA_HUB/06_BASELINE_REGISTRY.csv",
+    "sha256": "e024b170d41fe99b7b1fdaa1d1cffd43ad372a7e13c90080e596574a76532f1d",
+    "expected": "e024b170d41fe99b7b1fdaa1d1cffd43ad372a7e13c90080e596574a76532f1d",
+    "status": "PASS"
+  },
+  {
+    "source": "research_data_hub/LRR/PAPER_FORMAL_DATA_HUB/08_ABLATION_BUNDLE.csv",
+    "sha256": "19fd1ba02cb4ae3b489aecec9e50a3ef035c2b6df9a7c324e78c0a5c4fb0b169",
+    "expected": "19fd1ba02cb4ae3b489aecec9e50a3ef035c2b6df9a7c324e78c0a5c4fb0b169",
+    "status": "PASS"
+  },
+  {
+    "source": "research_data_hub/LRR/PAPER_FORMAL_DATA_HUB/11_RGCN_PROVENANCE.csv",
+    "sha256": "a97b760ddd2d941a76793efc6920ff7f2f3990463f47fa1702895350eb34626c",
+    "expected": "a97b760ddd2d941a76793efc6920ff7f2f3990463f47fa1702895350eb34626c",
+    "status": "PASS"
+  },
+  {
+    "source": "research_data_hub/LRR/PAPER_FORMAL_DATA_HUB/12_METRIC_DEFINITIONS.md",
+    "sha256": "54c8017536c6a6fe52b1e69202197eab8395566cd10f29ad1c531a78eb372c8d",
+    "expected": "54c8017536c6a6fe52b1e69202197eab8395566cd10f29ad1c531a78eb372c8d",
+    "status": "PASS"
+  },
+  {
+    "source": "research_data_hub/LRR/PAPER_FORMAL_DATA_HUB/13_SOURCE_LEDGER.csv",
+    "sha256": "389e8e595189a7eb51c880f4e8b768fa286f4044c8006224d7a5b67efc0ae337",
+    "expected": "389e8e595189a7eb51c880f4e8b768fa286f4044c8006224d7a5b67efc0ae337",
+    "status": "PASS"
+  },
+  {
+    "source": "results_new_baselines/SCGU/SCGU_CURRENT_FORMAL_BINDING_20260927.json",
+    "sha256": "d7389c8a958be80f1c99bfa73481554d708ef527f230b7de3dd8248ba4688fa3",
+    "expected": "d7389c8a958be80f1c99bfa73481554d708ef527f230b7de3dd8248ba4688fa3",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/scgu_formal_update_20260927/SCGU_HOMOGENEOUS_3000_SEED_RESULTS.csv",
+    "sha256": "7629b57ebb40c525e36147e0a2f31a61029620d7d3480269bb013c575cabef59",
+    "expected": "7629b57ebb40c525e36147e0a2f31a61029620d7d3480269bb013c575cabef59",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/scgu_formal_update_20260927/SCGU_RGCN_1600_SEED_RESULTS.csv",
+    "sha256": "0707f1def4fa3aaac48db76268568a75fbd0e353267664920cad027c8f44091a",
+    "expected": "0707f1def4fa3aaac48db76268568a75fbd0e353267664920cad027c8f44091a",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/final_completion_20260926/inpo_s_seed_results.csv",
+    "sha256": "652119189a470c42b71656d318a16f3839c10dc3bf4734da1286f14a3438181c",
+    "expected": "652119189a470c42b71656d318a16f3839c10dc3bf4734da1286f14a3438181c",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/final_completion_20260926/inpo_s_setting_summary.csv",
+    "sha256": "9584fc7fac3398527471a4132ace1c8f62626f8554e5dd55c22c343178469cd6",
+    "expected": "9584fc7fac3398527471a4132ace1c8f62626f8554e5dd55c22c343178469cd6",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/fullrank_homogeneous_launch_manifest.json",
+    "sha256": "cef7e6690cac9459f939aa62178d3ebb7ad979633ca11ec20526654188634ab7",
+    "expected": "cef7e6690cac9459f939aa62178d3ebb7ad979633ca11ec20526654188634ab7",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/RGCN_FULLRANK_FINAL_RESULTS_18.json",
+    "sha256": "55833accc0a601b5d184444404d0397c47deafbd66ff74f898373bd7691afe03",
+    "expected": "55833accc0a601b5d184444404d0397c47deafbd66ff74f898373bd7691afe03",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/fullrank_main_matrix_20260826/runners/rgcn_final_common.py",
+    "sha256": "b109bd5250ff36cc005d29dc4f4f20a52188bbb8bd31928ef34b78ba2b08425b",
+    "expected": "b109bd5250ff36cc005d29dc4f4f20a52188bbb8bd31928ef34b78ba2b08425b",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/ablation_seed_results.tsv",
+    "sha256": "9ed3f18cb56534bc0519d1aa0bf25d9d0ae19d3d3b43269f9f8aad26522faf4a",
+    "expected": "9ed3f18cb56534bc0519d1aa0bf25d9d0ae19d3d3b43269f9f8aad26522faf4a",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/phase5_lrr_patent_ablation/20260915/manifest.json",
+    "sha256": "c4a36b11c78be15d94741e70ad43ab58c1c1e82ce4f50fd2d38c269fc031780c",
+    "expected": "c4a36b11c78be15d94741e70ad43ab58c1c1e82ce4f50fd2d38c269fc031780c",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/unified_ablation_gcn_cora_edin2p5_20260829/unified_ablation_results.json",
+    "sha256": "3388773e6a1c4d83bcdcedea190b3b4ad3321db05b49c1005a8a3d8a3ab48821",
+    "expected": "3388773e6a1c4d83bcdcedea190b3b4ad3321db05b49c1005a8a3d8a3ab48821",
+    "status": "PASS"
+  },
+  {
+    "source": "framework/sampling.py",
+    "sha256": "c155368d2ae5e6ed8c43080ef766752b791ee4918102493ba15672d37e295297",
+    "expected": "c155368d2ae5e6ed8c43080ef766752b791ee4918102493ba15672d37e295297",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "sha256": "aebccfb59bac52d032bd1f412e0c46d391f38ca0e227cae72ab8f289bc5c70b2",
+    "expected": "aebccfb59bac52d032bd1f412e0c46d391f38ca0e227cae72ab8f289bc5c70b2",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/reports/retrain_protocol_authority_audit.md",
+    "sha256": "7fd72c05d67ee685422a39a9eccc85e0bee374e067f672a63bf77c2c572ffdfd",
+    "expected": "7fd72c05d67ee685422a39a9eccc85e0bee374e067f672a63bf77c2c572ffdfd",
+    "status": "PASS"
+  },
+  {
+    "source": "isolated_experiments/phase4c_wordnet18rr_p2_wf_adaptation_seed42/src/p2_formal.py",
+    "sha256": "9b6814bb748118ea9d5093e75563ffbb06a57fc45d181c037e451b3fb13c76bf",
+    "expected": "9b6814bb748118ea9d5093e75563ffbb06a57fc45d181c037e451b3fb13c76bf",
+    "status": "PASS"
+  }
+]

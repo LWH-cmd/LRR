@@ -1,0 +1,22 @@
+[
+  {
+    "name": "lrr-pretrained-models.tar.gz",
+    "bytes": 344948673,
+    "sha256": "eddb5fdd2ff2b613192bc7ff7a93f5032e0b8cfe03919b023947e7927bc46b67",
+    "role": "Original checkpoint lineage for all 138 LRR seed cells"
+  },
+  {
+    "name": "lrr-main-checkpoints.tar.gz",
+    "bytes": 319714358,
+    "sha256": "ae2035e757111aa0dcf00abfae9e4af3667d2b231118d668f0449988a8fe1e7a",
+    "role": "Only final-paper selected main checkpoint states",
+    "objects": 138
+  },
+  {
+    "name": "lrr-ablation-sensitivity-checkpoints.tar.gz",
+    "bytes": 249829582,
+    "sha256": "1132a2a9f4a3f02d550a2984956f0635f5ff6dc2efc343f642482d899258b994",
+    "role": "Only final-paper selected controls checkpoint states",
+    "objects": 57
+  }
+]

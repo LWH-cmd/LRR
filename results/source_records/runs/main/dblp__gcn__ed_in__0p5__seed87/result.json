@@ -1,0 +1,228 @@
+{
+  "DT_AUC": 0.9508631442302421,
+  "DT_AUP": 0.9568756082487575,
+  "Df_AUC": 0.9973655931207607,
+  "Df_AUP": 0.9978484463278902,
+  "architecture": "GCN",
+  "cell_id": "dblp__gcn__ed_in__0p5__seed87",
+  "dataset": "DBLP",
+  "deletion_type": "Ed_IN",
+  "formal_runner": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase2e1_ed_in_ratio_robustness_formal\\src\\formal_runner.py",
+  "formal_runner_family": "GCN_PHASE2E1_EDIN_RATIO_AWARE",
+  "implementation_gate": {
+    "BACKBONE_FROZEN": "YES",
+    "BUDGET_IDENTICAL": "YES",
+    "FORMAL_ASSETS_IDENTICAL": "YES",
+    "FORMAL_SELECTOR_IDENTICAL": "YES",
+    "FULLRANK_GOLDEN_REPLAY": "NOT_APPLICABLE",
+    "FULLRANK_IS_RESIDUAL": "YES",
+    "FULLRANK_PARAMETER_COUNT": 20480,
+    "FULLRANK_UPDATE0_IDENTITY": "PASS",
+    "LOCALIZATION_IDENTICAL": "YES",
+    "ONLY_PARAMETERIZATION_CHANGED": "YES",
+    "P2_IDENTICAL": "YES",
+    "TRAINABLE_PARAMETER_ALLOWLIST": "PASS",
+    "UNEXPECTED_TRAINABLE_PARAMETERS": 0,
+    "existing_fullrank_golden_replay": "NOT_APPLICABLE",
+    "formal_residual_placement_preserved": "YES",
+    "formal_residual_sharing_semantics_preserved": "YES",
+    "identity": {
+      "missing_keys": [
+        "repair1.W",
+        "repair2.W"
+      ],
+      "operator": "FullRank-Local-P2",
+      "trainable_parameter_count": 20480,
+      "trainable_parameter_names": [
+        "repair1.W",
+        "repair2.W"
+      ],
+      "unexpected_keys": []
+    },
+    "relation_specific_backbone_computation_unchanged": "YES",
+    "status": "PASS",
+    "trainable_parameter_names": [
+      "repair1.W",
+      "repair2.W"
+    ],
+    "update0_max_abs_output_diff": 4.76837158203125e-07
+  },
+  "protocol_completion": {
+    "backbone_frozen": true,
+    "checkpoint_reload": {
+      "final": {
+        "checkpoint_sha256": "5e2588f56a6d0effbd65b4c71954215955902e7ce04d785243503b02e4986dd3",
+        "checkpoint_size_bytes": 1124871,
+        "cpu": {
+          "device": "cpu",
+          "state_hash": "f209a6f3ba3be26b048023a704772d62f1d6f90f64029196b4981f94cbea60ac",
+          "status": "PASS"
+        },
+        "cuda": {
+          "device": "cuda:0",
+          "state_hash": "f209a6f3ba3be26b048023a704772d62f1d6f90f64029196b4981f94cbea60ac",
+          "status": "PASS"
+        },
+        "epoch": 2999,
+        "role": "final",
+        "status": "PASS"
+      },
+      "selected": {
+        "checkpoint_sha256": "192c4522fc72cbff6e00779f749292e8919d97f1a4a3933ef9dfa4a4f01818b1",
+        "checkpoint_size_bytes": 1124925,
+        "cpu": {
+          "device": "cpu",
+          "state_hash": "f209a6f3ba3be26b048023a704772d62f1d6f90f64029196b4981f94cbea60ac",
+          "status": "PASS"
+        },
+        "cuda": {
+          "device": "cuda:0",
+          "state_hash": "f209a6f3ba3be26b048023a704772d62f1d6f90f64029196b4981f94cbea60ac",
+          "status": "PASS"
+        },
+        "epoch": 2999,
+        "role": "selected",
+        "status": "PASS"
+      }
+    },
+    "dataset": "DBLP",
+    "decoder_frozen": true,
+    "decoder_parameter_count": 0,
+    "decoder_parameter_names": [],
+    "df_hash": "4fa04ce39c1076e49ea5708bbe5911a22391e61aed4c2dacee24da4437ae3499",
+    "display_method": "LRR-P2",
+    "dr_hash": "95165cdfb39ce95e26cfdd24f04dead3371c6d0317a9be1386876c26d917a1bb",
+    "ended_at_utc": "2026-08-27T10:44:13.011146+00:00",
+    "epochs_completed": 3000,
+    "execution_head_commit": "fullrank-isolated-head",
+    "failure_or_retry": "NONE",
+    "final_checkpoint_sha256": "5e2588f56a6d0effbd65b4c71954215955902e7ce04d785243503b02e4986dd3",
+    "final_checkpoint_size_bytes": 1124871,
+    "forget_negative_source": "online",
+    "formal_training": true,
+    "git_commit_unchanged": true,
+    "gradient_max": {
+      "repair1.W": 0.14487002789974213,
+      "repair2.W": 0.1333955079317093
+    },
+    "gradient_min": {
+      "repair1.W": 0.0027427030727267265,
+      "repair2.W": 0.003609313862398267
+    },
+    "method": "LRR_P2",
+    "model_identity": {
+      "missing_keys": [
+        "repair1.W",
+        "repair2.W"
+      ],
+      "operator": "FullRank-Local-P2",
+      "trainable_parameter_count": 20480,
+      "trainable_parameter_names": [
+        "repair1.W",
+        "repair2.W"
+      ],
+      "unexpected_keys": []
+    },
+    "operator_delta_norm": 17.19377875878053,
+    "optimizer_allowlist": [
+      "repair1.W",
+      "repair2.W"
+    ],
+    "optimizer_step_counts": {
+      "optimizer": 3000
+    },
+    "optimizer_steps": 3000,
+    "original_checkpoint_sha256": "3ea888e5659c27d5523eb2e5644cef44bbe409755d82202e24795657e12aa926",
+    "phase": "2E-1",
+    "ratio": "0.5",
+    "resolved_config_sha256": "7d7b3431c9b65476d9355f4ad62c9da7dbc66b3e671546cb5cbdf8eac313c7aa",
+    "resume": false,
+    "retain_negative_source": "precomputed",
+    "retrain_selector_leakage": "NONE",
+    "run_class": "FORMAL",
+    "run_id": "fullrank__dblp__gcn__ed_in__0p5__seed87",
+    "runtime": {
+      "checkpoint_serialization_seconds": 0.0040822000009939075,
+      "core_training_seconds": 116.85410179999963,
+      "end_to_end_seconds": 118.29685009999957,
+      "final_evaluation_seconds": 0.6217560000004596,
+      "forget_negative_seconds": 49.288019600051484,
+      "peak_cpu_rss_mb": 2928.1171875,
+      "peak_gpu_memory_mb": 278.47607421875,
+      "reporting_seconds": 0.028153999999631196,
+      "retain_negative_seconds": 4.606252099882113,
+      "schedule_identity_validation_seconds": 0.03562580000289017,
+      "setup_seconds": 0.5285092999984045,
+      "teacher_bundle_load_seconds": 0.017359299999952782,
+      "validation_seconds": 18.72174000000814
+    },
+    "seed": 87,
+    "selected_checkpoint_sha256": "192c4522fc72cbff6e00779f749292e8919d97f1a4a3933ef9dfa4a4f01818b1",
+    "selected_checkpoint_size_bytes": 1124925,
+    "selected_epoch": 2999,
+    "selected_support_outside_residual_exact_zero": true,
+    "selection": {
+      "epoch": 2999,
+      "retrain_selector_leakage": "NONE",
+      "score": 1.9523100068585175,
+      "test_leakage": "NONE",
+      "tie_break": [
+        "validation DT AUC higher",
+        "validation Df AUC higher",
+        "validation retain MSE lower",
+        "validation total loss lower",
+        "epoch earlier"
+      ],
+      "validation_DT_AUC": 0.9549444137377568,
+      "validation_Df_AUC": 0.9973655931207607,
+      "validation_only": true,
+      "validation_retain_MSE": 0.0030244365334510803,
+      "validation_total_loss": 0.433025985956192
+    },
+    "source_commit": "791ae4762a34167d1ff35423594330f35a2fc8aa",
+    "source_hashes_unchanged": true,
+    "split_hash": "f0126255fd0c42fe368ded43e05ed393e06125b0a717f461656f9fa13821e1ec",
+    "started_at_utc": "2026-08-27T10:42:14.264261+00:00",
+    "status": "ACCEPTED",
+    "support_hash": "690d6196ff8d664cfabba0686122d828e5c14817b846a8fb732e6eaf6b373a22",
+    "support_outside_residual_exact_zero": true,
+    "teacher_frozen": true,
+    "teacher_target_source": "authoritative_bundle",
+    "test_evaluated_after_s6_selection": true,
+    "test_leakage": "NONE",
+    "test_metrics": {
+      "df_auc": 0.9973655931207607,
+      "df_aup": 0.9978484463278902,
+      "df_logit_l1_to_original_mean": 6.554571151733398,
+      "df_logit_mean": -1.941895604133606,
+      "df_logit_std": 3.241788864135742,
+      "dr_control_logit_mean": 4.324755668640137,
+      "dr_control_logit_std": 2.5853817462921143,
+      "dt_auc": 0.9508631442302421,
+      "dt_aup": 0.9568756082487575,
+      "output_logit_l1_to_original_mean": 0.9366294741630554,
+      "retain_probability_abs_drift_mean": 0.02056613378226757,
+      "retain_probability_mse": 0.0030244365334510803,
+      "test_loss": 0.45102354884147644
+    },
+    "trainable_parameter_count": 20480,
+    "trainable_parameter_names": [
+      "repair1.W",
+      "repair2.W"
+    ],
+    "validation_events": 30,
+    "validation_frequency": 100
+  },
+  "ratio": "0.5",
+  "runtime_seconds": 118.29685009999957,
+  "scientific_status": "COMPLETE",
+  "seed": 87,
+  "selected_checkpoint": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__0p5__seed87\\checkpoints\\model_selected.pt",
+  "selected_checkpoint_epoch": 2999,
+  "selected_validation_metrics": {},
+  "status": "COMPLETE",
+  "total_optimizer_updates": 3000,
+  "trainable_parameter_ratio": null,
+  "trainable_params": 20480,
+  "variant": "FullRank-Local-P2"
+}

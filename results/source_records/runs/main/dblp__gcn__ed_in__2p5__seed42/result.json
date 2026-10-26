@@ -1,0 +1,591 @@
+{
+  "DT_AUC": 0.9497066688197138,
+  "DT_AUP": 0.9494791185304405,
+  "Df_AUC": 0.9384267242263502,
+  "Df_AUP": 0.9459009453440976,
+  "architecture": "GCN",
+  "cell_id": "dblp__gcn__ed_in__2p5__seed42",
+  "dataset": "DBLP",
+  "deletion_type": "Ed_IN",
+  "formal_runner": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runners\\snapshots\\gcn_phase2a1_runner.py",
+  "formal_runner_family": "GCN_DBLP_EDIN_2P5_FORMAL",
+  "implementation_gate": {
+    "BACKBONE_FROZEN": "YES",
+    "BUDGET_IDENTICAL": "YES",
+    "FORMAL_ASSETS_IDENTICAL": "YES",
+    "FORMAL_SELECTOR_IDENTICAL": "YES",
+    "FULLRANK_GOLDEN_REPLAY": "NOT_APPLICABLE",
+    "FULLRANK_IS_RESIDUAL": "YES",
+    "FULLRANK_PARAMETER_COUNT": 20480,
+    "FULLRANK_UPDATE0_IDENTITY": "PASS",
+    "LOCALIZATION_IDENTICAL": "YES",
+    "ONLY_PARAMETERIZATION_CHANGED": "YES",
+    "P2_IDENTICAL": "YES",
+    "TRAINABLE_PARAMETER_ALLOWLIST": "PASS",
+    "UNEXPECTED_TRAINABLE_PARAMETERS": 0,
+    "formal_residual_placement_preserved": "YES",
+    "formal_residual_sharing_semantics_preserved": "YES",
+    "formal_runner": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runners\\snapshots\\gcn_phase2a1_runner.py",
+    "identity": {
+      "missing_keys": [
+        "repair1.W",
+        "repair2.W"
+      ],
+      "operator": "FullRank-Local-P2",
+      "trainable_parameter_count": 20480,
+      "trainable_parameter_names": [
+        "repair1.W",
+        "repair2.W"
+      ],
+      "unexpected_keys": []
+    },
+    "relation_specific_backbone_computation_unchanged": "YES",
+    "status": "PASS",
+    "trainable_parameter_names": [
+      "repair1.W",
+      "repair2.W"
+    ],
+    "update0_max_abs_output_diff": 4.76837158203125e-07
+  },
+  "protocol_completion": {
+    "arm": "LRR-P2",
+    "backbone_frozen": true,
+    "best_by_dt_auc_epoch": 199,
+    "best_by_legacy_sum_epoch": 2999,
+    "checkpoint_reload": {
+      "best_by_dt_auc.pt": {
+        "checkpoint_role": "best_by_dt_auc",
+        "epoch": 199,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\best_by_dt_auc.pt",
+        "sha256": "2d9b7e5c045da1c7ca3c12263de5470c9a43156511fce6a7951e0840d6c4be59",
+        "size_bytes": 1129917,
+        "status": "PASS"
+      },
+      "best_by_legacy_sum.pt": {
+        "checkpoint_role": "best_by_legacy_sum",
+        "epoch": 2999,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\best_by_legacy_sum.pt",
+        "sha256": "dac392a3634bead657e22420f185cc6d8fd9077b5bb4b2fff383567191eeed88",
+        "size_bytes": 1129989,
+        "status": "PASS"
+      },
+      "minimum_total_loss.pt": {
+        "checkpoint_role": "minimum_total_loss",
+        "epoch": 2917,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\minimum_total_loss.pt",
+        "sha256": "94ffa848df1f70da1271274e89a90b0680386470ee8e75040996008fb61da740",
+        "size_bytes": 1128645,
+        "status": "PASS"
+      },
+      "model_best.pt": {
+        "checkpoint_role": "formal_model_best_utility_constrained_v1",
+        "epoch": 1599,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\model_best.pt",
+        "sha256": "daff628fe1e679d9bcc9e113a23e5bf3ae5eea39e4576a6da17696ce5dcd66f3",
+        "size_bytes": 1130293,
+        "status": "PASS"
+      },
+      "model_final.pt": {
+        "checkpoint_role": "final",
+        "epoch": 2999,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\model_final.pt",
+        "sha256": "dbb320eb9bd3344c93aaaec2379e02d0414708e00a66d1efc9a2a4560282afea",
+        "size_bytes": 1129863,
+        "status": "PASS"
+      },
+      "utility_constrained_v1.pt": {
+        "checkpoint_role": "utility_constrained_v1",
+        "epoch": 1599,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\utility_constrained_v1.pt",
+        "sha256": "6bc1217cd1a5d29015000f29050027234677357cbe5aef9dba1900bf7d65a67a",
+        "size_bytes": 1130381,
+        "status": "PASS"
+      },
+      "validation_epoch_0099.pt": {
+        "checkpoint_role": "validation_candidate_epoch_99",
+        "epoch": 99,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_0099.pt",
+        "sha256": "37893dea6922b90e200b3b6dbc6c93ee9edf6bb8b8bc3f4afb9f8c092073be19",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_0199.pt": {
+        "checkpoint_role": "validation_candidate_epoch_199",
+        "epoch": 199,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_0199.pt",
+        "sha256": "d3800012cfce047dfd3d78df567fc4bb54fcf73676ecd1ab332a2dd09e1e1fbe",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_0299.pt": {
+        "checkpoint_role": "validation_candidate_epoch_299",
+        "epoch": 299,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_0299.pt",
+        "sha256": "828d697a15a23545d7dbde2ebbb1ead4e423e773d72a8ebd4bdeb206109475b0",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_0399.pt": {
+        "checkpoint_role": "validation_candidate_epoch_399",
+        "epoch": 399,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_0399.pt",
+        "sha256": "42ee0eeb0e82992179b4b36f7f14a93ba60a0df162c98ab98bee63b0e2bcba1f",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_0499.pt": {
+        "checkpoint_role": "validation_candidate_epoch_499",
+        "epoch": 499,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_0499.pt",
+        "sha256": "511502438f89b642bd80a9e48ea10818894944caa56534d286a6e4f6ddc52a7b",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_0599.pt": {
+        "checkpoint_role": "validation_candidate_epoch_599",
+        "epoch": 599,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_0599.pt",
+        "sha256": "9ae01810c7ba852438c8babf5df8ffe6a40cf5b69fc004220e6ab29f69c751ce",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_0699.pt": {
+        "checkpoint_role": "validation_candidate_epoch_699",
+        "epoch": 699,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_0699.pt",
+        "sha256": "33f45086a8cb3120bcd90b2921aef0089ca61ca750a8f7cecd6a0fcc1683a914",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_0799.pt": {
+        "checkpoint_role": "validation_candidate_epoch_799",
+        "epoch": 799,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_0799.pt",
+        "sha256": "6897b3fb4cc75238bc32ee997580d10959195d070e2b9240cac2c6e01364359a",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_0899.pt": {
+        "checkpoint_role": "validation_candidate_epoch_899",
+        "epoch": 899,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_0899.pt",
+        "sha256": "8925f98a041751bc58bf19b304595598e8c1a771c363def5e082bf37ea3ce932",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_0999.pt": {
+        "checkpoint_role": "validation_candidate_epoch_999",
+        "epoch": 999,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_0999.pt",
+        "sha256": "337c0d3d283b78ea5a5814b90c9883f6e6bc89cce94395d84429377274ccc93e",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_1099.pt": {
+        "checkpoint_role": "validation_candidate_epoch_1099",
+        "epoch": 1099,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_1099.pt",
+        "sha256": "e9d61eec3433b7c8f6503f7a04b42e96032c680412e03ccbf915b8885e1b3089",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_1199.pt": {
+        "checkpoint_role": "validation_candidate_epoch_1199",
+        "epoch": 1199,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_1199.pt",
+        "sha256": "5322ede7c4dbe5def6ba94bfd1ae07e2690a97726acf3e7b71e739f50473d7b3",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_1299.pt": {
+        "checkpoint_role": "validation_candidate_epoch_1299",
+        "epoch": 1299,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_1299.pt",
+        "sha256": "fd5f143725106c20b3bf138c081e8daa6650032de5192f16378942545ead1227",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_1399.pt": {
+        "checkpoint_role": "validation_candidate_epoch_1399",
+        "epoch": 1399,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_1399.pt",
+        "sha256": "17335c570145bb2f93bc1c9a811d922e7a48ed586e8cb4f66da567fe79a620ed",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_1499.pt": {
+        "checkpoint_role": "validation_candidate_epoch_1499",
+        "epoch": 1499,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_1499.pt",
+        "sha256": "45e0f42fee5865aa69c83ac4397ea7f96f41dca216c4bfd7083b4690973b1c8c",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_1599.pt": {
+        "checkpoint_role": "validation_candidate_epoch_1599",
+        "epoch": 1599,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_1599.pt",
+        "sha256": "eca05469bdd7e356f00575890be38c8988cc2a15e263c0f4f14dcbbfe366ad26",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_1699.pt": {
+        "checkpoint_role": "validation_candidate_epoch_1699",
+        "epoch": 1699,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_1699.pt",
+        "sha256": "594120cc696cef8d5d15457a955e6f1ba96e1ef3416f762c0445d504509f25a9",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_1799.pt": {
+        "checkpoint_role": "validation_candidate_epoch_1799",
+        "epoch": 1799,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_1799.pt",
+        "sha256": "b6aaf8ad370ab61f99491d2cd7fcb7f2aa10e73a3cb32df273a88211f24ce6f6",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_1899.pt": {
+        "checkpoint_role": "validation_candidate_epoch_1899",
+        "epoch": 1899,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_1899.pt",
+        "sha256": "ac15cf40ed1fe57a928ff758492af654e6f84f314679d5c7095bd5ab6b3d906f",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_1999.pt": {
+        "checkpoint_role": "validation_candidate_epoch_1999",
+        "epoch": 1999,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_1999.pt",
+        "sha256": "947292a4ce9d26ae35daa0ea314e21b888d9419bb35250f01bc94e64e82de6c5",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_2099.pt": {
+        "checkpoint_role": "validation_candidate_epoch_2099",
+        "epoch": 2099,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_2099.pt",
+        "sha256": "ae29eef438026e64b01050b357f312f6d4b6ce0e814aef6edfa890391e064895",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_2199.pt": {
+        "checkpoint_role": "validation_candidate_epoch_2199",
+        "epoch": 2199,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_2199.pt",
+        "sha256": "632fa21a01b66b608da9dc4eb347faa9b359ad986b864709a1aa0fc09f84d02c",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_2299.pt": {
+        "checkpoint_role": "validation_candidate_epoch_2299",
+        "epoch": 2299,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_2299.pt",
+        "sha256": "bb66c2e85c4d9524c2982bbe52f30494f52e1383b5239085d01b573a1735e2ef",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_2399.pt": {
+        "checkpoint_role": "validation_candidate_epoch_2399",
+        "epoch": 2399,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_2399.pt",
+        "sha256": "6e5fdc178978271686cdf9b85a27d08428642d14efcc89023ae73ec1a14bd540",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_2499.pt": {
+        "checkpoint_role": "validation_candidate_epoch_2499",
+        "epoch": 2499,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_2499.pt",
+        "sha256": "282bdb5720d2821d32d0ba77eb4fdf17116ae5fb1d5d3f85e04e6555fdfdbba3",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_2599.pt": {
+        "checkpoint_role": "validation_candidate_epoch_2599",
+        "epoch": 2599,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_2599.pt",
+        "sha256": "0ce65209a6a78d2086988738c72d38fd14e305a8dd8148bdf246bd1b49da5217",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_2699.pt": {
+        "checkpoint_role": "validation_candidate_epoch_2699",
+        "epoch": 2699,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_2699.pt",
+        "sha256": "b2c1d6e97001e72bcd03d21738f2029ca45eebbba6f0cc659cde7d2679f5f49e",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_2799.pt": {
+        "checkpoint_role": "validation_candidate_epoch_2799",
+        "epoch": 2799,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_2799.pt",
+        "sha256": "4318f26d31727f7af7b76d9b4ad694fda3dc2a512cb72d330ad3519c4a539ebb",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_2899.pt": {
+        "checkpoint_role": "validation_candidate_epoch_2899",
+        "epoch": 2899,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_2899.pt",
+        "sha256": "1b4b878d36715c4c2ce10bad78c041e17b4f1e7939edd8c861712a58983c3773",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      },
+      "validation_epoch_2999.pt": {
+        "checkpoint_role": "validation_candidate_epoch_2999",
+        "epoch": 2999,
+        "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\validation_epoch_2999.pt",
+        "sha256": "dca38e85a0d33830951427b35b8d1e39920db44847163606790144cca4914b59",
+        "size_bytes": 1130043,
+        "status": "PASS"
+      }
+    },
+    "dataset": "CitationFull/DBLP",
+    "end_to_end_time_seconds": 385.3213098049164,
+    "epochs_completed": 3000,
+    "evaluation_bundle_sha256": "edb38b4861ab55132deb5070cbda47a512ee10e724e3218a9377c428e86535a3",
+    "exact_shared_teacher_targets": true,
+    "feasible_candidate_count": 16,
+    "formal_training": true,
+    "graph_identity_sha256": "92275ba72745e9a640099669532081ff20b1e25b61e1b4873044117017c2cfbd",
+    "human_review_decision_id": "HR-P2A-DBLP-PREP-SEED42-20260727",
+    "minimum_total_loss": 0.48839208483695984,
+    "model_best": {
+      "path": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\model_best.pt",
+      "selected_epoch": 1599,
+      "selector": "utility_constrained_v1"
+    },
+    "negative_sampling_sentinels": {
+      "0": {
+        "epoch": 0,
+        "forget_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":0,\"sample_role\":\"forget_negative\"}",
+        "forget_negative_key_sha256": "2c321e84e048c97291805371603156c54a5972acc44036986f33d7c1d9ec44d7",
+        "forget_negative_tensor_sha256": "8b1e3b636ace940886edfbf9f1e429164c25189e9b37d5b9c26b571ebeb2daf1",
+        "negative_sampling_contract_version": "pyg_2_6_1_sparse_directed_v1",
+        "retain_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":0,\"sample_role\":\"retain_negative\"}",
+        "retain_negative_key_sha256": "7097041cc340454b54fa65aedf145fafec09e597838759570b6122ea06949e4e",
+        "retain_negative_tensor_sha256": "f7adef805416d005f10065c5cf2aa429c522788698ecbe9bb4318c7a9202c1ac",
+        "step": 0
+      },
+      "1299": {
+        "epoch": 1299,
+        "forget_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":1299,\"sample_role\":\"forget_negative\"}",
+        "forget_negative_key_sha256": "b5455292067c5e3d0fd95425e68dbf1b8feb4c09df43ee909aee551ce816e624",
+        "forget_negative_tensor_sha256": "3e0dd5378481533a6a60c19ee2d8f6a692708c0973e6c1ddd49f7d7c6f670c26",
+        "negative_sampling_contract_version": "pyg_2_6_1_sparse_directed_v1",
+        "retain_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":1299,\"sample_role\":\"retain_negative\"}",
+        "retain_negative_key_sha256": "b5cba9cfa3d17f4ca5b94a0388843bc16d4d15fa6ce614be2623af0bdee09513",
+        "retain_negative_tensor_sha256": "41e140531ff0175d77b06746fece9d88af94a2beedf793d44af5cc7d86d0d33c",
+        "step": 0
+      },
+      "199": {
+        "epoch": 199,
+        "forget_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":199,\"sample_role\":\"forget_negative\"}",
+        "forget_negative_key_sha256": "4c6dfba9ebfc304755d83508369343005315aaf8cee6a8ff52fe76b6ad5cde92",
+        "forget_negative_tensor_sha256": "c0cd73c938db44cdcdf1895b6c1b9663497ea1bc0b95d5c79a0b69ae53149259",
+        "negative_sampling_contract_version": "pyg_2_6_1_sparse_directed_v1",
+        "retain_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":199,\"sample_role\":\"retain_negative\"}",
+        "retain_negative_key_sha256": "674b300255cd0a33b88fd4d014766d836e5404d02add91476ec23f8ba22fb922",
+        "retain_negative_tensor_sha256": "b56430dc5c499cb960e5bbf2a6a1d7cddc0419073bf9ee25c0d29c15f4708037",
+        "step": 0
+      },
+      "1999": {
+        "epoch": 1999,
+        "forget_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":1999,\"sample_role\":\"forget_negative\"}",
+        "forget_negative_key_sha256": "e7c08e7995d6d08e9f3790220e4534aaa7323b984d07ce0acc9c87c1d24451a5",
+        "forget_negative_tensor_sha256": "a4b8ab0431d8241d9bf329e95a9057105fd28d8f2407f8ec04bddfcd73059b10",
+        "negative_sampling_contract_version": "pyg_2_6_1_sparse_directed_v1",
+        "retain_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":1999,\"sample_role\":\"retain_negative\"}",
+        "retain_negative_key_sha256": "4dca7e578a1e18d4fe0f5b3d983f9a49d766ed1862fa5df28dd67e76fb6a9f4c",
+        "retain_negative_tensor_sha256": "7402998eee707a03617c2baf48c30271b1977f0c9d9e4ed4443e39472d5022c3",
+        "step": 0
+      },
+      "2499": {
+        "epoch": 2499,
+        "forget_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":2499,\"sample_role\":\"forget_negative\"}",
+        "forget_negative_key_sha256": "d75d66e5a7020cb11f38a6b9f558392df5368acfea95be009597565937d398bd",
+        "forget_negative_tensor_sha256": "be5327fd6fe42dfabedfdd86f5706201a1c96ee113ff4da89fed64023670ad65",
+        "negative_sampling_contract_version": "pyg_2_6_1_sparse_directed_v1",
+        "retain_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":2499,\"sample_role\":\"retain_negative\"}",
+        "retain_negative_key_sha256": "c70f1780b2b0f930de86b92f89c6d10e573e9861bf9eee32e040321996470f4e",
+        "retain_negative_tensor_sha256": "ed0f10c1b5796e8e901f8c7fda9f8edc41a7a9968282316bd7cfca86e8e49536",
+        "step": 0
+      },
+      "2999": {
+        "epoch": 2999,
+        "forget_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":2999,\"sample_role\":\"forget_negative\"}",
+        "forget_negative_key_sha256": "4f350a1cde3b7ac2922ab2618b810b1e864ca50d4a5eb589d372fdf47d6a42dc",
+        "forget_negative_tensor_sha256": "9fa8b91c11a0c78deda0e20928a4ce9ee669eac261f893a487b85b4e6d82f9ad",
+        "negative_sampling_contract_version": "pyg_2_6_1_sparse_directed_v1",
+        "retain_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":2999,\"sample_role\":\"retain_negative\"}",
+        "retain_negative_key_sha256": "887d566d7fde24b2887ec190c09bae1635f92c15765da5d0e9722f4d588c1c79",
+        "retain_negative_tensor_sha256": "4246e5f9c57401600a8d28d19a55a12d3691ce6c1adb7782b90f55e326bd9bb1",
+        "step": 0
+      },
+      "399": {
+        "epoch": 399,
+        "forget_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":399,\"sample_role\":\"forget_negative\"}",
+        "forget_negative_key_sha256": "cabd53e9b20b8cac68a73a72b1c7caedd29510defcbc64788b0f7bd70fe4e9d3",
+        "forget_negative_tensor_sha256": "2852d31a4992af74cf5d9f36ad115c39ca6aa43c06a8ee3ce561dc438b0bc555",
+        "negative_sampling_contract_version": "pyg_2_6_1_sparse_directed_v1",
+        "retain_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":399,\"sample_role\":\"retain_negative\"}",
+        "retain_negative_key_sha256": "36c590e269b63cb305a773a4b657a831aa67e3ba2c85d2a50db019c2c8ab5efd",
+        "retain_negative_tensor_sha256": "2784e8e6beeeed627bdc8ee55e8a07613888048301ad0411a542eb28db9e4415",
+        "step": 0
+      },
+      "799": {
+        "epoch": 799,
+        "forget_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":799,\"sample_role\":\"forget_negative\"}",
+        "forget_negative_key_sha256": "d9cadf14ba9a7f4708efe52b3b4b04562fc95952a8cc5b21c6d6399050373c78",
+        "forget_negative_tensor_sha256": "b0ce7c9f7a7ea6abdc55b07ef25f1400ea4b079ba087a28bd2371b672e2e5741",
+        "negative_sampling_contract_version": "pyg_2_6_1_sparse_directed_v1",
+        "retain_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":799,\"sample_role\":\"retain_negative\"}",
+        "retain_negative_key_sha256": "573998c770e5972ed1e1742bf0fa068ae195ed6f78af9dbd0d4af1d2e0583d29",
+        "retain_negative_tensor_sha256": "72efcd464adef40da40e0981071adcdc9b57785b3967642c7683d32f1f8c3aaf",
+        "step": 0
+      },
+      "99": {
+        "epoch": 99,
+        "forget_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":99,\"sample_role\":\"forget_negative\"}",
+        "forget_negative_key_sha256": "61bc7caa10d37ac965fa32d20c27731f7cd450f7d5d7c8e981dea2370b0eaaea",
+        "forget_negative_tensor_sha256": "889a566db83eb58ebd930bdb97dcc3d347ba33b0a3935882be69cb622a933f47",
+        "negative_sampling_contract_version": "pyg_2_6_1_sparse_directed_v1",
+        "retain_negative_key": "{\"dataset\":\"DBLP\",\"backbone\":\"gcn\",\"deletion_mode\":\"in\",\"deletion_ratio\":\"2.5\",\"run_seed\":42,\"epoch_or_static_marker\":99,\"sample_role\":\"retain_negative\"}",
+        "retain_negative_key_sha256": "1beeec2f64fc4885d52a6a89b4d662ea7859252884ea30144be9e49e034f24af",
+        "retain_negative_tensor_sha256": "e421df3f7ca7cfbef19f8e56eb49ffe135f463414885804c07a903f2eba3400a",
+        "step": 0
+      }
+    },
+    "operator_parameter_delta_norm": 11.89402884689176,
+    "optimizer_steps_completed": 3000,
+    "original_validation_metrics": {
+      "df_auc": 0.49320302945206307,
+      "df_aup": 0.483218809472705,
+      "df_logit_l1_to_original_mean": 0.0,
+      "df_logit_mean": 4.600129127502441,
+      "df_logit_std": 2.5922343730926514,
+      "dr_control_logit_mean": 4.488508224487305,
+      "dr_control_logit_std": 2.3173747062683105,
+      "dt_auc": 0.9680258205306487,
+      "dt_aup": 0.9718014731009267,
+      "output_logit_l1_to_original_mean": 0.0,
+      "retain_probability_abs_drift_mean": 0.0,
+      "retain_probability_mse": 0.0,
+      "validation_loss": 0.42567121982574463
+    },
+    "peak_cuda_memory_bytes": 630999552,
+    "resume": false,
+    "retrain_metrics_used_for_selection": false,
+    "seed": 42,
+    "start_epoch": 0,
+    "static_bundle_sha256": "c94994bdeb3bbeb2d6fa0a95840b00d0675c95ff5301485c8522b51b661eb261",
+    "status": "PASS",
+    "support_outside_residual_exact_zero": true,
+    "teacher_frozen": true,
+    "test_metrics_used_for_selection": false,
+    "trainable_parameter_count": 20480,
+    "trainable_parameter_names": [
+      "repair1.W",
+      "repair2.W"
+    ],
+    "training_time_seconds": 382.2920706272125,
+    "utility_floor": 0.9583455623253422,
+    "utility_selected_epoch": 1599,
+    "utility_selected_validation_metrics": {
+      "anchor_loss": 0.00554520171135664,
+      "anchor_total_count": 46392,
+      "df_auc": 0.9251916092354857,
+      "df_aup": 0.934061526772369,
+      "df_logit_l1_to_original_mean": 3.3961358070373535,
+      "df_logit_mean": 1.2041953802108765,
+      "df_logit_std": 0.5948910117149353,
+      "dr_control_logit_mean": 3.1410622596740723,
+      "dr_control_logit_std": 1.5219204425811768,
+      "dt_auc": 0.9584354563321555,
+      "dt_aup": 0.9570315888063281,
+      "epoch": 1599,
+      "forget_loss": 1.5797951221466064,
+      "forget_margin_violation_rate": 0.931034505367279,
+      "forget_negative_score_mean": -0.013514013029634953,
+      "forget_positive_score_mean": 1.203058123588562,
+      "legacy_sum": 1.8836270655676413,
+      "local_edge_count": 41002,
+      "local_loss": 0.011280789040029049,
+      "original_validation_dt_auc": 0.9680258205306487,
+      "output_logit_l1_to_original_mean": 1.3581178188323975,
+      "reg_loss": 0.0,
+      "retain_loss": 0.4101070463657379,
+      "retain_negative_count": 50000,
+      "retain_negative_logit_mean": -0.007305865176022053,
+      "retain_positive_count": 50000,
+      "retain_positive_logit_mean": 3.138378381729126,
+      "retain_probability_abs_drift_mean": 0.04834509640932083,
+      "retain_probability_mse": 0.005531536415219307,
+      "retrain_metrics_used": false,
+      "student_local_prob_mean": 0.8958451747894287,
+      "teacher_local_prob_mean": 0.9793692827224731,
+      "test_metrics_used": false,
+      "total_loss": 0.4958462417125702,
+      "utility_feasible": true,
+      "utility_floor": 0.9583455623253422,
+      "validation_loss": 0.4510997235774994
+    },
+    "utility_selector_status": "PASS",
+    "validation_event_count": 30,
+    "validation_frequency": 100
+  },
+  "ratio": "2.5",
+  "runtime_seconds": 401.8477877999976,
+  "scientific_status": "COMPLETE",
+  "seed": 42,
+  "selected_checkpoint": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\dblp__gcn__ed_in__2p5__seed42\\checkpoints\\model_selected.pt",
+  "selected_checkpoint_epoch": 2999,
+  "selected_validation_metrics": {
+    "anchor_loss": 0.005197716876864433,
+    "anchor_total_count": 46392,
+    "df_auc": 0.9384267242263502,
+    "df_aup": 0.9459009451908124,
+    "df_logit_l1_to_original_mean": 3.5752646923065186,
+    "df_logit_mean": 1.0269901752471924,
+    "df_logit_std": 0.8347797989845276,
+    "dr_control_logit_mean": 3.247044086456299,
+    "dr_control_logit_std": 1.5775140523910522,
+    "dt_auc": 0.9553507584122368,
+    "dt_aup": 0.955666133451025,
+    "epoch": 2999,
+    "forget_loss": 1.483815312385559,
+    "forget_margin_violation_rate": 0.8755256533622742,
+    "forget_negative_score_mean": -0.006507271435111761,
+    "forget_positive_score_mean": 1.0313233137130737,
+    "legacy_sum": 1.893777482638587,
+    "local_edge_count": 41002,
+    "local_loss": 0.010627436451613903,
+    "original_validation_dt_auc": 0.9680258205306487,
+    "output_logit_l1_to_original_mean": 1.3956892490386963,
+    "reg_loss": 0.0,
+    "retain_loss": 0.41035038232803345,
+    "retain_negative_count": 50000,
+    "retain_negative_logit_mean": -0.0005180187872610986,
+    "retain_positive_count": 50000,
+    "retain_positive_logit_mean": 3.251744270324707,
+    "retain_probability_abs_drift_mean": 0.04483160749077797,
+    "retain_probability_mse": 0.005247399676591158,
+    "retrain_metrics_used": false,
+    "student_local_prob_mean": 0.9029876589775085,
+    "teacher_local_prob_mean": 0.9793692827224731,
+    "test_metrics_used": false,
+    "total_loss": 0.4908944070339203,
+    "utility_feasible": false,
+    "utility_floor": 0.9583455623253422,
+    "validation_loss": 0.4523354768753052
+  },
+  "selection_rule": "strict max validation DT_AUC + Df_AUC; exact tie -> earlier",
+  "selector_id": "S6-GNNDELETE-SUM-v1",
+  "status": "COMPLETE",
+  "total_optimizer_updates": 3000,
+  "trainable_parameter_ratio": 0.09386916984452918,
+  "trainable_params": 20480,
+  "variant": "FullRank-Local-P2"
+}

@@ -1,0 +1,72 @@
+% Literal numeric table excerpts from the bound final manuscript.
+
+\begin{table*}
+\centering
+\caption{Hyperparameter sensitivity analysis on Cora/GCN/$\mathrm{Ed}_{\mathrm{IN}}$/2.5\% under seed 42. Each variant modifies a single parameter from default settings ($\lambda_F=0.05, \lambda_L=0.5, \lambda_R=1.0, \lambda_A=0.2, m=0.05$).}\label{tab:sensitivity}
+\renewcommand{\arraystretch}{1.04}
+\small
+\setlength{\tabcolsep}{3.2pt}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lcccccc}
+\toprule
+Configuration & DT-AUC & Df-AUC & J-AUC & DT-AUP & Df-AUP & J-AUP \\
+\midrule
+Default & 0.9538 & 0.9244 & 0.9391 & 0.9476 & 0.9266 & 0.9371 \\
+$\lambda_F$=0.025 & 0.9606 & 0.8607 & 0.9106 & 0.9577 & 0.8503 & 0.9040 \\
+$\lambda_F$=0.10 & 0.9436 & 0.9575 & 0.9505 & 0.9328 & 0.9627 & 0.9478 \\
+$\lambda_L$=0.25 & 0.9527 & 0.9297 & 0.9412 & 0.9461 & 0.9327 & 0.9394 \\
+$\lambda_L$=1.00 & 0.9552 & 0.9154 & 0.9353 & 0.9496 & 0.9163 & 0.9330 \\
+$\lambda_R$=0.50 & 0.9468 & 0.9511 & 0.9490 & 0.9375 & 0.9559 & 0.9467 \\
+$\lambda_R$=2.00 & 0.9598 & 0.8703 & 0.9151 & 0.9566 & 0.8621 & 0.9093 \\
+$\lambda_A$=0.10 & 0.9535 & 0.9258 & 0.9397 & 0.9472 & 0.9282 & 0.9377 \\
+$\lambda_A$=0.40 & 0.9543 & 0.9218 & 0.9380 & 0.9482 & 0.9236 & 0.9359 \\
+margin=0.025 & 0.9539 & 0.9241 & 0.9390 & 0.9477 & 0.9263 & 0.9370 \\
+margin=0.10 & 0.9537 & 0.9250 & 0.9393 & 0.9474 & 0.9273 & 0.9374 \\
+\bottomrule
+\end{tabular*}
+\end{table*}
+
+\begin{table}
+\centering
+\footnotesize
+\caption{Trainable parameter comparison under representative GCN and RGCN configurations.}\label{tab:params}
+\setlength{\tabcolsep}{3.5pt}
+\begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}lrr}
+\toprule
+Method & GCN & RGCN \\
+\midrule
+LRR & 20,480 & 20,480 \\
+GNNDelete & 20,480 & 20,480 \\
+SCGU & 6,144 & 58,368 \\
+INPO-S & 20,480 & -- \\
+GIF & 1,123,264 & -- \\
+GraphEditor & 0 & -- \\
+UtU & 0 & 0 \\
+D2D & 1,123,264 & 5,806,848 \\
+GradAscent & 1,123,264 & -- \\
+Retrain & 1,123,264 & 5,806,848 \\
+\bottomrule
+\end{tabular*}
+\end{table}
+
+\begin{table}
+\centering
+\fontsize{7.3}{8.7}\selectfont
+\caption{Wall-clock training time (in seconds) across benchmark configurations. A dash (--) denotes methods inapplicable to the corresponding architecture.}\label{tab:runtime}
+\setlength{\tabcolsep}{3pt}
+\begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}lcc}
+\toprule
+Method & GCN & RGCN \\
+\midrule
+LRR & 57.22 $\pm$ 1.52 & 69.05 $\pm$ 1.66 \\
+GNNDelete & 101.94 $\pm$ 0.62 & 90.67 $\pm$ 2.97 \\
+SCGU & 65.55 $\pm$ 0.40 & 100.38 $\pm$ 2.59 \\
+INPO-S & 5.55 $\pm$ 0.18 & -- \\
+GIF & 123.51 $\pm$ 0.23 & -- \\
+GraphEditor & 1.17 $\pm$ 0.05 & -- \\
+UtU & 0.25 $\pm$ 0.01 & 1.22 $\pm$ 0.05 \\
+D2D & 0.10 $\pm$ 0.01 & 9.23 $\pm$ 0.22 \\
+GradAscent & 27.04 $\pm$ 1.25 & 19.18 $\pm$ 0.75 \\
+Retrain & 214.45 $\pm$ 5.31 & 2029.15 $\pm$ 43.63 \\
+\bottomrule
+\end{tabular*}
+\end{table}

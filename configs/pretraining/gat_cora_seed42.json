@@ -1,0 +1,14 @@
+{
+  "dataset": "Cora",
+  "backbone": "gat",
+  "seed": 42,
+  "epochs": 2000,
+  "validation_interval": 500,
+  "lr": 0.001,
+  "weight_decay": 0.0,
+  "selector": "min_validation_bce",
+  "model_seed": 2915296615634140645,
+  "training_negative_seed": 8602391061045671635,
+  "data_path": "data/processed/Cora/seed42.pt",
+  "output_path": "outputs/pretrain/gat_cora_seed42.pt"
+}

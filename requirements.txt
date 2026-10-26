@@ -1,0 +1,6 @@
+torch>=2.7,<2.8
+torch-geometric==2.6.1
+torch-sparse==0.6.18
+numpy>=1.26
+scikit-learn>=1.4
+PyYAML>=6.0

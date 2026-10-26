@@ -1,0 +1,41 @@
+{
+  "zip_sha256": "b8aee723bf7cd078ed01dd36e93ccb0cd4ecb84268ce961e74d374c3fcf46bad",
+  "zip_name": "LRR_APPENDIX_FINAL_OVERLEAF.zip",
+  "files": [
+    {
+      "path": "results/source_records/paper_data_readme.md",
+      "sha256": "80b8f8f7a3a740b940dac47ac1c6e0813826339633e5d7d18a57bfa556c881e4",
+      "paper_member": "data/README.md"
+    },
+    {
+      "path": "results/paper/benchmark_summary.csv",
+      "sha256": "eb089fe6fb7c0ad61c7b92e12c4a6755e70160a355981e5c48a97f53d160db8a",
+      "paper_member": "data/benchmark_components.csv"
+    },
+    {
+      "path": "results/paper/benchmark_seed_results.csv",
+      "sha256": "a70154b68160aaa371bb69e44d766cb113239327d2b04b08fed4bcaf03206fe1",
+      "paper_member": "data/benchmark_seed_components.csv"
+    },
+    {
+      "path": "results/paper/distance_decay_seed_results.csv",
+      "sha256": "bb88f6c9ca4de2f107f889af079ade39049b61bf63f8b10db797b023781ff413",
+      "paper_member": "data/distance_decay_seed_components.csv"
+    },
+    {
+      "path": "results/paper/formulation_control_seed_results.csv",
+      "sha256": "75b58735b6653b024dd76c8e879bcecbf1671b9e53d55a0ed269d7988e2a87c1",
+      "paper_member": "data/formulation_control_seed_components.csv"
+    },
+    {
+      "path": "results/paper/main_joint_metrics.csv",
+      "sha256": "a3f9d64566448df48e5cdc8b7af606d698a4210361a4eb98b0cdbd7c8964ca30",
+      "paper_member": "data/main_joint_metrics_verified_anchor.csv"
+    },
+    {
+      "path": "results/paper/spatial_control_seed_results.csv",
+      "sha256": "3c7446d3022a89838acead616012058f8ff74ae160616953a6f2b9a915b33be2",
+      "paper_member": "data/spatial_control_seed_components.csv"
+    }
+  ]
+}

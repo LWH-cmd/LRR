@@ -1,0 +1,14 @@
+{
+  "dataset": "DBLP",
+  "backbone": "gat",
+  "seed": 13,
+  "epochs": 2000,
+  "validation_interval": 500,
+  "lr": 0.001,
+  "weight_decay": 0.0,
+  "selector": "min_validation_bce",
+  "model_seed": 8981997852375841763,
+  "training_negative_seed": 4309298403861085992,
+  "data_path": "data/processed/DBLP/seed13.pt",
+  "output_path": "outputs/pretrain/gat_dblp_seed13.pt"
+}

@@ -1,0 +1,1082 @@
+[
+  {
+    "cell_id": "cora__gat__ed_in__0p5__seed13",
+    "path": "data/deletion_requests/cora__gat__ed_in__0p5__seed13.npz",
+    "sha256": "25c9fbf24e55c3bf5acc8d36a1255f4355a30be4cf281b2431df5bd0414b3850",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed13.pt",
+    "source_sha256": "45eab77774dc93d908676dd8ce3f1959f9fcab2fbca754307c4220a9008d806b",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__0p5__seed21",
+    "path": "data/deletion_requests/cora__gat__ed_in__0p5__seed21.npz",
+    "sha256": "e1f78144bb8d25ce728ccee0d1bf7e491e301fae57ef0b03e75a880d188477f1",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed21.pt",
+    "source_sha256": "dbacddab0d2349d14ee81689bc0143fc6e7a738aa66d69af7b8ded0cc6e483c7",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__0p5__seed42",
+    "path": "data/deletion_requests/cora__gat__ed_in__0p5__seed42.npz",
+    "sha256": "29cded11c1bc01cec23b8a3a7715943c7b6e44dcf362a76b1113bd76db6b89bc",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed42.pt",
+    "source_sha256": "2c9cf332fc57970da8ed1d0d0785cdbc47022ccd61924705f3522643acdded92",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__0p5__seed87",
+    "path": "data/deletion_requests/cora__gat__ed_in__0p5__seed87.npz",
+    "sha256": "6e365f3bc428a9409c2934b842e39fc307c31cc6154ebb4a6423d168c5b3b908",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed87.pt",
+    "source_sha256": "7e3dfd7bd9b6650eeb76980c11e7ad14ac200a391d02a2b7d638cbf4328e1914",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__0p5__seed100",
+    "path": "data/deletion_requests/cora__gat__ed_in__0p5__seed100.npz",
+    "sha256": "fd9ab526fbe3fc4d8e640e5ec0eb593ec6fe4236db3e5ae95adf3119fe59aa79",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed100.pt",
+    "source_sha256": "587f9d654ac12c69cefd3ee150e0ff2d371c44bf65f444e7c7bad2d1fd901f4c",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__2p5__seed13",
+    "path": "data/deletion_requests/cora__gat__ed_in__2p5__seed13.npz",
+    "sha256": "d4e90766ca2929eec615ba2268b5dc956a7c3e7729b36a1b2d127d8de45a1ae7",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed13.pt",
+    "source_sha256": "ba2441335a82f089b9a03e7994cb5d8d43907cba6c6b0303f687a5549a8ddddb",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__2p5__seed21",
+    "path": "data/deletion_requests/cora__gat__ed_in__2p5__seed21.npz",
+    "sha256": "56c2eb3a15fce51a0ce542b84513b00bf1df7b215ff1cfa5c605b5c487718a2c",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed21.pt",
+    "source_sha256": "904f8507a736c093d310429f880b525a96c19d4c3b6ef0a62b1c836964bfb59f",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__2p5__seed42",
+    "path": "data/deletion_requests/cora__gat__ed_in__2p5__seed42.npz",
+    "sha256": "9ca62de99a7e73df325f524485a17171d270afc2ff012b43ccb6374bc6704988",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed42.pt",
+    "source_sha256": "2b3e184b361090296342fed20b439b71915829caf931e77b97aada80d689feff",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__2p5__seed87",
+    "path": "data/deletion_requests/cora__gat__ed_in__2p5__seed87.npz",
+    "sha256": "432c7859969003fb1fe9b846afd32e27b4e8fd3ec75da3cbb9890d853085f510",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed87.pt",
+    "source_sha256": "26348e24b7f77b0ee9e535ec9bf560b9098399a849dc160d07ea5922fbb67476",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__2p5__seed100",
+    "path": "data/deletion_requests/cora__gat__ed_in__2p5__seed100.npz",
+    "sha256": "9b1815cbcf78887498085bb4855273256ce215de60b4c4b216eea411f2788b6e",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed100.pt",
+    "source_sha256": "43caf297129ec8c3e50ace0d44203cf639cd60624ab157c7535a7a9ee5dc3de5",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__5p0__seed13",
+    "path": "data/deletion_requests/cora__gat__ed_in__5p0__seed13.npz",
+    "sha256": "b8cc28a22eb4fd99ee1bccc118268a844303d20daf57ca6231deb71ac143c178",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed13.pt",
+    "source_sha256": "8fc3546b3ff7c9ec1b448dab0ec5414ed17a218ac6b066dd2731dc91fd4a07a1",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__5p0__seed21",
+    "path": "data/deletion_requests/cora__gat__ed_in__5p0__seed21.npz",
+    "sha256": "dabb9c7b0e4b98940ffaaec3c33ced99f632d197d1c4350dd6162b7a648236a3",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed21.pt",
+    "source_sha256": "15121e486fbae3e7f5788ba12d5c3fc37cbb6d2ee9976d68cb3858216d91f685",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__5p0__seed42",
+    "path": "data/deletion_requests/cora__gat__ed_in__5p0__seed42.npz",
+    "sha256": "cba1d25b6d434d3083f79b9e8fe063fe3016d490895593e3663d378ee2df7125",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed42.pt",
+    "source_sha256": "c67cc85e21c448818533c8a831f19d7986c91c75532806014044d1c9c478605c",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__5p0__seed87",
+    "path": "data/deletion_requests/cora__gat__ed_in__5p0__seed87.npz",
+    "sha256": "f8ec005b2da03f4cdbfd4e7a4c1ee5d52924c1dc0c8812454a365f07d6a2c31b",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed87.pt",
+    "source_sha256": "74122995176a9235eba64bf1d1dd93e73f4b033c91a452f7913c801e13b7d2e6",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__5p0__seed100",
+    "path": "data/deletion_requests/cora__gat__ed_in__5p0__seed100.npz",
+    "sha256": "034d88493df711814a302af5df24a1f9f8aefdf2eb5c4c652434709b2b96cdd7",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed100.pt",
+    "source_sha256": "2a1deeb6d45fa7f197564dbc4a333d0f3adb9bc13f252d2cb54bd73a4bf049c0",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__0p5__seed13",
+    "path": "data/deletion_requests/cora__gat__ed_out__0p5__seed13.npz",
+    "sha256": "1922c4468cd585efaca57fe7f6bb08e0c7195c7b4ec8dca06c70a565264eadcf",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed13.pt",
+    "source_sha256": "a8ef432ab814bc6c55c3270c2c1e303f8f128b7b58d1271427f176ac6cfa67f7",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__0p5__seed21",
+    "path": "data/deletion_requests/cora__gat__ed_out__0p5__seed21.npz",
+    "sha256": "f4b2172a611a04be5a95000cd4eb1ac246db5bf2348876c4f929d1ec1bf58586",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed21.pt",
+    "source_sha256": "a882a83aa6cc3151ede86c77d0db778aa4ce4130307edd4ff04a6bf0454f208a",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__0p5__seed42",
+    "path": "data/deletion_requests/cora__gat__ed_out__0p5__seed42.npz",
+    "sha256": "bca0823d41b4f27422202aae7fb18624609a4f6fa762743cb1816a52d6c69f54",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed42.pt",
+    "source_sha256": "8d3ae38d7eb42147d9a0a973b322870f3c53ebfb8fadca3ca1f742a89c2b8397",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__0p5__seed87",
+    "path": "data/deletion_requests/cora__gat__ed_out__0p5__seed87.npz",
+    "sha256": "cf979bda30a7dc18804ff0e2698106dd2bbb9efb95f7ad2f47430992c5eaab04",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed87.pt",
+    "source_sha256": "936f9d202ea8fc00ab4f006f315c121b77282c990526be6507a2e5185a68228f",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__0p5__seed100",
+    "path": "data/deletion_requests/cora__gat__ed_out__0p5__seed100.npz",
+    "sha256": "38730ab163e58f34e89f707c203c0ac84725d79192ba03d6fcec9ddb8ef93826",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed100.pt",
+    "source_sha256": "a6aa8ed8c7c93b6d99c0709d77058894e07d741d854bad2204514f4eb1b8d798",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__2p5__seed13",
+    "path": "data/deletion_requests/cora__gat__ed_out__2p5__seed13.npz",
+    "sha256": "b27f26909fd06abfb4bceb7e83c29d618c5a9d81d52cb941ad8092d27b0895aa",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed13.pt",
+    "source_sha256": "c5f9147d4383ab6d5ece358285b8446c0eabb1225cbd5db72b653962af612d69",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__2p5__seed21",
+    "path": "data/deletion_requests/cora__gat__ed_out__2p5__seed21.npz",
+    "sha256": "2c179daf990dcd4f8efb50d0cff0001ebe7d5da86131d258f4423116d00bd36d",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed21.pt",
+    "source_sha256": "ea4c7ca8f1acd48c74a2e1910fab1cc742ae8ca611b0e2e7851dadda8dc172a9",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__2p5__seed42",
+    "path": "data/deletion_requests/cora__gat__ed_out__2p5__seed42.npz",
+    "sha256": "a7aeff0d9ec8396237b528eed40e9ffaf625c23b0e8d1e235d232e489f573fc8",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed42.pt",
+    "source_sha256": "8ec43746b8cd33ef4037a63a9134482e52ff233e5364ef66b6a7fc88a5f3bdc9",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__2p5__seed87",
+    "path": "data/deletion_requests/cora__gat__ed_out__2p5__seed87.npz",
+    "sha256": "12f337bf8d594329b5c17f8cc18de67b35ecdb3a96fa88b3abc3fbd811d74e66",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed87.pt",
+    "source_sha256": "e47aaa2760cec5d4f38d75490f4c693141449179f9af5b5cb632723e04f1121e",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__2p5__seed100",
+    "path": "data/deletion_requests/cora__gat__ed_out__2p5__seed100.npz",
+    "sha256": "f0c7e810d00b235bc65f939972916d1874d1adc90177573a01782b3d710395d2",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed100.pt",
+    "source_sha256": "060d34f6ae0ca379454e0653c065c5f5e5a644fa9f633ef9ddad511eae989931",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__5p0__seed13",
+    "path": "data/deletion_requests/cora__gat__ed_out__5p0__seed13.npz",
+    "sha256": "6be0d4ba173b0c6d6c16553dfc29a8fd71096c06d735630c15985e2c20fb2158",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed13.pt",
+    "source_sha256": "c8067e30aae604b9c8d6296ca7bb698fa33d1a42b635e1b70040ae63bfd17006",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__5p0__seed21",
+    "path": "data/deletion_requests/cora__gat__ed_out__5p0__seed21.npz",
+    "sha256": "653d425675c21a23d5586b7deea5dc23772f12bb695fbd171c10078fa9dddd1b",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed21.pt",
+    "source_sha256": "fdd8d4e3099e4770a50ddf72ed8b0987cb339a8da3c0cc1adbb822bd76e29545",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__5p0__seed42",
+    "path": "data/deletion_requests/cora__gat__ed_out__5p0__seed42.npz",
+    "sha256": "0ba12d8ec99e415ea8a55c6e551159f5a42bb000325a5c298d09b3b03cf66402",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed42.pt",
+    "source_sha256": "739f1a6485f6ed3ea9d21b2c03b49dd52d5c5c32ac427b83aa6e736e5dfc3f45",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__5p0__seed87",
+    "path": "data/deletion_requests/cora__gat__ed_out__5p0__seed87.npz",
+    "sha256": "4e68fc4752f261069fef092f3f4fffb1821babcc2beb66c266bc25eef12eef1e",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed87.pt",
+    "source_sha256": "ec85541017911f73861dd20cebaa5d92fea02c6cca5ce43bb1bca3dff85a5efd",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__5p0__seed100",
+    "path": "data/deletion_requests/cora__gat__ed_out__5p0__seed100.npz",
+    "sha256": "093dfd1770249456f8f5dd5c83db34d0cf267e0d387b288656b12997f58c9fc7",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed100.pt",
+    "source_sha256": "be20fd0cec063f6793b427f82c3baf19e017b1423640609f144a48b782ec41d3",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__0p5__seed13",
+    "path": "data/deletion_requests/dblp__gat__ed_in__0p5__seed13.npz",
+    "sha256": "3ca0cf2cec8c746422f0837ae62d1c44472c04031025cf68f94da742ffc033d0",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed13.pt",
+    "source_sha256": "bdbbb4c04c4cf7d9333d659aa80467f326368048ab82bf82c503f7f5f1c4e325",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__0p5__seed21",
+    "path": "data/deletion_requests/dblp__gat__ed_in__0p5__seed21.npz",
+    "sha256": "44e45d5fae05feb06eab3e6be539a03e5f2b56acc14e791b25bc83a8e778e345",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed21.pt",
+    "source_sha256": "71ed93b87a51e192b59978f37f48b4f9c15c8c97b79e7143b4a3c6ec28de124c",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__0p5__seed42",
+    "path": "data/deletion_requests/dblp__gat__ed_in__0p5__seed42.npz",
+    "sha256": "31bd3db89d46dd1b298e05221ab8afceaa045107cf9c303d10c6f09dacd5f40e",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed42.pt",
+    "source_sha256": "cbe75c9b5b6271d0daae4c45f8a2338d4df7369878855111a48b1d1e5d19e0a4",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__0p5__seed87",
+    "path": "data/deletion_requests/dblp__gat__ed_in__0p5__seed87.npz",
+    "sha256": "337e6caf313e3e8b18cdc332e8cf6963c1c6a40f71e9641a17c27d943c08c6a3",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed87.pt",
+    "source_sha256": "64998c8453f6df3f645043bfaa216acaca7dc6ecd43ffc6e2b1f5885462e49e9",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__0p5__seed100",
+    "path": "data/deletion_requests/dblp__gat__ed_in__0p5__seed100.npz",
+    "sha256": "522da58b0762e61dc1f047beffe5eb1ea0fab29100db5a9e54e6719e02b25387",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed100.pt",
+    "source_sha256": "c068605e962df8fb435080068c1952de8e155d972cb3b79825ed0ab26f8fb80e",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__2p5__seed13",
+    "path": "data/deletion_requests/dblp__gat__ed_in__2p5__seed13.npz",
+    "sha256": "cf542c514e75323aeaefb1bf0fa8a2d20b33b3c3ce6cf89f14228a13fb18249a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed13.pt",
+    "source_sha256": "d3949c84fd825fba08d60af363135c756197e60af6f38edb8e75676a54d3e32d",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__2p5__seed21",
+    "path": "data/deletion_requests/dblp__gat__ed_in__2p5__seed21.npz",
+    "sha256": "5a33172794065fac15e5ff3520517f127857aa596c57f47a5edc4464247914e4",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed21.pt",
+    "source_sha256": "d16176148c2028214fa7e73dee011056bb4c85c05b11656550be2cb90196e7d3",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__2p5__seed42",
+    "path": "data/deletion_requests/dblp__gat__ed_in__2p5__seed42.npz",
+    "sha256": "e84f39b0d9960f042a216fa9884a3afa3792ba51702247ecbac70d69cf4d5f7b",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed42.pt",
+    "source_sha256": "35e165d40eb930cbefc011eba8804aa9e763dbcac5365d625f6cd9a94a0ebd19",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__2p5__seed87",
+    "path": "data/deletion_requests/dblp__gat__ed_in__2p5__seed87.npz",
+    "sha256": "27b70fc0502b3c63a6d35faba6b8800a1e129968b6d52d8566594cf2fd22e58a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed87.pt",
+    "source_sha256": "685e434566a8b2f71d31e8ccc07d99aea060b021253619a0f38168c425c8095b",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__2p5__seed100",
+    "path": "data/deletion_requests/dblp__gat__ed_in__2p5__seed100.npz",
+    "sha256": "a3af9134511859a4322438e666e69412686feabbd20f5ad328d5e459aa065c34",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed100.pt",
+    "source_sha256": "7bf98617f37ff19ede2dc7f229cbc727f8bc14c11c56311e1ec99723a331a32f",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__5p0__seed13",
+    "path": "data/deletion_requests/dblp__gat__ed_in__5p0__seed13.npz",
+    "sha256": "59010345ced6508140f86ecf381dcd0c71137933bd7b25ceafc4c55622989f16",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed13.pt",
+    "source_sha256": "73a4052b59c64708a37de0fbe8a7246b5f13ef7db1abc3b8ba895cc2c398a6e5",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__5p0__seed21",
+    "path": "data/deletion_requests/dblp__gat__ed_in__5p0__seed21.npz",
+    "sha256": "dbf0e715b81e85bf089379eca9ff8063817c13fed20bcae832ce378703ed6eff",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed21.pt",
+    "source_sha256": "6a9cc54a8c2ff609000935dc37c783863d4c22d078d15b2324988eeaf32772fe",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__5p0__seed42",
+    "path": "data/deletion_requests/dblp__gat__ed_in__5p0__seed42.npz",
+    "sha256": "347137d2e76d49a6bf2210a5046f771982010f3f2226a956da43644818d7ec8c",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed42.pt",
+    "source_sha256": "ff7e811900c6e06f237b522bc753c0842db49d41b037308688e0524f9375bfe0",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__5p0__seed87",
+    "path": "data/deletion_requests/dblp__gat__ed_in__5p0__seed87.npz",
+    "sha256": "e69fedddc6c457c396e5768ddab9feef4afc03ca359aa91aead49caa9ca76197",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed87.pt",
+    "source_sha256": "dcd9c186243d596ee897e9bbffb711755d1f9a12673c60ee9afb2d573b35afd1",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__5p0__seed100",
+    "path": "data/deletion_requests/dblp__gat__ed_in__5p0__seed100.npz",
+    "sha256": "abf3b85f101448d419162d75baf893488d524dfbfef73f4cdc821e1ed004ece2",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed100.pt",
+    "source_sha256": "b38ae2ea99801bcfe8f863425de444aa84a48b9cbfe809c47792efdb7fcf0a55",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__0p5__seed13",
+    "path": "data/deletion_requests/dblp__gat__ed_out__0p5__seed13.npz",
+    "sha256": "1d3a7a50c5b80322e51a253c8625f3b8c53e8cde91837acf036917bc3a2d45d8",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed13.pt",
+    "source_sha256": "843373057eaa0fb013e3c0ffe19e2c56d7c462e55e04281ada84f5ed461d86c1",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__0p5__seed21",
+    "path": "data/deletion_requests/dblp__gat__ed_out__0p5__seed21.npz",
+    "sha256": "5bdb0da285fcbecf2967811f3117a8dae83dc18e52f1781cbc272a58929583ed",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed21.pt",
+    "source_sha256": "9d84c8bb7950a191fc0af59920756392e01ff5164c199336e923cae23ce1abc7",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__0p5__seed42",
+    "path": "data/deletion_requests/dblp__gat__ed_out__0p5__seed42.npz",
+    "sha256": "e7002ff9fd4fec95970db7d54d17027e873571f856a19ef5e60dbb441f4400e8",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed42.pt",
+    "source_sha256": "b2e5daf13b1f6e32c909415222db38cfa76c273b25be703b14117bee9b07cdba",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__0p5__seed87",
+    "path": "data/deletion_requests/dblp__gat__ed_out__0p5__seed87.npz",
+    "sha256": "00afab1608cca411610bd2b30822a4720ad2bf85898f6767bb685fcbd6b66a4e",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed87.pt",
+    "source_sha256": "2cb384b605407a226dced37f273824616917be8680ec94fe27ca7c75de59873d",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__0p5__seed100",
+    "path": "data/deletion_requests/dblp__gat__ed_out__0p5__seed100.npz",
+    "sha256": "44e4a5d5fa95abe5f7f025836829363e2856428a3cf652ddcee619ad0604e657",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed100.pt",
+    "source_sha256": "0ed45891182a0605dfd52537dca526ab850242eb9da36f4f89e44c2cc6217a15",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__2p5__seed13",
+    "path": "data/deletion_requests/dblp__gat__ed_out__2p5__seed13.npz",
+    "sha256": "74326b35ad178b7470936b5dc09d9a22e7b0a6f2e6d69f2c86a26b737743d393",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed13.pt",
+    "source_sha256": "e6fb665cb4a3b5f6116cdd40bc95efdd8a3995565f14cc122cb70e1e91e1bc80",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__2p5__seed21",
+    "path": "data/deletion_requests/dblp__gat__ed_out__2p5__seed21.npz",
+    "sha256": "9316e356fd513ea010a74449e985f6afd2b6c56aad761fcf07cec4edd8f2e0a1",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed21.pt",
+    "source_sha256": "9d245b1b0bff2e93e7266df09431bbba010b2f380de145831313c20219a8b400",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__2p5__seed42",
+    "path": "data/deletion_requests/dblp__gat__ed_out__2p5__seed42.npz",
+    "sha256": "a238580a6ea9663b895ec5475f9c742406e00dce2c51d41c746e65fce0f264db",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed42.pt",
+    "source_sha256": "9ec4366e4103ee8695fe99c0e8896b6b9b90270c9bf28e1a3af696e74acde303",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__2p5__seed87",
+    "path": "data/deletion_requests/dblp__gat__ed_out__2p5__seed87.npz",
+    "sha256": "bf35bf398f59d20d955e201baebae94bc15f1ea2dcd89e196e658a9c213f8a17",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed87.pt",
+    "source_sha256": "bbebaf934f9e93fdc9d970f1ed1e25dcd91928f7c916af9bea0c1a9533000a48",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__2p5__seed100",
+    "path": "data/deletion_requests/dblp__gat__ed_out__2p5__seed100.npz",
+    "sha256": "188634d8f697ed885ae390833b5dff25a1c6c62ef7c96c746f6e56d28e7a4f18",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed100.pt",
+    "source_sha256": "c8a50f120e2de6c0171d6e84e531c9ebd37544e7f08abae22f6dad26baa1d08c",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__5p0__seed13",
+    "path": "data/deletion_requests/dblp__gat__ed_out__5p0__seed13.npz",
+    "sha256": "acd8d891c764d5e86420d644d8f18604731645139941f97e43562e59ce25d0f3",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed13.pt",
+    "source_sha256": "1b87a43c5e72223aff01f037bce2614e31b7655d1d184eec42952974a1c2c4a8",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__5p0__seed21",
+    "path": "data/deletion_requests/dblp__gat__ed_out__5p0__seed21.npz",
+    "sha256": "763874e6bce5d574ef88b154b3e692fa2a9c895ae068ae354a02a8968d873416",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed21.pt",
+    "source_sha256": "ab135869cb9ab051778cc541f3e1bf70058fa785a5881afbad07213aa9daaf0c",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__5p0__seed42",
+    "path": "data/deletion_requests/dblp__gat__ed_out__5p0__seed42.npz",
+    "sha256": "78bb5c2c8c008a9246774b4e65b89b35d31ea4a3fe80880065f6ac58c284517b",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed42.pt",
+    "source_sha256": "e7e81629a6b70674229c99822df0a572033e7d7ee7fc951bc36fd84bdf82010a",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__5p0__seed87",
+    "path": "data/deletion_requests/dblp__gat__ed_out__5p0__seed87.npz",
+    "sha256": "ff276551ddc4a958c1d6ec1140d8c935c6f36a0ec3d637a1d5fe5d31653e7da2",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed87.pt",
+    "source_sha256": "dda3b547143a84e30fd07212e5033e1677f38e713f5bc273b23405a63bb70310",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__5p0__seed100",
+    "path": "data/deletion_requests/dblp__gat__ed_out__5p0__seed100.npz",
+    "sha256": "637de89252203b5e4ccce7750031ea90a3a39a4953bdd89e468ba1344453b3c8",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed100.pt",
+    "source_sha256": "aa269b96ddcc71fe434acaa3527b86157c16976743252f01b10784f6e4195d85",
+    "field": "df",
+    "source_manifest": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__2p5__seed13",
+    "path": "data/deletion_requests/cora__gcn__ed_in__2p5__seed13.npz",
+    "sha256": "d4e90766ca2929eec615ba2268b5dc956a7c3e7729b36a1b2d127d8de45a1ae7",
+    "source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed13/df_request/df_request.pt",
+    "source_sha256": "266872c48f96057f99e6648f79a87f76139c847bb0013d4f8f29cb2802c45982",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed13/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__2p5__seed21",
+    "path": "data/deletion_requests/cora__gcn__ed_in__2p5__seed21.npz",
+    "sha256": "56c2eb3a15fce51a0ce542b84513b00bf1df7b215ff1cfa5c605b5c487718a2c",
+    "source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed21/df_request/df_request.pt",
+    "source_sha256": "65b9c932111475b53df472e0fbd269ccd379cd389edb9a8cad1cde98eca3dc44",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed21/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__2p5__seed42",
+    "path": "data/deletion_requests/cora__gcn__ed_in__2p5__seed42.npz",
+    "sha256": "9ca62de99a7e73df325f524485a17171d270afc2ff012b43ccb6374bc6704988",
+    "source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed42/df_request/df_request.pt",
+    "source_sha256": "c93d11e3df80e2f8d86f5aba76cc0800aa047cbe48afde94435db3869163beca",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed42/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__2p5__seed87",
+    "path": "data/deletion_requests/cora__gcn__ed_in__2p5__seed87.npz",
+    "sha256": "432c7859969003fb1fe9b846afd32e27b4e8fd3ec75da3cbb9890d853085f510",
+    "source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed87/df_request/df_request.pt",
+    "source_sha256": "478859ecaf6ad9cd73159cad6e8524b498865fdfb065d62fc42304753ddc7855",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed87/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__2p5__seed100",
+    "path": "data/deletion_requests/cora__gcn__ed_in__2p5__seed100.npz",
+    "sha256": "9b1815cbcf78887498085bb4855273256ce215de60b4c4b216eea411f2788b6e",
+    "source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed100/df_request/df_request.pt",
+    "source_sha256": "ea9b200e4faaea7e26741d992f384ecd4902764e750a37af37708b1a49c07025",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed100/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__2p5__seed13",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__2p5__seed13.npz",
+    "sha256": "cf542c514e75323aeaefb1bf0fa8a2d20b33b3c3ce6cf89f14228a13fb18249a",
+    "source": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed13/df_request.pt",
+    "source_sha256": "8a7b1e33f85c9edf668f101a1f837d544263e7bb4cf88985f2fcaef135213aec",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed13/df_request.pt"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__2p5__seed21",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__2p5__seed21.npz",
+    "sha256": "5a33172794065fac15e5ff3520517f127857aa596c57f47a5edc4464247914e4",
+    "source": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed21/df_request.pt",
+    "source_sha256": "f5bf11fa85c0894bb46cfa898b8e6973b3d36ee6c04245aa018a91d6fcffff33",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed21/df_request.pt"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__2p5__seed42",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__2p5__seed42.npz",
+    "sha256": "e84f39b0d9960f042a216fa9884a3afa3792ba51702247ecbac70d69cf4d5f7b",
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/artifacts/df_request/df_request.pt",
+    "source_sha256": "18fcaef35d51404183f678f4110d580b78bdded606a303d23c08fc326e3017db",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/artifacts/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__2p5__seed87",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__2p5__seed87.npz",
+    "sha256": "27b70fc0502b3c63a6d35faba6b8800a1e129968b6d52d8566594cf2fd22e58a",
+    "source": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed87/df_request.pt",
+    "source_sha256": "32e369290c8d4b6f866d1c824bf88ee4d9141df31bda72e601c61b959f756c4c",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed87/df_request.pt"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__2p5__seed100",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__2p5__seed100.npz",
+    "sha256": "a3af9134511859a4322438e666e69412686feabbd20f5ad328d5e459aa065c34",
+    "source": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed100/df_request.pt",
+    "source_sha256": "40bb8cee310b17ff0b181a4dbb49549c2164fd94e1e57dc6d9433744a039d022",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed100/df_request.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__0p5__seed13",
+    "path": "data/deletion_requests/cora__gcn__ed_in__0p5__seed13.npz",
+    "sha256": "25c9fbf24e55c3bf5acc8d36a1255f4355a30be4cf281b2431df5bd0414b3850",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/Cora/ed_in_0p5/seed_13/df_artifact.pt",
+    "source_sha256": "4a556b790c02692657c271d995b0e067df9ad7abbab452495987c929bf5224c5",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_0p5_seed13.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__0p5__seed21",
+    "path": "data/deletion_requests/cora__gcn__ed_in__0p5__seed21.npz",
+    "sha256": "e1f78144bb8d25ce728ccee0d1bf7e491e301fae57ef0b03e75a880d188477f1",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/Cora/ed_in_0p5/seed_21/df_artifact.pt",
+    "source_sha256": "10c24ae402edf4b37f4fa96a01dbc8bbc6ebe8aeea1a76abacecc91d07c4a4a9",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_0p5_seed21.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__0p5__seed42",
+    "path": "data/deletion_requests/cora__gcn__ed_in__0p5__seed42.npz",
+    "sha256": "29cded11c1bc01cec23b8a3a7715943c7b6e44dcf362a76b1113bd76db6b89bc",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/Cora/ed_in_0p5/seed_42/df_artifact.pt",
+    "source_sha256": "ab91cd02d5463b531934de94481141bfde56481108dad3cef3bd9b7262fd0b07",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_0p5_seed42.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__0p5__seed87",
+    "path": "data/deletion_requests/cora__gcn__ed_in__0p5__seed87.npz",
+    "sha256": "6e365f3bc428a9409c2934b842e39fc307c31cc6154ebb4a6423d168c5b3b908",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/Cora/ed_in_0p5/seed_87/df_artifact.pt",
+    "source_sha256": "0f1fd1a1b789cd7121b0989f64bccefe47494b409c7876875bc573b43783de7b",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_0p5_seed87.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__0p5__seed100",
+    "path": "data/deletion_requests/cora__gcn__ed_in__0p5__seed100.npz",
+    "sha256": "fd9ab526fbe3fc4d8e640e5ec0eb593ec6fe4236db3e5ae95adf3119fe59aa79",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/Cora/ed_in_0p5/seed_100/df_artifact.pt",
+    "source_sha256": "f0e6b72280219b0d25bc0d76a80f4ab6d9d7bf5e80e4ba18032dd88cb960eed2",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_0p5_seed100.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__5p0__seed13",
+    "path": "data/deletion_requests/cora__gcn__ed_in__5p0__seed13.npz",
+    "sha256": "b8cc28a22eb4fd99ee1bccc118268a844303d20daf57ca6231deb71ac143c178",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/Cora/ed_in_5p0/seed_13/df_artifact.pt",
+    "source_sha256": "e673f831ba5da2544582cd6556f020f5bc15a630455e299dba5a732125ba69f9",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_5p0_seed13.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__5p0__seed21",
+    "path": "data/deletion_requests/cora__gcn__ed_in__5p0__seed21.npz",
+    "sha256": "dabb9c7b0e4b98940ffaaec3c33ced99f632d197d1c4350dd6162b7a648236a3",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/Cora/ed_in_5p0/seed_21/df_artifact.pt",
+    "source_sha256": "c0290997aec0394ec9e4ca5586ad2e698b51735ccbd121ccede36c904fe1287f",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_5p0_seed21.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__5p0__seed42",
+    "path": "data/deletion_requests/cora__gcn__ed_in__5p0__seed42.npz",
+    "sha256": "cba1d25b6d434d3083f79b9e8fe063fe3016d490895593e3663d378ee2df7125",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/Cora/ed_in_5p0/seed_42/df_artifact.pt",
+    "source_sha256": "0fa4ed7e85d4918df60ff2dd6caf15cf99f5a8523bf57641d4afc75e74f0d0f1",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_5p0_seed42.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__5p0__seed87",
+    "path": "data/deletion_requests/cora__gcn__ed_in__5p0__seed87.npz",
+    "sha256": "f8ec005b2da03f4cdbfd4e7a4c1ee5d52924c1dc0c8812454a365f07d6a2c31b",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/Cora/ed_in_5p0/seed_87/df_artifact.pt",
+    "source_sha256": "6b069e94547ac107b4c67192075af170f934731e127bb6e25370291f8eb4c64c",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_5p0_seed87.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__5p0__seed100",
+    "path": "data/deletion_requests/cora__gcn__ed_in__5p0__seed100.npz",
+    "sha256": "034d88493df711814a302af5df24a1f9f8aefdf2eb5c4c652434709b2b96cdd7",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/Cora/ed_in_5p0/seed_100/df_artifact.pt",
+    "source_sha256": "57479168e2466b3e4196f99071801463096a520ea88418c969d2ff08b15b2504",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_5p0_seed100.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__0p5__seed13",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__0p5__seed13.npz",
+    "sha256": "3ca0cf2cec8c746422f0837ae62d1c44472c04031025cf68f94da742ffc033d0",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/DBLP/ed_in_0p5/seed_13/df_artifact.pt",
+    "source_sha256": "55508e8619c87babd79cb62dcb763d98ed3a76210a5eae5af75e930688123ee8",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_0p5_seed13.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__0p5__seed21",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__0p5__seed21.npz",
+    "sha256": "44e45d5fae05feb06eab3e6be539a03e5f2b56acc14e791b25bc83a8e778e345",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/DBLP/ed_in_0p5/seed_21/df_artifact.pt",
+    "source_sha256": "1da833c9f0c94b188c030804cc8321e40ed6923e8affb9b33de5a3e5fa5d2141",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_0p5_seed21.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__0p5__seed42",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__0p5__seed42.npz",
+    "sha256": "31bd3db89d46dd1b298e05221ab8afceaa045107cf9c303d10c6f09dacd5f40e",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/DBLP/ed_in_0p5/seed_42/df_artifact.pt",
+    "source_sha256": "7768af3f2071b293f00eedf6f65110a8570b3853c8599cf6ada7d59c3e2e3823",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_0p5_seed42.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__0p5__seed87",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__0p5__seed87.npz",
+    "sha256": "337e6caf313e3e8b18cdc332e8cf6963c1c6a40f71e9641a17c27d943c08c6a3",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/DBLP/ed_in_0p5/seed_87/df_artifact.pt",
+    "source_sha256": "ad16ddc9889d039ca6791feb2e4e9b0722a8c86e40d5681e462a360da64ba294",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_0p5_seed87.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__0p5__seed100",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__0p5__seed100.npz",
+    "sha256": "522da58b0762e61dc1f047beffe5eb1ea0fab29100db5a9e54e6719e02b25387",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/DBLP/ed_in_0p5/seed_100/df_artifact.pt",
+    "source_sha256": "2f2751c733f425babef4bc0b578fbb07a1f569213395b3a8a30182cbc25c6c94",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_0p5_seed100.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__5p0__seed13",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__5p0__seed13.npz",
+    "sha256": "59010345ced6508140f86ecf381dcd0c71137933bd7b25ceafc4c55622989f16",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/DBLP/ed_in_5p0/seed_13/df_artifact.pt",
+    "source_sha256": "86ade0650513675361c17a0f6b8e772e820b2c19faa378d55f3a303405e8fc65",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_5p0_seed13.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__5p0__seed21",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__5p0__seed21.npz",
+    "sha256": "dbf0e715b81e85bf089379eca9ff8063817c13fed20bcae832ce378703ed6eff",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/DBLP/ed_in_5p0/seed_21/df_artifact.pt",
+    "source_sha256": "539bae96e350d15684224f99441e9527f04515c696bd3b4150c5f3af3c706451",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_5p0_seed21.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__5p0__seed42",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__5p0__seed42.npz",
+    "sha256": "347137d2e76d49a6bf2210a5046f771982010f3f2226a956da43644818d7ec8c",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/DBLP/ed_in_5p0/seed_42/df_artifact.pt",
+    "source_sha256": "24041041d2171d459a6edad309c4eeec7bd5819b902a74dcf869db609464e22a",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_5p0_seed42.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__5p0__seed87",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__5p0__seed87.npz",
+    "sha256": "e69fedddc6c457c396e5768ddab9feef4afc03ca359aa91aead49caa9ca76197",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/DBLP/ed_in_5p0/seed_87/df_artifact.pt",
+    "source_sha256": "204f4c67552da89765147270d0d4ad45e16894daa101a6145909e4ae61f4965e",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_5p0_seed87.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__5p0__seed100",
+    "path": "data/deletion_requests/dblp__gcn__ed_in__5p0__seed100.npz",
+    "sha256": "abf3b85f101448d419162d75baf893488d524dfbfef73f4cdc821e1ed004ece2",
+    "source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/runtime_artifacts/graphs/DBLP/ed_in_5p0/seed_100/df_artifact.pt",
+    "source_sha256": "541f24f5a286d1da699aa45c166d9eb6c94da6dc4886d373fcae508101657e98",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_5p0_seed100.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__0p5__seed13",
+    "path": "data/deletion_requests/cora__gcn__ed_out__0p5__seed13.npz",
+    "sha256": "1922c4468cd585efaca57fe7f6bb08e0c7195c7b4ec8dca06c70a565264eadcf",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_0p5/seed_13/df_artifact.pt",
+    "source_sha256": "2ab007e40870bf7593d3ef34866cdcd1f09dc983fb2adf5c35aa78130ba8e92a",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_0p5_seed13.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__0p5__seed21",
+    "path": "data/deletion_requests/cora__gcn__ed_out__0p5__seed21.npz",
+    "sha256": "f4b2172a611a04be5a95000cd4eb1ac246db5bf2348876c4f929d1ec1bf58586",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_0p5/seed_21/df_artifact.pt",
+    "source_sha256": "134b4b932bce061280e211a058a97967d835559ca005d4ed66e647c408ee02c5",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_0p5_seed21.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__0p5__seed42",
+    "path": "data/deletion_requests/cora__gcn__ed_out__0p5__seed42.npz",
+    "sha256": "bca0823d41b4f27422202aae7fb18624609a4f6fa762743cb1816a52d6c69f54",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_0p5/seed_42/df_artifact.pt",
+    "source_sha256": "0dcd2af467dd291db8458bc80c1238469c26793065e2477caabb97819dd10b12",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_0p5_seed42.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__0p5__seed87",
+    "path": "data/deletion_requests/cora__gcn__ed_out__0p5__seed87.npz",
+    "sha256": "cf979bda30a7dc18804ff0e2698106dd2bbb9efb95f7ad2f47430992c5eaab04",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_0p5/seed_87/df_artifact.pt",
+    "source_sha256": "9fcdf66896a74d2647e7b5abbbecdab7d722fec7f1998ee2b30c43e1c47f1f0b",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_0p5_seed87.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__0p5__seed100",
+    "path": "data/deletion_requests/cora__gcn__ed_out__0p5__seed100.npz",
+    "sha256": "38730ab163e58f34e89f707c203c0ac84725d79192ba03d6fcec9ddb8ef93826",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_0p5/seed_100/df_artifact.pt",
+    "source_sha256": "c90b5a8368a8ca3572ba479ece133d9d3af6b2204d5c3c385ea04dad67ded3d3",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_0p5_seed100.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__2p5__seed13",
+    "path": "data/deletion_requests/cora__gcn__ed_out__2p5__seed13.npz",
+    "sha256": "b27f26909fd06abfb4bceb7e83c29d618c5a9d81d52cb941ad8092d27b0895aa",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_2p5/seed_13/df_artifact.pt",
+    "source_sha256": "6c4db309c100303012317fb3acbefa1318d8e21dce6558ac773008f22fb0d171",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_2p5_seed13.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__2p5__seed21",
+    "path": "data/deletion_requests/cora__gcn__ed_out__2p5__seed21.npz",
+    "sha256": "2c179daf990dcd4f8efb50d0cff0001ebe7d5da86131d258f4423116d00bd36d",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_2p5/seed_21/df_artifact.pt",
+    "source_sha256": "75f4e1d96affb78fe9205b17ddf4a7cd6ea71ad125d9ee48c4c31606f2049897",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_2p5_seed21.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__2p5__seed42",
+    "path": "data/deletion_requests/cora__gcn__ed_out__2p5__seed42.npz",
+    "sha256": "a7aeff0d9ec8396237b528eed40e9ffaf625c23b0e8d1e235d232e489f573fc8",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_2p5/seed_42/df_artifact.pt",
+    "source_sha256": "96fff0a9d75724b11e46096e0130f66fce3ba7bbc2373eece1c126162e828c85",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_2p5_seed42.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__2p5__seed87",
+    "path": "data/deletion_requests/cora__gcn__ed_out__2p5__seed87.npz",
+    "sha256": "12f337bf8d594329b5c17f8cc18de67b35ecdb3a96fa88b3abc3fbd811d74e66",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_2p5/seed_87/df_artifact.pt",
+    "source_sha256": "bcee8b2754604d7b0c602eab99c1e060cb2b08cbaf15a113f3d79aa47a3569ad",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_2p5_seed87.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__2p5__seed100",
+    "path": "data/deletion_requests/cora__gcn__ed_out__2p5__seed100.npz",
+    "sha256": "f0c7e810d00b235bc65f939972916d1874d1adc90177573a01782b3d710395d2",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_2p5/seed_100/df_artifact.pt",
+    "source_sha256": "376cb7b01b8952a9b3493f7a406aff878f15f2546b1c7131ae97df32ea490b98",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_2p5_seed100.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__5p0__seed13",
+    "path": "data/deletion_requests/cora__gcn__ed_out__5p0__seed13.npz",
+    "sha256": "6be0d4ba173b0c6d6c16553dfc29a8fd71096c06d735630c15985e2c20fb2158",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_5p0/seed_13/df_artifact.pt",
+    "source_sha256": "6be6db72ebf364a67fd90e018385b01549478d1ccb4af91b9d3d45f9edceac30",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_5p0_seed13.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__5p0__seed21",
+    "path": "data/deletion_requests/cora__gcn__ed_out__5p0__seed21.npz",
+    "sha256": "653d425675c21a23d5586b7deea5dc23772f12bb695fbd171c10078fa9dddd1b",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_5p0/seed_21/df_artifact.pt",
+    "source_sha256": "ffa3c4234656683077bbc4cd4e432463b845579d48310c97765a22b274f6e986",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_5p0_seed21.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__5p0__seed42",
+    "path": "data/deletion_requests/cora__gcn__ed_out__5p0__seed42.npz",
+    "sha256": "0ba12d8ec99e415ea8a55c6e551159f5a42bb000325a5c298d09b3b03cf66402",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_5p0/seed_42/df_artifact.pt",
+    "source_sha256": "6d314a206bbac3b6f92d6f2cd6d8cd9cdd1d1501892c85057a8a5cefa666b0b4",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_5p0_seed42.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__5p0__seed87",
+    "path": "data/deletion_requests/cora__gcn__ed_out__5p0__seed87.npz",
+    "sha256": "4e68fc4752f261069fef092f3f4fffb1821babcc2beb66c266bc25eef12eef1e",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_5p0/seed_87/df_artifact.pt",
+    "source_sha256": "8545eb9fe2ef3fdf2bbff2e083222808597c02d987dfdbfeac86e44845def68b",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_5p0_seed87.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__5p0__seed100",
+    "path": "data/deletion_requests/cora__gcn__ed_out__5p0__seed100.npz",
+    "sha256": "093dfd1770249456f8f5dd5c83db34d0cf267e0d387b288656b12997f58c9fc7",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/Cora/ed_out_5p0/seed_100/df_artifact.pt",
+    "source_sha256": "8335472b8b8e376e8ad6720bc6de35b174fec63c3818cb4a96f1d357062ef206",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_5p0_seed100.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__0p5__seed13",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__0p5__seed13.npz",
+    "sha256": "1d3a7a50c5b80322e51a253c8625f3b8c53e8cde91837acf036917bc3a2d45d8",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_0p5/seed_13/df_artifact.pt",
+    "source_sha256": "93c7a70a7d610c27fef0abe25f6808ebd3d3b40a9af8dbd9bbe4b207ed6cba8f",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_0p5_seed13.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__0p5__seed21",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__0p5__seed21.npz",
+    "sha256": "5bdb0da285fcbecf2967811f3117a8dae83dc18e52f1781cbc272a58929583ed",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_0p5/seed_21/df_artifact.pt",
+    "source_sha256": "eb55f5ed2017d5f244dedf04cc2ea4993a140a7744b5752ca267ac702e9fbc1f",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_0p5_seed21.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__0p5__seed42",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__0p5__seed42.npz",
+    "sha256": "e7002ff9fd4fec95970db7d54d17027e873571f856a19ef5e60dbb441f4400e8",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_0p5/seed_42/df_artifact.pt",
+    "source_sha256": "e07c94a95fe883fa3d5e01b1bd163ab74ac927a3f3c84dfc385ac117e7fb8bbb",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_0p5_seed42.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__0p5__seed87",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__0p5__seed87.npz",
+    "sha256": "00afab1608cca411610bd2b30822a4720ad2bf85898f6767bb685fcbd6b66a4e",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_0p5/seed_87/df_artifact.pt",
+    "source_sha256": "040d1a0e45d9639ecbe6af2cf7d8098583da206c31a56d4ce99525335be14674",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_0p5_seed87.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__0p5__seed100",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__0p5__seed100.npz",
+    "sha256": "44e4a5d5fa95abe5f7f025836829363e2856428a3cf652ddcee619ad0604e657",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_0p5/seed_100/df_artifact.pt",
+    "source_sha256": "8c8b020356160a179ebf2d557d92c5f34cda17a2568ae6af0fb007b6c671c39e",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_0p5_seed100.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__2p5__seed13",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__2p5__seed13.npz",
+    "sha256": "74326b35ad178b7470936b5dc09d9a22e7b0a6f2e6d69f2c86a26b737743d393",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_2p5/seed_13/df_artifact.pt",
+    "source_sha256": "c22284f499b804dcc8c8e660d1515b7d0396dbffd4708b94f5be53dc27f37bd7",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_2p5_seed13.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__2p5__seed21",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__2p5__seed21.npz",
+    "sha256": "9316e356fd513ea010a74449e985f6afd2b6c56aad761fcf07cec4edd8f2e0a1",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_2p5/seed_21/df_artifact.pt",
+    "source_sha256": "d2521680b9b0c17a2bdb47b62ce4f4d9e03487c9e8d0f8b582b4f989bfbdf24f",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_2p5_seed21.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__2p5__seed42",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__2p5__seed42.npz",
+    "sha256": "a238580a6ea9663b895ec5475f9c742406e00dce2c51d41c746e65fce0f264db",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_2p5/seed_42/df_artifact.pt",
+    "source_sha256": "6c9de4c515c2ca834cd7b06bae37a15834236fbd8f4708c7a85e2793643382db",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_2p5_seed42.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__2p5__seed87",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__2p5__seed87.npz",
+    "sha256": "bf35bf398f59d20d955e201baebae94bc15f1ea2dcd89e196e658a9c213f8a17",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_2p5/seed_87/df_artifact.pt",
+    "source_sha256": "3cbcfe9fb8da70edeb34a5856cfbafe8ddab422fc58fd8cd62a647c34ac0a2a9",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_2p5_seed87.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__2p5__seed100",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__2p5__seed100.npz",
+    "sha256": "188634d8f697ed885ae390833b5dff25a1c6c62ef7c96c746f6e56d28e7a4f18",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_2p5/seed_100/df_artifact.pt",
+    "source_sha256": "5739a8e3d740da559e0b95c94b1777c3ce901a87bbfd305021d7b518ae413d1b",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_2p5_seed100.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__5p0__seed13",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__5p0__seed13.npz",
+    "sha256": "acd8d891c764d5e86420d644d8f18604731645139941f97e43562e59ce25d0f3",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_5p0/seed_13/df_artifact.pt",
+    "source_sha256": "9d5b2f69c96725a630471afb5958b0930a94d7c9aa0642c42ba7364c0a14d2a3",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_5p0_seed13.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__5p0__seed21",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__5p0__seed21.npz",
+    "sha256": "763874e6bce5d574ef88b154b3e692fa2a9c895ae068ae354a02a8968d873416",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_5p0/seed_21/df_artifact.pt",
+    "source_sha256": "a11d9ba16b07876db2b2b2181e9af095490465073cedb36f78865996c5bfd3ff",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_5p0_seed21.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__5p0__seed42",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__5p0__seed42.npz",
+    "sha256": "78bb5c2c8c008a9246774b4e65b89b35d31ea4a3fe80880065f6ac58c284517b",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_5p0/seed_42/df_artifact.pt",
+    "source_sha256": "3dca07e122e9daf16dc3f17125623332c0ba029ecd31f700d43d9356c669bf4c",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_5p0_seed42.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__5p0__seed87",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__5p0__seed87.npz",
+    "sha256": "ff276551ddc4a958c1d6ec1140d8c935c6f36a0ec3d637a1d5fe5d31653e7da2",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_5p0/seed_87/df_artifact.pt",
+    "source_sha256": "11632b3f976c42dc6c64dbfec34c8af3c90b833a6ac4e6de7687f39376f8889e",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_5p0_seed87.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__5p0__seed100",
+    "path": "data/deletion_requests/dblp__gcn__ed_out__5p0__seed100.npz",
+    "sha256": "637de89252203b5e4ccce7750031ea90a3a39a4953bdd89e468ba1344453b3c8",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/runtime_artifacts/graphs/DBLP/ed_out_5p0/seed_100/df_artifact.pt",
+    "source_sha256": "f62ceed53cd1395571711b5e35dbebca0dd75b2eb05a6cc3210cbf8573f5d7cf",
+    "field": "directed_df_edge_index",
+    "source_manifest": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_5p0_seed100.json"
+  }
+]

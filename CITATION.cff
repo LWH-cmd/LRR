@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Please cite the LRR manuscript associated with this paper release, and GNNDelete for the underlying graph-unlearning infrastructure."
+title: "Localized Residual Repair (LRR): paper reproduction code and final experimental data"
+type: software
+version: paper-v1.0.0
+repository-code: "https://github.com/LWH-cmd/LRR"
+license: MIT

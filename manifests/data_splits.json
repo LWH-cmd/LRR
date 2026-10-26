@@ -1,0 +1,112 @@
+[
+  {
+    "dataset": "Cora",
+    "seed": 13,
+    "path": "data/splits/cora_seed_13.npz",
+    "sha256": "b6d2f2b91658a476c78893553cfe50f77bdf0ac4059d256b7410720d4823c1a6",
+    "source": "data/Cora/d_13.pkl",
+    "source_sha256": "fe6a23a3eafabadcc8a1b85195d0b2aede6daf821ca1947eb2b69525470951da",
+    "feature_sha256": "14de7e9239eacddddb1cb6994b3c7d5a3db010038113277ce547cb410098e996",
+    "num_nodes": 19793,
+    "features": 8710
+  },
+  {
+    "dataset": "Cora",
+    "seed": 21,
+    "path": "data/splits/cora_seed_21.npz",
+    "sha256": "5df590d9719a681f079fe0b632a3bf139f568593b7916d41a006ef3611a88552",
+    "source": "data/Cora/d_21.pkl",
+    "source_sha256": "b71d8ccafe7caf506222c1352fc89876838aa851b0ac9e55b78df0d160fb6419",
+    "feature_sha256": "14de7e9239eacddddb1cb6994b3c7d5a3db010038113277ce547cb410098e996",
+    "num_nodes": 19793,
+    "features": 8710
+  },
+  {
+    "dataset": "Cora",
+    "seed": 42,
+    "path": "data/splits/cora_seed_42.npz",
+    "sha256": "6e4ba5441f57f8304f369b83e2ee85cd444f9eb0a5f9c02378c22b004246d1c4",
+    "source": "data/Cora/d_42.pkl",
+    "source_sha256": "13259c3c8b8f3df6116db44d90f3d5ea66a996d61295e457eee1022fd62692d3",
+    "feature_sha256": "14de7e9239eacddddb1cb6994b3c7d5a3db010038113277ce547cb410098e996",
+    "num_nodes": 19793,
+    "features": 8710
+  },
+  {
+    "dataset": "Cora",
+    "seed": 87,
+    "path": "data/splits/cora_seed_87.npz",
+    "sha256": "e86d44fc8df3c5a2dad108151bb950931b81a3925bfaa3e6829b509894057da1",
+    "source": "data/Cora/d_87.pkl",
+    "source_sha256": "67f097c55b86d7f9ba6317a770ccdbcad9903fcecb67f93dfaf6701238245f32",
+    "feature_sha256": "14de7e9239eacddddb1cb6994b3c7d5a3db010038113277ce547cb410098e996",
+    "num_nodes": 19793,
+    "features": 8710
+  },
+  {
+    "dataset": "Cora",
+    "seed": 100,
+    "path": "data/splits/cora_seed_100.npz",
+    "sha256": "50537f31ad120153e352271881931a02f23a7033fab1e95ac97d0ac10579fa33",
+    "source": "data/Cora/d_100.pkl",
+    "source_sha256": "bbbf2a817942b2fc159afef7e55831df3b3a77c9566c4deb9a47b0091a927994",
+    "feature_sha256": "14de7e9239eacddddb1cb6994b3c7d5a3db010038113277ce547cb410098e996",
+    "num_nodes": 19793,
+    "features": 8710
+  },
+  {
+    "dataset": "DBLP",
+    "seed": 13,
+    "path": "data/splits/dblp_seed_13.npz",
+    "sha256": "a531c3f7a06dc45444a4a431f2300682b5901fa893f4f4e5b7dd0ddcbfb2af84",
+    "source": "data/DBLP/d_13.pkl",
+    "source_sha256": "2e2be5a6b555b17e45c11cef896fd37e0a11fb169cdd504718104893c76ad4b4",
+    "feature_sha256": "5a720478576f0d73265f0aedc1e2a9eab9cbedc69c228d1f4b4d6878f8f0cdf6",
+    "num_nodes": 17716,
+    "features": 1639
+  },
+  {
+    "dataset": "DBLP",
+    "seed": 21,
+    "path": "data/splits/dblp_seed_21.npz",
+    "sha256": "144edc9ed9e1df1e1cf6dbc5737c699d508f74916f344306cbedaa7974a9f985",
+    "source": "data/DBLP/d_21.pkl",
+    "source_sha256": "ce72c4fdbb4270bbd333ff8ebf4b6a5bc4409023677c7d453d0125ee8894035a",
+    "feature_sha256": "5a720478576f0d73265f0aedc1e2a9eab9cbedc69c228d1f4b4d6878f8f0cdf6",
+    "num_nodes": 17716,
+    "features": 1639
+  },
+  {
+    "dataset": "DBLP",
+    "seed": 42,
+    "path": "data/splits/dblp_seed_42.npz",
+    "sha256": "6cd3fe40765411f9217be672a380515aee3812b00bb6bf45dc663f44b9ca3d4d",
+    "source": "data/DBLP/d_42.pkl",
+    "source_sha256": "917a166f6db56aa186bb9494a2b7384df6cf76ecacc2178433122d4536b92752",
+    "feature_sha256": "5a720478576f0d73265f0aedc1e2a9eab9cbedc69c228d1f4b4d6878f8f0cdf6",
+    "num_nodes": 17716,
+    "features": 1639
+  },
+  {
+    "dataset": "DBLP",
+    "seed": 87,
+    "path": "data/splits/dblp_seed_87.npz",
+    "sha256": "aa8c80ba8b0d9a02277179b5a1bfb760c010a762e63f5541793dcde2644dc56e",
+    "source": "data/DBLP/d_87.pkl",
+    "source_sha256": "a65435422aba556491337590abd2bd9065b9ab5375b46a5d8912054ec04a6b3e",
+    "feature_sha256": "5a720478576f0d73265f0aedc1e2a9eab9cbedc69c228d1f4b4d6878f8f0cdf6",
+    "num_nodes": 17716,
+    "features": 1639
+  },
+  {
+    "dataset": "DBLP",
+    "seed": 100,
+    "path": "data/splits/dblp_seed_100.npz",
+    "sha256": "7a72cd3d593e2b1c8ae6efdd2c380146fffb78d11cc3a10a4fb6bda7d80921d1",
+    "source": "data/DBLP/d_100.pkl",
+    "source_sha256": "e9e4025db3fb1ef2187df96bd427549063c126bb7c674ecf66dcdc30f808a44c",
+    "feature_sha256": "5a720478576f0d73265f0aedc1e2a9eab9cbedc69c228d1f4b4d6878f8f0cdf6",
+    "num_nodes": 17716,
+    "features": 1639
+  }
+]

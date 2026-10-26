@@ -1,0 +1,23 @@
+{
+  "dataset": "DBLP",
+  "backbone": "GAT",
+  "deletion_mode": "Ed_IN",
+  "deletion_ratio": "5.0",
+  "seed": 13,
+  "sampling_identity": {
+    "dataset": "DBLP",
+    "backbone": "gat",
+    "deletion_mode": "in",
+    "deletion_ratio": "5.0",
+    "run_seed": 13
+  },
+  "device": "cuda",
+  "bundle_path": "../../data/bundles/dblp__gat__ed_in__5p0__seed13.pt",
+  "output_path": "../../outputs/dblp__gat__ed_in__5p0__seed13.pt",
+  "updates": 3000,
+  "validation_interval": 100,
+  "lr": 0.0003,
+  "weight_decay": 0.0,
+  "evaluate_test": true,
+  "source_cell_id": "dblp__gat__ed_in__5p0__seed13"
+}

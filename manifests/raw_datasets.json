@@ -1,0 +1,32 @@
+[
+  {
+    "dataset": "Cora",
+    "filename": "cora.npz",
+    "sha256": "62e054f93be00a3dedb15b7ac15a2a07168ceab68b40bf95f54d2289d024c6bc",
+    "url": "https://github.com/abojchevski/graph2gauss/raw/master/data/cora.npz"
+  },
+  {
+    "dataset": "DBLP",
+    "filename": "dblp.npz",
+    "sha256": "46da600a15c0680d967b3c9ac83979e3c44dfe5a0ef86e1c42a94d8dee1c1da4",
+    "url": "https://github.com/abojchevski/graph2gauss/raw/master/data/dblp.npz"
+  },
+  {
+    "dataset": "WN18RR",
+    "filename": "train.txt",
+    "sha256": "038612e783c215ee5f3ca9fbfca27b8d0739be1028fe4ee7c174aecf0b83d5df",
+    "url": "https://raw.githubusercontent.com/villmow/datasets_knowledge_embedding/master/WN18RR/original/train.txt"
+  },
+  {
+    "dataset": "WN18RR",
+    "filename": "valid.txt",
+    "sha256": "453ce7202afa58094a04d2b1560ee2b02660f1c260b32ce6651c8ccedd1028ab",
+    "url": "https://raw.githubusercontent.com/villmow/datasets_knowledge_embedding/master/WN18RR/original/valid.txt"
+  },
+  {
+    "dataset": "WN18RR",
+    "filename": "test.txt",
+    "sha256": "0383bceaaa1096cf3c03ec021ed0048068e2355dbfc0239b292cefdac821cec5",
+    "url": "https://raw.githubusercontent.com/villmow/datasets_knowledge_embedding/master/WN18RR/original/test.txt"
+  }
+]

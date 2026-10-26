@@ -1,0 +1,105 @@
+{
+  "anchor_formula": "MSE(sigmoid(student),sigmoid(teacher))",
+  "backbone": "gcn",
+  "budget_profile_id": "P2-RETAIN-HEAVY",
+  "checkpoint_dir": "per-seed/per-arm under isolated Phase 1B-5 root",
+  "checkpoint_selection": "maximize(validation_dt_auc+validation_df_auc)",
+  "dataset": "Cora",
+  "dataset_variant": "CitationFull/CoraFull",
+  "deletion_mode": "in",
+  "deletion_ratio_canonical": "2.5",
+  "early_stopping": false,
+  "epochs": 3000,
+  "forget_formula": "mean(softplus(s_Df-detach(s_negative)+0.05))",
+  "forget_margin": 0.05,
+  "formal_budget_override": {
+    "changed_fields": [
+      "epochs"
+    ],
+    "formal_epochs": 3000,
+    "human_review_correction": true,
+    "source_epochs": 800,
+    "validation_frequency": 100
+  },
+  "gradient_clipping": "disabled",
+  "hidden_dim": 128,
+  "in_dim": 8710,
+  "input_hashes": {
+    "df_request": "1a4f7658c1a021924e95cd472e5b8239931d65c3bb4c9199e7c0dd84dd0ec421",
+    "lrr_source": "4bc220cf125ef0c70ba94a62d8c8fe382cd0a195569060437b869f1250de4bc8",
+    "original_checkpoint": "0b995836d5a4ca4a9ac05d6b4b2ef2293568cd169201a49af5dae9105bd5b5b6",
+    "retrain_checkpoint": "5244c7fe1fcd42ebb8156843c05c2526c5fbe5c617c7ddbfea516503d881b47f"
+  },
+  "input_mode": "feature_matrix",
+  "learning_rate": 0.0003,
+  "local_formula": "MSE(sigmoid(student),sigmoid(teacher))",
+  "method_identity": "lrr",
+  "objective_formula": "0.05*L_forget+0.5*L_local+0.5*L_retain+0.2*L_anchor+0*L_reg",
+  "objective_version": "shared_lrr_objective_v1",
+  "objective_weights": {
+    "anchor": 0.2,
+    "forget": 0.05,
+    "local": 0.5,
+    "reg": 0.0,
+    "retain": 1.0
+  },
+  "optimizer": "torch.optim.Adam",
+  "out_dim": 64,
+  "output_dir": "per-seed/per-arm under isolated Phase 1B-5 root",
+  "profile_schema_version": "phase1b5_formal_p2_3000_profile_v1",
+  "profile_sources": {
+    "model": "Phase 1A approved GCNLRR",
+    "objective": "Phase 0A v1.2 and Phase 0B v1.1 section 13",
+    "optimizer_and_budget": "Phase 0B v1.1 MatchedTrainingBudgetContractV1 and GNNDelete mother homogeneous-GCN non-OGB defaults",
+    "runtime_context": "Phase 1B approved runtime audit",
+    "support": "Phase 0A v1.2 section 7 plus HR-P1B-LRR-OFFICIAL-SUPPORT-20260724"
+  },
+  "rank1": 32,
+  "rank2": 16,
+  "resolved_profile_sha256": "9fc2e74653dc72c907acc60bc32a9afac2dd2cfdf601d11e237f257a1e99161c",
+  "retain_formula": "BCEWithLogits(raw_logits,labels)",
+  "run_seed": 42,
+  "run_type": "formal",
+  "scheduler": "none",
+  "task": "link_prediction",
+  "training_budget_contract_version": "non_formal_parameter_diagnostic_budget_v1",
+  "training_profile": {
+    "budget_override_only": true,
+    "diagnostic_checkpoint_candidates": true,
+    "epochs": 3000,
+    "forget_margin": 0.05,
+    "formal": true,
+    "learning_rate": 0.0003,
+    "objective_weights": {
+      "anchor": 0.2,
+      "forget": 0.05,
+      "local": 0.5,
+      "reg": 0.0,
+      "retain": 0.5
+    },
+    "profile_name": "P2-RETAIN-HEAVY-FORMAL-3000",
+    "profile_schema_version": "shared_training_profile_v2",
+    "profile_type": "FORMAL-MULTI-SEED-P2-OPERATOR-COMPARISON",
+    "source_diagnostic_epochs": 800,
+    "training_profile_sha256": "50c4ef327034084af16a1f3b45b6e4e62c6840838db0be88f3f1c899621b26aa",
+    "validation_frequency": 100
+  },
+  "unlearning_model": "lrr",
+  "v4_12_ablation": {
+    "changed_field": "lambda_R",
+    "gate_mode": "GRADED_LRR",
+    "label": "R=0.50",
+    "margin": 0.05,
+    "objective_weights": {
+      "anchor": 0.2,
+      "forget": 0.05,
+      "local": 0.5,
+      "reg": 0.0,
+      "retain": 0.5
+    },
+    "stage": "objective"
+  },
+  "validation_frequency": 100,
+  "validation_selection_protocol_version": "val_dt_auc_plus_val_df_auc_v1",
+  "weight_decay": 0.0
+}

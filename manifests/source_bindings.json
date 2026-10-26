@@ -1,0 +1,184 @@
+[
+  {
+    "source": "framework/sampling.py",
+    "sha256": "c155368d2ae5e6ed8c43080ef766752b791ee4918102493ba15672d37e295297",
+    "target": "contracts/sampling.py"
+  },
+  {
+    "source": "framework/lrr_runtime.py",
+    "sha256": "02e19ee90d70b755e7f72c77bf61e58e04de5a9c9654710397824a95545a9d58",
+    "target": "contracts/lrr_runtime.py"
+  },
+  {
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/src/prepare_dblp_only.py",
+    "sha256": "0627ced4efff1b00c4b6f7c1b501c0b003b0422472d03cf6969ceb244b382bc0",
+    "symbols": [
+      "split_edges_no_neg_adj_mask"
+    ],
+    "target": "contracts/split.py"
+  },
+  {
+    "source": "isolated_experiments/phase3a_gat_backbone_protocol_freeze/src/support.py",
+    "sha256": "942374bb482e32cc33d75c0eebdb9cbafff69d5d8b52785ddef7136967fcafa7",
+    "target": "contracts/gat_support.py"
+  },
+  {
+    "source": "isolated_experiments/phase3b_gat_original_training/src/runner.py",
+    "sha256": "6ac1fbdc56cf6dcd162942ce66b2754f88f7c919c8651560ca14cfb7d98a692a",
+    "symbols": [
+      "child_seed",
+      "isolated_rng"
+    ],
+    "target": "contracts/gat_rng.py"
+  },
+  {
+    "source": "isolated_experiments/phase4c_rgcn_core_formal_canary/src/relational_core.py",
+    "sha256": "b15acce63079e7751c8d4591e6f9f35e687992543e3848e8107bb05cbb340d9f",
+    "symbols": [
+      "SupportGateBundle",
+      "build_support_gates"
+    ],
+    "target": "contracts/rgcn_support.py"
+  },
+  {
+    "source": "isolated_experiments/phase4c_wordnet18rr_gnndelete_minadapt_seed42/src/run_wn18rr_minadapt.py",
+    "sha256": "c10cbe23d798c923c5faec2c5e854f36cb3fe00786a8f0bac8eb7bfcf7b7b3d0",
+    "symbols": [
+      "set_seed",
+      "canonical_key",
+      "key_seed",
+      "evaluation_positions",
+      "load_graph",
+      "negative_sampling_kg",
+      "build_request"
+    ],
+    "target": "contracts/rgcn.py"
+  },
+  {
+    "source": "isolated_experiments/phase4c_wordnet18rr_p2_wf_adaptation_seed42/src/run_wf_probe.py",
+    "sha256": "50bc130c0441bfb38c1c09e3f2b9b6a312a9bce350ea23ef6b12f2cab27f477c",
+    "symbols": [
+      "unique_triple_positions",
+      "select_positions",
+      "build_static",
+      "build_data",
+      "build_assets"
+    ],
+    "target": "contracts/rgcn.py"
+  },
+  {
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/src/run_dblp_seed42.py",
+    "sha256": "314ef9315570e7a511fa9acee689e79175b09799bcbdc6a39d86433f7fff91da",
+    "target": "configs/pretraining/gcn_cora_seed13.json"
+  },
+  {
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/src/run_dblp_seed42.py",
+    "sha256": "314ef9315570e7a511fa9acee689e79175b09799bcbdc6a39d86433f7fff91da",
+    "target": "configs/pretraining/gcn_cora_seed21.json"
+  },
+  {
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/src/run_dblp_seed42.py",
+    "sha256": "314ef9315570e7a511fa9acee689e79175b09799bcbdc6a39d86433f7fff91da",
+    "target": "configs/pretraining/gcn_cora_seed42.json"
+  },
+  {
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/src/run_dblp_seed42.py",
+    "sha256": "314ef9315570e7a511fa9acee689e79175b09799bcbdc6a39d86433f7fff91da",
+    "target": "configs/pretraining/gcn_cora_seed87.json"
+  },
+  {
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/src/run_dblp_seed42.py",
+    "sha256": "314ef9315570e7a511fa9acee689e79175b09799bcbdc6a39d86433f7fff91da",
+    "target": "configs/pretraining/gcn_cora_seed100.json"
+  },
+  {
+    "source": "isolated_experiments/phase3b_gat_original_training/configs/formal/Cora_seed13.yaml",
+    "sha256": "710a0f922a7eae70608d6a42804a72683adc7e5b3bd07738b19d295bf63e0f32",
+    "target": "configs/pretraining/gat_cora_seed13.json"
+  },
+  {
+    "source": "isolated_experiments/phase3b_gat_original_training/configs/formal/Cora_seed21.yaml",
+    "sha256": "714a8838c753dc1251ec7fdf4ee73fc3286bf56411de3536e3b198c21e21ae1d",
+    "target": "configs/pretraining/gat_cora_seed21.json"
+  },
+  {
+    "source": "isolated_experiments/phase3b_gat_original_training/configs/formal/Cora_seed42.yaml",
+    "sha256": "4b135f76e0a8d656900a58a87794079623ed657901dbc82bbb58f23dd24ac0e8",
+    "target": "configs/pretraining/gat_cora_seed42.json"
+  },
+  {
+    "source": "isolated_experiments/phase3b_gat_original_training/configs/formal/Cora_seed87.yaml",
+    "sha256": "2a80756987991349b2ba81395a793d17681b9df224e1c7e32e15500c3eb6f73d",
+    "target": "configs/pretraining/gat_cora_seed87.json"
+  },
+  {
+    "source": "isolated_experiments/phase3b_gat_original_training/configs/formal/Cora_seed100.yaml",
+    "sha256": "647c2fa7e12f11cd5bd305ba4469dc6c9b9ac480932c635964e137a325db4e6a",
+    "target": "configs/pretraining/gat_cora_seed100.json"
+  },
+  {
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/src/run_dblp_seed42.py",
+    "sha256": "314ef9315570e7a511fa9acee689e79175b09799bcbdc6a39d86433f7fff91da",
+    "target": "configs/pretraining/gcn_dblp_seed13.json"
+  },
+  {
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/src/run_dblp_seed42.py",
+    "sha256": "314ef9315570e7a511fa9acee689e79175b09799bcbdc6a39d86433f7fff91da",
+    "target": "configs/pretraining/gcn_dblp_seed21.json"
+  },
+  {
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/src/run_dblp_seed42.py",
+    "sha256": "314ef9315570e7a511fa9acee689e79175b09799bcbdc6a39d86433f7fff91da",
+    "target": "configs/pretraining/gcn_dblp_seed42.json"
+  },
+  {
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/src/run_dblp_seed42.py",
+    "sha256": "314ef9315570e7a511fa9acee689e79175b09799bcbdc6a39d86433f7fff91da",
+    "target": "configs/pretraining/gcn_dblp_seed87.json"
+  },
+  {
+    "source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/src/run_dblp_seed42.py",
+    "sha256": "314ef9315570e7a511fa9acee689e79175b09799bcbdc6a39d86433f7fff91da",
+    "target": "configs/pretraining/gcn_dblp_seed100.json"
+  },
+  {
+    "source": "isolated_experiments/phase3b_gat_original_training/configs/formal/DBLP_seed13.yaml",
+    "sha256": "c5b0cbf79687a864e0fb71eff969412c04d38625e16c34eca7549bfbb81fc820",
+    "target": "configs/pretraining/gat_dblp_seed13.json"
+  },
+  {
+    "source": "isolated_experiments/phase3b_gat_original_training/configs/formal/DBLP_seed21.yaml",
+    "sha256": "28c436a712edddd2a27edb5f0867574c422365b6c5b51b44e24b4435b412364c",
+    "target": "configs/pretraining/gat_dblp_seed21.json"
+  },
+  {
+    "source": "isolated_experiments/phase3b_gat_original_training/configs/formal/DBLP_seed42.yaml",
+    "sha256": "713321ff13fe97b96e3091b2c4b096ed4843d786edaf130e1425b160998203d9",
+    "target": "configs/pretraining/gat_dblp_seed42.json"
+  },
+  {
+    "source": "isolated_experiments/phase3b_gat_original_training/configs/formal/DBLP_seed87.yaml",
+    "sha256": "d01f24806fc590a84dfaa650180342bd3ecf1e91b2064d4b59eb47573c544c57",
+    "target": "configs/pretraining/gat_dblp_seed87.json"
+  },
+  {
+    "source": "isolated_experiments/phase3b_gat_original_training/configs/formal/DBLP_seed100.yaml",
+    "sha256": "e0731403ffcc0494a735f25c4112a7bb833c5f46113878c1f1406d37bf2e564f",
+    "target": "configs/pretraining/gat_dblp_seed100.json"
+  },
+  {
+    "source": "isolated_experiments/phase4c_wordnet18rr_original_seed42/configs/original_rgcn_wn18rr_seed42.json",
+    "sha256": "c9bfad1ebe132f3007b5eb01ad43dd54728d5e9c3c93beef81cd8e62968bffc1",
+    "target": "configs/pretraining/rgcn_wn18rr_seed13.json"
+  },
+  {
+    "source": "isolated_experiments/phase4c_wordnet18rr_original_seed42/configs/original_rgcn_wn18rr_seed42.json",
+    "sha256": "c9bfad1ebe132f3007b5eb01ad43dd54728d5e9c3c93beef81cd8e62968bffc1",
+    "target": "configs/pretraining/rgcn_wn18rr_seed21.json"
+  },
+  {
+    "source": "isolated_experiments/phase4c_wordnet18rr_original_seed42/configs/original_rgcn_wn18rr_seed42.json",
+    "sha256": "c9bfad1ebe132f3007b5eb01ad43dd54728d5e9c3c93beef81cd8e62968bffc1",
+    "target": "configs/pretraining/rgcn_wn18rr_seed42.json"
+  }
+]

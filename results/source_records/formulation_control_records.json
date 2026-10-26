@@ -1,0 +1,378 @@
+{
+  "mean_deltas": {
+    "B_minus_A": {
+      "DT_AUC": 0.059568487717002516,
+      "DT_AUP": 0.08167389281041737,
+      "Df_AUC": 0.07138696822583601,
+      "Df_AUP": 0.04582301976829384,
+      "F": 0.05860499399706498,
+      "U": 0.07062119026371005
+    },
+    "B_minus_C": {
+      "DT_AUC": -0.0018243620416458217,
+      "DT_AUP": -0.007508662282047718,
+      "Df_AUC": 0.17540426117642893,
+      "Df_AUP": 0.1970022621474865,
+      "F": 0.18620326166195778,
+      "U": -0.00466651216184677
+    }
+  },
+  "new_run_count": 5,
+  "sample_standard_deviation_ddof": 1,
+  "seeds": [
+    13,
+    21,
+    42,
+    87,
+    100
+  ],
+  "setting": "GCN / Cora / Ed_IN / 2.5%",
+  "status": "PASS",
+  "variants": {
+    "A": {
+      "aggregate": {
+        "DT_AUC": {
+          "mean": 0.8959546071546172,
+          "sample_std": 0.009224556504485235,
+          "values": [
+            0.8865688549881601,
+            0.8994820710910857,
+            0.8861854728295423,
+            0.9071067515935222,
+            0.9004298852707757
+          ]
+        },
+        "DT_AUP": {
+          "mean": 0.8677386199131242,
+          "sample_std": 0.012648536682220523,
+          "values": [
+            0.8529031877780207,
+            0.8744688080177634,
+            0.8571234205429382,
+            0.883680880963816,
+            0.8705168022630826
+          ]
+        },
+        "Df_AUC": {
+          "mean": 0.8531528007215231,
+          "sample_std": 0.006445791346952831,
+          "values": [
+            0.8496647986010162,
+            0.8482216721515278,
+            0.8478568962702289,
+            0.8619613459908059,
+            0.858059290594037
+          ]
+        },
+        "Df_AUP": {
+          "mean": 0.8799722755286288,
+          "sample_std": 0.004177500575909612,
+          "values": [
+            0.8797626421833994,
+            0.8754664945895959,
+            0.8766869697046813,
+            0.8857976069188235,
+            0.8821476642466435
+          ]
+        },
+        "F": {
+          "mean": 0.8665625381250759,
+          "sample_std": 0.005248025160493462
+        },
+        "U": {
+          "mean": 0.8818466135338706,
+          "sample_std": 0.010880388757227863
+        }
+      },
+      "label": "LRR + original deletion objective",
+      "per_seed": [
+        {
+          "DT_AUC": 0.8865688549881601,
+          "DT_AUP": 0.8529031877780207,
+          "Df_AUC": 0.8496647986010162,
+          "Df_AUP": 0.8797626421833994,
+          "F": 0.8647137203922077,
+          "U": 0.8697360213830904,
+          "seed": 13,
+          "selected_epoch": 699,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\unified_ablation_gcn_cora_edin2p5_20260829\\runs\\variant_a\\seed13\\matrix_summary.json"
+        },
+        {
+          "DT_AUC": 0.8994820710910857,
+          "DT_AUP": 0.8744688080177634,
+          "Df_AUC": 0.8482216721515278,
+          "Df_AUP": 0.8754664945895959,
+          "F": 0.8618440833705618,
+          "U": 0.8869754395544245,
+          "seed": 21,
+          "selected_epoch": 799,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\unified_ablation_gcn_cora_edin2p5_20260829\\runs\\variant_a\\seed21\\matrix_summary.json"
+        },
+        {
+          "DT_AUC": 0.8861854728295423,
+          "DT_AUP": 0.8571234205429382,
+          "Df_AUC": 0.8478568962702289,
+          "Df_AUP": 0.8766869697046813,
+          "F": 0.8622719329874551,
+          "U": 0.8716544466862403,
+          "seed": 42,
+          "selected_epoch": 599,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\unified_ablation_gcn_cora_edin2p5_20260829\\runs\\variant_a\\seed42\\matrix_summary.json"
+        },
+        {
+          "DT_AUC": 0.9071067515935222,
+          "DT_AUP": 0.883680880963816,
+          "Df_AUC": 0.8619613459908059,
+          "Df_AUP": 0.8857976069188235,
+          "F": 0.8738794764548147,
+          "U": 0.8953938162786691,
+          "seed": 87,
+          "selected_epoch": 799,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\unified_ablation_gcn_cora_edin2p5_20260829\\runs\\variant_a\\seed87\\matrix_summary.json"
+        },
+        {
+          "DT_AUC": 0.9004298852707757,
+          "DT_AUP": 0.8705168022630826,
+          "Df_AUC": 0.858059290594037,
+          "Df_AUP": 0.8821476642466435,
+          "F": 0.8701034774203402,
+          "U": 0.8854733437669291,
+          "seed": 100,
+          "selected_epoch": 2599,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\unified_ablation_gcn_cora_edin2p5_20260829\\runs\\variant_a\\seed100\\matrix_summary.json"
+        }
+      ],
+      "status": "RUN"
+    },
+    "B": {
+      "aggregate": {
+        "DT_AUC": {
+          "mean": 0.9555230948716197,
+          "sample_std": 0.0022846832060593033,
+          "values": [
+            0.9532044035543257,
+            0.9586357005267203,
+            0.9537937479569111,
+            0.9570831270976001,
+            0.9548984952225412
+          ]
+        },
+        "DT_AUP": {
+          "mean": 0.9494125127235415,
+          "sample_std": 0.00443071041012511,
+          "values": [
+            0.9436037300357484,
+            0.9547016671176813,
+            0.9475743150580014,
+            0.9528989163477553,
+            0.9482839350585214
+          ]
+        },
+        "Df_AUC": {
+          "mean": 0.9245397689473591,
+          "sample_std": 0.002504063796095625,
+          "values": [
+            0.9206970556819948,
+            0.9243527826244322,
+            0.9244192269788284,
+            0.9257057280243288,
+            0.9275240514272114
+          ]
+        },
+        "Df_AUP": {
+          "mean": 0.9257952952969226,
+          "sample_std": 0.0013749269005290748,
+          "values": [
+            0.9238704327163427,
+            0.9257423537259828,
+            0.9266475985510242,
+            0.9252413541608275,
+            0.9274747373304365
+          ]
+        },
+        "F": {
+          "mean": 0.9251675321221409,
+          "sample_std": 0.0018705424248155935
+        },
+        "U": {
+          "mean": 0.9524678037975807,
+          "sample_std": 0.0033346001020103156
+        }
+      },
+      "label": "LRR + suppression-preservation objective",
+      "per_seed": [
+        {
+          "DT_AUC": 0.9532044035543257,
+          "DT_AUP": 0.9436037300357484,
+          "Df_AUC": 0.9206970556819948,
+          "Df_AUP": 0.9238704327163427,
+          "F": 0.9222837441991687,
+          "U": 0.9484040667950371,
+          "seed": 13,
+          "selected_epoch": 2999,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\cora__gcn__ed_in__2p5__seed13\\matrix_summary.json"
+        },
+        {
+          "DT_AUC": 0.9586357005267203,
+          "DT_AUP": 0.9547016671176813,
+          "Df_AUC": 0.9243527826244322,
+          "Df_AUP": 0.9257423537259828,
+          "F": 0.9250475681752075,
+          "U": 0.9566686838222008,
+          "seed": 21,
+          "selected_epoch": 2999,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\cora__gcn__ed_in__2p5__seed21\\matrix_summary.json"
+        },
+        {
+          "DT_AUC": 0.9537937479569111,
+          "DT_AUP": 0.9475743150580014,
+          "Df_AUC": 0.9244192269788284,
+          "Df_AUP": 0.9266475985510242,
+          "F": 0.9255334127649263,
+          "U": 0.9506840315074563,
+          "seed": 42,
+          "selected_epoch": 2799,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\cora__gcn__ed_in__2p5__seed42\\matrix_summary.json"
+        },
+        {
+          "DT_AUC": 0.9570831270976001,
+          "DT_AUP": 0.9528989163477553,
+          "Df_AUC": 0.9257057280243288,
+          "Df_AUP": 0.9252413541608275,
+          "F": 0.9254735410925782,
+          "U": 0.9549910217226777,
+          "seed": 87,
+          "selected_epoch": 2999,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\cora__gcn__ed_in__2p5__seed87\\matrix_summary.json"
+        },
+        {
+          "DT_AUC": 0.9548984952225412,
+          "DT_AUP": 0.9482839350585214,
+          "Df_AUC": 0.9275240514272114,
+          "Df_AUP": 0.9274747373304365,
+          "F": 0.9274993943788239,
+          "U": 0.9515912151405312,
+          "seed": 100,
+          "selected_epoch": 2999,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\fullrank_main_matrix_20260826\\runs_homogeneous\\cora__gcn__ed_in__2p5__seed100\\matrix_summary.json"
+        }
+      ],
+      "status": "REUSED"
+    },
+    "C": {
+      "aggregate": {
+        "DT_AUC": {
+          "mean": 0.9573474569132655,
+          "sample_std": 0.0018914927845164711,
+          "values": [
+            0.9572395132051038,
+            0.9602311869004434,
+            0.9551332484223898,
+            0.9577460152372279,
+            0.9563873208011622
+          ]
+        },
+        "DT_AUP": {
+          "mean": 0.9569211750055893,
+          "sample_std": 0.0033283817911743123,
+          "values": [
+            0.9537094857368493,
+            0.9618462244185478,
+            0.954471056220873,
+            0.958606169874483,
+            0.9559729387771934
+          ]
+        },
+        "Df_AUC": {
+          "mean": 0.7491355077709302,
+          "sample_std": 0.009619376398256664,
+          "values": [
+            0.7360344941371327,
+            0.7463730607098387,
+            0.746084314248115,
+            0.75974827487514,
+            0.7574373948844245
+          ]
+        },
+        "Df_AUP": {
+          "mean": 0.7287930331494361,
+          "sample_std": 0.0066588068016542,
+          "values": [
+            0.7198381770994401,
+            0.7356321776251131,
+            0.7239046809019961,
+            0.7313023301140676,
+            0.7332878000065635
+          ]
+        },
+        "F": {
+          "mean": 0.7389642704601831,
+          "sample_std": 0.007508579070915951
+        },
+        "U": {
+          "mean": 0.9571343159594274,
+          "sample_std": 0.002521606961004741
+        }
+      },
+      "label": "GNNDelete operator + suppression-preservation objective",
+      "per_seed": [
+        {
+          "DT_AUC": 0.9572395132051038,
+          "DT_AUP": 0.9537094857368493,
+          "Df_AUC": 0.7360344941371327,
+          "Df_AUP": 0.7198381770994401,
+          "F": 0.7279363356182864,
+          "U": 0.9554744994709765,
+          "seed": 13,
+          "selected_epoch": 2999,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase1b5_formal_p2_multiseed_3000_cora\\reports\\formal_comparison.json"
+        },
+        {
+          "DT_AUC": 0.9602311869004434,
+          "DT_AUP": 0.9618462244185478,
+          "Df_AUC": 0.7463730607098387,
+          "Df_AUP": 0.7356321776251131,
+          "F": 0.7410026191674759,
+          "U": 0.9610387056594956,
+          "seed": 21,
+          "selected_epoch": 2999,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase1b5_formal_p2_multiseed_3000_cora\\reports\\formal_comparison.json"
+        },
+        {
+          "DT_AUC": 0.9551332484223898,
+          "DT_AUP": 0.954471056220873,
+          "Df_AUC": 0.746084314248115,
+          "Df_AUP": 0.7239046809019961,
+          "F": 0.7349944975750555,
+          "U": 0.9548021523216315,
+          "seed": 42,
+          "selected_epoch": 2999,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase1b5_formal_p2_multiseed_3000_cora\\reports\\formal_comparison.json"
+        },
+        {
+          "DT_AUC": 0.9577460152372279,
+          "DT_AUP": 0.958606169874483,
+          "Df_AUC": 0.75974827487514,
+          "Df_AUP": 0.7313023301140676,
+          "F": 0.7455253024946038,
+          "U": 0.9581760925558555,
+          "seed": 87,
+          "selected_epoch": 2999,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase1b5_formal_p2_multiseed_3000_cora\\reports\\formal_comparison.json"
+        },
+        {
+          "DT_AUC": 0.9563873208011622,
+          "DT_AUP": 0.9559729387771934,
+          "Df_AUC": 0.7574373948844245,
+          "Df_AUP": 0.7332878000065635,
+          "F": 0.745362597445494,
+          "U": 0.9561801297891778,
+          "seed": 100,
+          "selected_epoch": 2999,
+          "source": "D:\\LRR-GNNDELETE\\isolated_experiments\\phase1b5_formal_p2_multiseed_3000_cora\\reports\\formal_comparison.json"
+        }
+      ],
+      "status": "REUSED"
+    }
+  }
+}

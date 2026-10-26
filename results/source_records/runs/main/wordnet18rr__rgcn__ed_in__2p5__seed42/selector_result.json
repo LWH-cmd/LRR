@@ -1,0 +1,28 @@
+{
+  "DT0": 0.7285126400899671,
+  "epsilon": 0.01,
+  "feasible_checkpoint_count": 7,
+  "feasible_updates": [
+    0,
+    8,
+    16,
+    24,
+    40,
+    48,
+    56
+  ],
+  "latest_feasible_update": 56,
+  "selected_at_maximum_observed_budget": false,
+  "selected_update": 56,
+  "selected_validation": {
+    "DT_AUC": 0.719956457011701,
+    "DT_AUP": 0.7428751126496845,
+    "Df_AUC": 0.9078656210579966,
+    "Df_AUP": 0.9063595589783701
+  },
+  "selector": "UPDATE0_RELATIVE_UTILITY_CONSTRAINED_SELECTOR",
+  "test_used_for_selection": false,
+  "threshold": 0.7185126400899671,
+  "tie_break": "earlier checkpoint",
+  "update0_included_as_candidate": true
+}

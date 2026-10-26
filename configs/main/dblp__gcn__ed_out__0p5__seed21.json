@@ -1,0 +1,23 @@
+{
+  "dataset": "DBLP",
+  "backbone": "GCN",
+  "deletion_mode": "Ed_OUT",
+  "deletion_ratio": "0.5",
+  "seed": 21,
+  "sampling_identity": {
+    "dataset": "DBLP",
+    "backbone": "gcn",
+    "deletion_mode": "out",
+    "deletion_ratio": "0.5",
+    "run_seed": 21
+  },
+  "device": "cuda",
+  "bundle_path": "../../data/bundles/dblp__gcn__ed_out__0p5__seed21.pt",
+  "output_path": "../../outputs/dblp__gcn__ed_out__0p5__seed21.pt",
+  "updates": 3000,
+  "validation_interval": 100,
+  "lr": 0.0003,
+  "weight_decay": 0.0,
+  "evaluate_test": true,
+  "source_cell_id": "dblp__gcn__ed_out__0p5__seed21"
+}

@@ -1,0 +1,968 @@
+[
+  {
+    "cell_id": "cora__gat__ed_in__0p5__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_13.pt",
+    "checkpoint_sha256": "1da3e876d3dd7bc94f1a7ec4ca2e9146008b6baa47b30c254b3512c9a5725d0a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__0p5__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_21.pt",
+    "checkpoint_sha256": "79891b33a0ebd43fcdbaa51dc521d74279d381ea43773d05785bc184ba8a1df0",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__0p5__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_42.pt",
+    "checkpoint_sha256": "ca57abc8c67bc48961229afef07cec90e8959fe37bcfdc9445fa43c0308e31b4",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__0p5__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_87.pt",
+    "checkpoint_sha256": "f59dc740965c1d8bf726a61efe96fae9605eeb5505a4ae69bfa7d976a21a37f9",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__0p5__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_100.pt",
+    "checkpoint_sha256": "a85fe06ebbbd9039fdfad76ac96ff81427f8f18cd07fb002a56418504045fc71",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_0p5__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__2p5__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_13.pt",
+    "checkpoint_sha256": "1da3e876d3dd7bc94f1a7ec4ca2e9146008b6baa47b30c254b3512c9a5725d0a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__2p5__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_21.pt",
+    "checkpoint_sha256": "79891b33a0ebd43fcdbaa51dc521d74279d381ea43773d05785bc184ba8a1df0",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__2p5__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_42.pt",
+    "checkpoint_sha256": "ca57abc8c67bc48961229afef07cec90e8959fe37bcfdc9445fa43c0308e31b4",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__2p5__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_87.pt",
+    "checkpoint_sha256": "f59dc740965c1d8bf726a61efe96fae9605eeb5505a4ae69bfa7d976a21a37f9",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__2p5__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_100.pt",
+    "checkpoint_sha256": "a85fe06ebbbd9039fdfad76ac96ff81427f8f18cd07fb002a56418504045fc71",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_2p5__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__5p0__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_13.pt",
+    "checkpoint_sha256": "1da3e876d3dd7bc94f1a7ec4ca2e9146008b6baa47b30c254b3512c9a5725d0a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__5p0__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_21.pt",
+    "checkpoint_sha256": "79891b33a0ebd43fcdbaa51dc521d74279d381ea43773d05785bc184ba8a1df0",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__5p0__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_42.pt",
+    "checkpoint_sha256": "ca57abc8c67bc48961229afef07cec90e8959fe37bcfdc9445fa43c0308e31b4",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__5p0__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_87.pt",
+    "checkpoint_sha256": "f59dc740965c1d8bf726a61efe96fae9605eeb5505a4ae69bfa7d976a21a37f9",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_in__5p0__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_100.pt",
+    "checkpoint_sha256": "a85fe06ebbbd9039fdfad76ac96ff81427f8f18cd07fb002a56418504045fc71",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__in_5p0__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__0p5__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_13.pt",
+    "checkpoint_sha256": "1da3e876d3dd7bc94f1a7ec4ca2e9146008b6baa47b30c254b3512c9a5725d0a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__0p5__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_21.pt",
+    "checkpoint_sha256": "79891b33a0ebd43fcdbaa51dc521d74279d381ea43773d05785bc184ba8a1df0",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__0p5__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_42.pt",
+    "checkpoint_sha256": "ca57abc8c67bc48961229afef07cec90e8959fe37bcfdc9445fa43c0308e31b4",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__0p5__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_87.pt",
+    "checkpoint_sha256": "f59dc740965c1d8bf726a61efe96fae9605eeb5505a4ae69bfa7d976a21a37f9",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__0p5__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_100.pt",
+    "checkpoint_sha256": "a85fe06ebbbd9039fdfad76ac96ff81427f8f18cd07fb002a56418504045fc71",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_0p5__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__2p5__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_13.pt",
+    "checkpoint_sha256": "1da3e876d3dd7bc94f1a7ec4ca2e9146008b6baa47b30c254b3512c9a5725d0a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__2p5__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_21.pt",
+    "checkpoint_sha256": "79891b33a0ebd43fcdbaa51dc521d74279d381ea43773d05785bc184ba8a1df0",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__2p5__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_42.pt",
+    "checkpoint_sha256": "ca57abc8c67bc48961229afef07cec90e8959fe37bcfdc9445fa43c0308e31b4",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__2p5__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_87.pt",
+    "checkpoint_sha256": "f59dc740965c1d8bf726a61efe96fae9605eeb5505a4ae69bfa7d976a21a37f9",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__2p5__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_100.pt",
+    "checkpoint_sha256": "a85fe06ebbbd9039fdfad76ac96ff81427f8f18cd07fb002a56418504045fc71",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_2p5__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__5p0__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_13.pt",
+    "checkpoint_sha256": "1da3e876d3dd7bc94f1a7ec4ca2e9146008b6baa47b30c254b3512c9a5725d0a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed13.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__5p0__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_21.pt",
+    "checkpoint_sha256": "79891b33a0ebd43fcdbaa51dc521d74279d381ea43773d05785bc184ba8a1df0",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed21.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__5p0__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_42.pt",
+    "checkpoint_sha256": "ca57abc8c67bc48961229afef07cec90e8959fe37bcfdc9445fa43c0308e31b4",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed42.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__5p0__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_87.pt",
+    "checkpoint_sha256": "f59dc740965c1d8bf726a61efe96fae9605eeb5505a4ae69bfa7d976a21a37f9",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed87.pt"
+  },
+  {
+    "cell_id": "cora__gat__ed_out__5p0__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gat_seed_100.pt",
+    "checkpoint_sha256": "a85fe06ebbbd9039fdfad76ac96ff81427f8f18cd07fb002a56418504045fc71",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/cora__out_5p0__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__0p5__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_13.pt",
+    "checkpoint_sha256": "052b062cf9eadff38622ab7f6eb95af5c3a17f5c4922883898ddb68b5f62297a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__0p5__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_21.pt",
+    "checkpoint_sha256": "833f919c54779cd361be154695789b6fba0ff09d9b86063bbb6ce9b252d70095",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__0p5__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_42.pt",
+    "checkpoint_sha256": "dc5b00479a8c688f561963dcee873417c5a0597663c1a0d0ef149dca2e9e3ccf",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__0p5__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_87.pt",
+    "checkpoint_sha256": "dd19085e44b2f219d8d7b2c841f945394cb7b6d1027f5cbe0ee5a934dda28e25",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__0p5__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_100.pt",
+    "checkpoint_sha256": "ec1b44c4cba685f379e643126fe9d8cd9e534686c603584f6e6dcb80b4bb69c2",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_0p5__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__2p5__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_13.pt",
+    "checkpoint_sha256": "052b062cf9eadff38622ab7f6eb95af5c3a17f5c4922883898ddb68b5f62297a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__2p5__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_21.pt",
+    "checkpoint_sha256": "833f919c54779cd361be154695789b6fba0ff09d9b86063bbb6ce9b252d70095",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__2p5__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_42.pt",
+    "checkpoint_sha256": "dc5b00479a8c688f561963dcee873417c5a0597663c1a0d0ef149dca2e9e3ccf",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__2p5__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_87.pt",
+    "checkpoint_sha256": "dd19085e44b2f219d8d7b2c841f945394cb7b6d1027f5cbe0ee5a934dda28e25",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__2p5__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_100.pt",
+    "checkpoint_sha256": "ec1b44c4cba685f379e643126fe9d8cd9e534686c603584f6e6dcb80b4bb69c2",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_2p5__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__5p0__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_13.pt",
+    "checkpoint_sha256": "052b062cf9eadff38622ab7f6eb95af5c3a17f5c4922883898ddb68b5f62297a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__5p0__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_21.pt",
+    "checkpoint_sha256": "833f919c54779cd361be154695789b6fba0ff09d9b86063bbb6ce9b252d70095",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__5p0__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_42.pt",
+    "checkpoint_sha256": "dc5b00479a8c688f561963dcee873417c5a0597663c1a0d0ef149dca2e9e3ccf",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__5p0__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_87.pt",
+    "checkpoint_sha256": "dd19085e44b2f219d8d7b2c841f945394cb7b6d1027f5cbe0ee5a934dda28e25",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_in__5p0__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_100.pt",
+    "checkpoint_sha256": "ec1b44c4cba685f379e643126fe9d8cd9e534686c603584f6e6dcb80b4bb69c2",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__in_5p0__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__0p5__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_13.pt",
+    "checkpoint_sha256": "052b062cf9eadff38622ab7f6eb95af5c3a17f5c4922883898ddb68b5f62297a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__0p5__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_21.pt",
+    "checkpoint_sha256": "833f919c54779cd361be154695789b6fba0ff09d9b86063bbb6ce9b252d70095",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__0p5__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_42.pt",
+    "checkpoint_sha256": "dc5b00479a8c688f561963dcee873417c5a0597663c1a0d0ef149dca2e9e3ccf",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__0p5__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_87.pt",
+    "checkpoint_sha256": "dd19085e44b2f219d8d7b2c841f945394cb7b6d1027f5cbe0ee5a934dda28e25",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__0p5__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_100.pt",
+    "checkpoint_sha256": "ec1b44c4cba685f379e643126fe9d8cd9e534686c603584f6e6dcb80b4bb69c2",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_0p5__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__2p5__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_13.pt",
+    "checkpoint_sha256": "052b062cf9eadff38622ab7f6eb95af5c3a17f5c4922883898ddb68b5f62297a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__2p5__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_21.pt",
+    "checkpoint_sha256": "833f919c54779cd361be154695789b6fba0ff09d9b86063bbb6ce9b252d70095",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__2p5__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_42.pt",
+    "checkpoint_sha256": "dc5b00479a8c688f561963dcee873417c5a0597663c1a0d0ef149dca2e9e3ccf",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__2p5__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_87.pt",
+    "checkpoint_sha256": "dd19085e44b2f219d8d7b2c841f945394cb7b6d1027f5cbe0ee5a934dda28e25",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__2p5__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_100.pt",
+    "checkpoint_sha256": "ec1b44c4cba685f379e643126fe9d8cd9e534686c603584f6e6dcb80b4bb69c2",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_2p5__seed100.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__5p0__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_13.pt",
+    "checkpoint_sha256": "052b062cf9eadff38622ab7f6eb95af5c3a17f5c4922883898ddb68b5f62297a",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed13.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__5p0__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_21.pt",
+    "checkpoint_sha256": "833f919c54779cd361be154695789b6fba0ff09d9b86063bbb6ce9b252d70095",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed21.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__5p0__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_42.pt",
+    "checkpoint_sha256": "dc5b00479a8c688f561963dcee873417c5a0597663c1a0d0ef149dca2e9e3ccf",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed42.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__5p0__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_87.pt",
+    "checkpoint_sha256": "dd19085e44b2f219d8d7b2c841f945394cb7b6d1027f5cbe0ee5a934dda28e25",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed87.pt"
+  },
+  {
+    "cell_id": "dblp__gat__ed_out__5p0__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gat_seed_100.pt",
+    "checkpoint_sha256": "ec1b44c4cba685f379e643126fe9d8cd9e534686c603584f6e6dcb80b4bb69c2",
+    "source": "isolated_experiments/phase3d_gat_core_formal_matrix/src/runner.py",
+    "request_source": "isolated_experiments/phase3d_gat_core_formal_matrix/assets/request_bundles/dblp__out_5p0__seed100.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__2p5__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_13.pt",
+    "checkpoint_sha256": "3685ba70d9257b10936bfdc233acb49e066ec47c625ffd0d4a8b3a0caac6959f",
+    "source": "isolated_experiments/phase2a_s6_formal_reporting_package_cora_dblp_edin25/provenance/source_snapshots/phase1b5_formal_runner.py",
+    "request_source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed13/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__2p5__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_21.pt",
+    "checkpoint_sha256": "5f0143a83b7ae9077588dba8753726a9456e9d657d26e9c362b7612730d6b153",
+    "source": "isolated_experiments/phase2a_s6_formal_reporting_package_cora_dblp_edin25/provenance/source_snapshots/phase1b5_formal_runner.py",
+    "request_source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed21/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__2p5__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_42.pt",
+    "checkpoint_sha256": "0b995836d5a4ca4a9ac05d6b4b2ef2293568cd169201a49af5dae9105bd5b5b6",
+    "source": "isolated_experiments/phase2a_s6_formal_reporting_package_cora_dblp_edin25/provenance/source_snapshots/phase1b5_formal_runner.py",
+    "request_source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed42/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__2p5__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_87.pt",
+    "checkpoint_sha256": "ac68477e92f228a59d7d319be16b9f238b38c16f0a9327562de16255230224ed",
+    "source": "isolated_experiments/phase2a_s6_formal_reporting_package_cora_dblp_edin25/provenance/source_snapshots/phase1b5_formal_runner.py",
+    "request_source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed87/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__2p5__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_100.pt",
+    "checkpoint_sha256": "8d9d75ed68fd7b07a7eee487f945024c1fa9ae6c78afbbf77408b1d0ea0bf508",
+    "source": "isolated_experiments/phase2a_s6_formal_reporting_package_cora_dblp_edin25/provenance/source_snapshots/phase1b5_formal_runner.py",
+    "request_source": "isolated_experiments/phase1b5_formal_p2_multiseed_3000_cora/seed100/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__2p5__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_13.pt",
+    "checkpoint_sha256": "377fa30c983a979458ae94987e6fd0f94ff7b18b746d2fadcb0b3e8ba79d3f3a",
+    "source": "isolated_experiments/phase2a_s6_formal_reporting_package_cora_dblp_edin25/provenance/source_snapshots/phase2a1_runner.py",
+    "request_source": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed13/df_request.pt"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__2p5__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_21.pt",
+    "checkpoint_sha256": "723b78588fbe89700c6f2ec8bc173e18cec5fbca63d63ad1f68aee19db4f34a9",
+    "source": "isolated_experiments/phase2a_s6_formal_reporting_package_cora_dblp_edin25/provenance/source_snapshots/phase2a1_runner.py",
+    "request_source": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed21/df_request.pt"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__2p5__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_42.pt",
+    "checkpoint_sha256": "825d6aacc431f3ce5058ef5b564da0a9283a30f27e445b6dee2a46b799508dbd",
+    "source": "isolated_experiments/phase2a_s6_formal_reporting_package_cora_dblp_edin25/provenance/source_snapshots/phase2a1_runner.py",
+    "request_source": "isolated_experiments/phase2a0_dblp_prepare_and_seed42/artifacts/df_request/df_request.pt"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__2p5__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_87.pt",
+    "checkpoint_sha256": "3ea888e5659c27d5523eb2e5644cef44bbe409755d82202e24795657e12aa926",
+    "source": "isolated_experiments/phase2a_s6_formal_reporting_package_cora_dblp_edin25/provenance/source_snapshots/phase2a1_runner.py",
+    "request_source": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed87/df_request.pt"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__2p5__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_100.pt",
+    "checkpoint_sha256": "ebf599af4ea2b6bb14ee371b8b959db4cae36d01afdb668745e04ca363ced58b",
+    "source": "isolated_experiments/phase2a_s6_formal_reporting_package_cora_dblp_edin25/provenance/source_snapshots/phase2a1_runner.py",
+    "request_source": "isolated_experiments/phase2a1_dblp_gcn_edin_2.5_multiseed/artifacts/seed100/df_request.pt"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__0p5__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_13.pt",
+    "checkpoint_sha256": "3685ba70d9257b10936bfdc233acb49e066ec47c625ffd0d4a8b3a0caac6959f",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_0p5_seed13.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__0p5__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_21.pt",
+    "checkpoint_sha256": "5f0143a83b7ae9077588dba8753726a9456e9d657d26e9c362b7612730d6b153",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_0p5_seed21.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__0p5__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_42.pt",
+    "checkpoint_sha256": "0b995836d5a4ca4a9ac05d6b4b2ef2293568cd169201a49af5dae9105bd5b5b6",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_0p5_seed42.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__0p5__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_87.pt",
+    "checkpoint_sha256": "ac68477e92f228a59d7d319be16b9f238b38c16f0a9327562de16255230224ed",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_0p5_seed87.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__0p5__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_100.pt",
+    "checkpoint_sha256": "8d9d75ed68fd7b07a7eee487f945024c1fa9ae6c78afbbf77408b1d0ea0bf508",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_0p5_seed100.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__5p0__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_13.pt",
+    "checkpoint_sha256": "3685ba70d9257b10936bfdc233acb49e066ec47c625ffd0d4a8b3a0caac6959f",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_5p0_seed13.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__5p0__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_21.pt",
+    "checkpoint_sha256": "5f0143a83b7ae9077588dba8753726a9456e9d657d26e9c362b7612730d6b153",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_5p0_seed21.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__5p0__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_42.pt",
+    "checkpoint_sha256": "0b995836d5a4ca4a9ac05d6b4b2ef2293568cd169201a49af5dae9105bd5b5b6",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_5p0_seed42.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__5p0__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_87.pt",
+    "checkpoint_sha256": "ac68477e92f228a59d7d319be16b9f238b38c16f0a9327562de16255230224ed",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_5p0_seed87.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_in__5p0__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_100.pt",
+    "checkpoint_sha256": "8d9d75ed68fd7b07a7eee487f945024c1fa9ae6c78afbbf77408b1d0ea0bf508",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/cora_ed_in_5p0_seed100.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__0p5__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_13.pt",
+    "checkpoint_sha256": "377fa30c983a979458ae94987e6fd0f94ff7b18b746d2fadcb0b3e8ba79d3f3a",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_0p5_seed13.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__0p5__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_21.pt",
+    "checkpoint_sha256": "723b78588fbe89700c6f2ec8bc173e18cec5fbca63d63ad1f68aee19db4f34a9",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_0p5_seed21.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__0p5__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_42.pt",
+    "checkpoint_sha256": "825d6aacc431f3ce5058ef5b564da0a9283a30f27e445b6dee2a46b799508dbd",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_0p5_seed42.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__0p5__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_87.pt",
+    "checkpoint_sha256": "3ea888e5659c27d5523eb2e5644cef44bbe409755d82202e24795657e12aa926",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_0p5_seed87.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__0p5__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_100.pt",
+    "checkpoint_sha256": "ebf599af4ea2b6bb14ee371b8b959db4cae36d01afdb668745e04ca363ced58b",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_0p5_seed100.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__5p0__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_13.pt",
+    "checkpoint_sha256": "377fa30c983a979458ae94987e6fd0f94ff7b18b746d2fadcb0b3e8ba79d3f3a",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_5p0_seed13.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__5p0__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_21.pt",
+    "checkpoint_sha256": "723b78588fbe89700c6f2ec8bc173e18cec5fbca63d63ad1f68aee19db4f34a9",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_5p0_seed21.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__5p0__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_42.pt",
+    "checkpoint_sha256": "825d6aacc431f3ce5058ef5b564da0a9283a30f27e445b6dee2a46b799508dbd",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_5p0_seed42.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__5p0__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_87.pt",
+    "checkpoint_sha256": "3ea888e5659c27d5523eb2e5644cef44bbe409755d82202e24795657e12aa926",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_5p0_seed87.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_in__5p0__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_100.pt",
+    "checkpoint_sha256": "ebf599af4ea2b6bb14ee371b8b959db4cae36d01afdb668745e04ca363ced58b",
+    "source": "isolated_experiments/phase2e1_ed_in_ratio_robustness_formal/src/formal_runner.py",
+    "request_source": "isolated_experiments/phase2e0a_ratio_aware_formal_entry/configs/df_manifests/dblp_ed_in_5p0_seed100.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__0p5__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_13.pt",
+    "checkpoint_sha256": "3685ba70d9257b10936bfdc233acb49e066ec47c625ffd0d4a8b3a0caac6959f",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_0p5_seed13.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__0p5__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_21.pt",
+    "checkpoint_sha256": "5f0143a83b7ae9077588dba8753726a9456e9d657d26e9c362b7612730d6b153",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_0p5_seed21.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__0p5__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_42.pt",
+    "checkpoint_sha256": "0b995836d5a4ca4a9ac05d6b4b2ef2293568cd169201a49af5dae9105bd5b5b6",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_0p5_seed42.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__0p5__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_87.pt",
+    "checkpoint_sha256": "ac68477e92f228a59d7d319be16b9f238b38c16f0a9327562de16255230224ed",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_0p5_seed87.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__0p5__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_100.pt",
+    "checkpoint_sha256": "8d9d75ed68fd7b07a7eee487f945024c1fa9ae6c78afbbf77408b1d0ea0bf508",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_0p5_seed100.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__2p5__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_13.pt",
+    "checkpoint_sha256": "3685ba70d9257b10936bfdc233acb49e066ec47c625ffd0d4a8b3a0caac6959f",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_2p5_seed13.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__2p5__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_21.pt",
+    "checkpoint_sha256": "5f0143a83b7ae9077588dba8753726a9456e9d657d26e9c362b7612730d6b153",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_2p5_seed21.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__2p5__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_42.pt",
+    "checkpoint_sha256": "0b995836d5a4ca4a9ac05d6b4b2ef2293568cd169201a49af5dae9105bd5b5b6",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_2p5_seed42.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__2p5__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_87.pt",
+    "checkpoint_sha256": "ac68477e92f228a59d7d319be16b9f238b38c16f0a9327562de16255230224ed",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_2p5_seed87.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__2p5__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_100.pt",
+    "checkpoint_sha256": "8d9d75ed68fd7b07a7eee487f945024c1fa9ae6c78afbbf77408b1d0ea0bf508",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_2p5_seed100.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__5p0__seed13",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_13.pt",
+    "checkpoint_sha256": "3685ba70d9257b10936bfdc233acb49e066ec47c625ffd0d4a8b3a0caac6959f",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_5p0_seed13.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__5p0__seed21",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_21.pt",
+    "checkpoint_sha256": "5f0143a83b7ae9077588dba8753726a9456e9d657d26e9c362b7612730d6b153",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_5p0_seed21.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__5p0__seed42",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_42.pt",
+    "checkpoint_sha256": "0b995836d5a4ca4a9ac05d6b4b2ef2293568cd169201a49af5dae9105bd5b5b6",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_5p0_seed42.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__5p0__seed87",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_87.pt",
+    "checkpoint_sha256": "ac68477e92f228a59d7d319be16b9f238b38c16f0a9327562de16255230224ed",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_5p0_seed87.json"
+  },
+  {
+    "cell_id": "cora__gcn__ed_out__5p0__seed100",
+    "checkpoint": "checkpoints/pretrained/cora_gcn_seed_100.pt",
+    "checkpoint_sha256": "8d9d75ed68fd7b07a7eee487f945024c1fa9ae6c78afbbf77408b1d0ea0bf508",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/cora_ed_out_5p0_seed100.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__0p5__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_13.pt",
+    "checkpoint_sha256": "377fa30c983a979458ae94987e6fd0f94ff7b18b746d2fadcb0b3e8ba79d3f3a",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_0p5_seed13.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__0p5__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_21.pt",
+    "checkpoint_sha256": "723b78588fbe89700c6f2ec8bc173e18cec5fbca63d63ad1f68aee19db4f34a9",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_0p5_seed21.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__0p5__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_42.pt",
+    "checkpoint_sha256": "825d6aacc431f3ce5058ef5b564da0a9283a30f27e445b6dee2a46b799508dbd",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_0p5_seed42.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__0p5__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_87.pt",
+    "checkpoint_sha256": "3ea888e5659c27d5523eb2e5644cef44bbe409755d82202e24795657e12aa926",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_0p5_seed87.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__0p5__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_100.pt",
+    "checkpoint_sha256": "ebf599af4ea2b6bb14ee371b8b959db4cae36d01afdb668745e04ca363ced58b",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_0p5_seed100.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__2p5__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_13.pt",
+    "checkpoint_sha256": "377fa30c983a979458ae94987e6fd0f94ff7b18b746d2fadcb0b3e8ba79d3f3a",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_2p5_seed13.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__2p5__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_21.pt",
+    "checkpoint_sha256": "723b78588fbe89700c6f2ec8bc173e18cec5fbca63d63ad1f68aee19db4f34a9",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_2p5_seed21.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__2p5__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_42.pt",
+    "checkpoint_sha256": "825d6aacc431f3ce5058ef5b564da0a9283a30f27e445b6dee2a46b799508dbd",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_2p5_seed42.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__2p5__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_87.pt",
+    "checkpoint_sha256": "3ea888e5659c27d5523eb2e5644cef44bbe409755d82202e24795657e12aa926",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_2p5_seed87.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__2p5__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_100.pt",
+    "checkpoint_sha256": "ebf599af4ea2b6bb14ee371b8b959db4cae36d01afdb668745e04ca363ced58b",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_2p5_seed100.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__5p0__seed13",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_13.pt",
+    "checkpoint_sha256": "377fa30c983a979458ae94987e6fd0f94ff7b18b746d2fadcb0b3e8ba79d3f3a",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_5p0_seed13.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__5p0__seed21",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_21.pt",
+    "checkpoint_sha256": "723b78588fbe89700c6f2ec8bc173e18cec5fbca63d63ad1f68aee19db4f34a9",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_5p0_seed21.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__5p0__seed42",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_42.pt",
+    "checkpoint_sha256": "825d6aacc431f3ce5058ef5b564da0a9283a30f27e445b6dee2a46b799508dbd",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_5p0_seed42.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__5p0__seed87",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_87.pt",
+    "checkpoint_sha256": "3ea888e5659c27d5523eb2e5644cef44bbe409755d82202e24795657e12aa926",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_5p0_seed87.json"
+  },
+  {
+    "cell_id": "dblp__gcn__ed_out__5p0__seed100",
+    "checkpoint": "checkpoints/pretrained/dblp_gcn_seed_100.pt",
+    "checkpoint_sha256": "ebf599af4ea2b6bb14ee371b8b959db4cae36d01afdb668745e04ca363ced58b",
+    "source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/src/edout_ratio_runner.py",
+    "request_source": "isolated_experiments/phase2f_complete_edout_mainline_baselines/configs/df_manifests/dblp_ed_out_5p0_seed100.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_in__2p5__seed42",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_42.pt",
+    "checkpoint_sha256": "58fea84f277fdfa125b0f629cec08fe1691e6dd47c679a73bd5e2b5453a1984d",
+    "source": "isolated_experiments/phase4c_wordnet18rr_p2_formal_seed42/src/run_formal_p2_crossed.py",
+    "request_source": "isolated_experiments/phase4c_wordnet18rr_p2_formal_seed42/src/run_formal_p2_crossed.py"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_in__0p5__seed13",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_13.pt",
+    "checkpoint_sha256": "e4a96fded74910888eda9422a4bb4903df617a17c42338452a42bd40414303e0",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_in__0p5__seed21",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_21.pt",
+    "checkpoint_sha256": "469923e42bb7213ebbe52b2975cdf6272c2dfa4db8bf838418e2a73455cb6ea1",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_in__0p5__seed42",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_42.pt",
+    "checkpoint_sha256": "58fea84f277fdfa125b0f629cec08fe1691e6dd47c679a73bd5e2b5453a1984d",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_in__2p5__seed13",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_13.pt",
+    "checkpoint_sha256": "e4a96fded74910888eda9422a4bb4903df617a17c42338452a42bd40414303e0",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_in__2p5__seed21",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_21.pt",
+    "checkpoint_sha256": "469923e42bb7213ebbe52b2975cdf6272c2dfa4db8bf838418e2a73455cb6ea1",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_in__5p0__seed13",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_13.pt",
+    "checkpoint_sha256": "e4a96fded74910888eda9422a4bb4903df617a17c42338452a42bd40414303e0",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_in__5p0__seed21",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_21.pt",
+    "checkpoint_sha256": "469923e42bb7213ebbe52b2975cdf6272c2dfa4db8bf838418e2a73455cb6ea1",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_in__5p0__seed42",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_42.pt",
+    "checkpoint_sha256": "58fea84f277fdfa125b0f629cec08fe1691e6dd47c679a73bd5e2b5453a1984d",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_out__0p5__seed13",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_13.pt",
+    "checkpoint_sha256": "e4a96fded74910888eda9422a4bb4903df617a17c42338452a42bd40414303e0",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_out__0p5__seed21",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_21.pt",
+    "checkpoint_sha256": "469923e42bb7213ebbe52b2975cdf6272c2dfa4db8bf838418e2a73455cb6ea1",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_out__0p5__seed42",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_42.pt",
+    "checkpoint_sha256": "58fea84f277fdfa125b0f629cec08fe1691e6dd47c679a73bd5e2b5453a1984d",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_out__2p5__seed13",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_13.pt",
+    "checkpoint_sha256": "e4a96fded74910888eda9422a4bb4903df617a17c42338452a42bd40414303e0",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_out__2p5__seed21",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_21.pt",
+    "checkpoint_sha256": "469923e42bb7213ebbe52b2975cdf6272c2dfa4db8bf838418e2a73455cb6ea1",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_out__2p5__seed42",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_42.pt",
+    "checkpoint_sha256": "58fea84f277fdfa125b0f629cec08fe1691e6dd47c679a73bd5e2b5453a1984d",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_out__5p0__seed13",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_13.pt",
+    "checkpoint_sha256": "e4a96fded74910888eda9422a4bb4903df617a17c42338452a42bd40414303e0",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_out__5p0__seed21",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_21.pt",
+    "checkpoint_sha256": "469923e42bb7213ebbe52b2975cdf6272c2dfa4db8bf838418e2a73455cb6ea1",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  },
+  {
+    "cell_id": "wordnet18rr__rgcn__ed_out__5p0__seed42",
+    "checkpoint": "checkpoints/pretrained/wordnet18rr_rgcn_seed_42.pt",
+    "checkpoint_sha256": "58fea84f277fdfa125b0f629cec08fe1691e6dd47c679a73bd5e2b5453a1984d",
+    "source": "isolated_experiments/phase4c_wordnet18rr_paper_main_seed21/src/run_paper_main_seed21.py",
+    "request_source": "isolated_experiments/fullrank_main_matrix_20260826/rgcn_selector_v2_provenance_probe.json"
+  }
+]

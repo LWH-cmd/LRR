@@ -1,0 +1,12 @@
+{
+  "dataset": "Cora",
+  "backbone": "gcn",
+  "seed": 21,
+  "epochs": 2000,
+  "validation_interval": 500,
+  "lr": 0.001,
+  "weight_decay": 0.0,
+  "selector": "max_validation_dt_auc",
+  "data_path": "data/processed/Cora/seed21.pt",
+  "output_path": "outputs/pretrain/gcn_cora_seed21.pt"
+}

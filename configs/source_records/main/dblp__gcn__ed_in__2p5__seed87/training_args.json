@@ -1,0 +1,15 @@
+{
+  "arm": "LRR-P2",
+  "dataset": "CitationFull / DBLP",
+  "device": "cuda:0",
+  "epochs": 3000,
+  "existing_checkpoint_loaded": false,
+  "learning_rate": 0.0003,
+  "optimizer": "torch.optim.Adam",
+  "phase": "Phase 2A-1",
+  "resume": false,
+  "seed": 87,
+  "start_epoch": 0,
+  "validation_frequency": 100,
+  "weight_decay": 0.0
+}

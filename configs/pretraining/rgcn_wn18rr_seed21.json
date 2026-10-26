@@ -1,0 +1,41 @@
+{
+  "contract_id": "PHASE4C-ORIGINAL-RGCN-WN18RR-SEED42-v1",
+  "dataset": "WN18RR",
+  "raw_path": "data/WordNet18RR/raw",
+  "processed_path": "data/WordNet18RR/processed/data.pt",
+  "architecture": {
+    "in_dim": 128,
+    "hidden_dim": 128,
+    "out_dim": 64,
+    "scorer": "DistMult"
+  },
+  "optimizer": {
+    "name": "Adam",
+    "lr": 0.001,
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "eps": 1e-08,
+    "weight_decay": 0.0
+  },
+  "training": {
+    "epochs": 2000,
+    "valid_freq": 500,
+    "graphsaint_batch_size": 128,
+    "graphsaint_walk_length": 2,
+    "graphsaint_num_steps": 32,
+    "graphsaint_num_workers": 0,
+    "negative_sampler": "relation_wise_head_permutation_one_per_positive",
+    "loss": "BCEWithLogits_raw_logits_mean"
+  },
+  "selector": "max_validation_dt_aup",
+  "seed": 21,
+  "backbone": "rgcn",
+  "epochs": 2000,
+  "validation_interval": 500,
+  "lr": 0.001,
+  "weight_decay": 0.0,
+  "data_path": "data/processed/WN18RR/seed21.pt",
+  "output_path": "outputs/pretrain/rgcn_wn18rr_seed21.pt"
+}
